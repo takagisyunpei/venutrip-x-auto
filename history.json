@@ -1,3 +1,39 @@
 {
-  "items": []
+  "items": [
+    {
+      "date": "2026-09-29",
+      "category": "event",
+      "title": "長崎くんち",
+      "area": "長崎県長崎市",
+      "source_url": "https://nagasaki-kunchi.com/"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "destination",
+      "title": "飛騨高山・郡上八幡の秋旅",
+      "area": "岐阜県高山市・郡上市",
+      "source_url": "https://www.kankou-gifu.jp/article/detail_207.html"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "event",
+      "title": "第39回東京国際映画祭",
+      "area": "東京都千代田区・中央区・港区周辺",
+      "source_url": "https://2026.tiff-jp.net/ja/"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "food",
+      "title": "柿の葉寿司",
+      "area": "奈良県吉野・奈良市",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "destination",
+      "title": "島根・出雲から奥出雲へ",
+      "area": "島根県出雲市・奥出雲町",
+      "source_url": "https://www.kankou-shimane.com/pickup/75278.html"
+    }
+  ]
 }

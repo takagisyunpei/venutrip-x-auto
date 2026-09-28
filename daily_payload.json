@@ -1,4 +1,70 @@
 {
-  "date": "",
-  "items": []
+  "date": "2026-09-29",
+  "items": [
+    {
+      "slot": "upcoming_event_1",
+      "category": "event",
+      "title": "長崎くんち",
+      "area": "長崎県長崎市",
+      "date_info": "2026年10月7日（水）〜10月9日（金）",
+      "post_text": "異国情緒あふれる長崎の秋を彩る「長崎くんち」。諏訪神社を中心に、豪華な曳物や龍踊、力強い掛け声が街を包みます。2026年は10月7日〜9日に開催。#長崎くんち #長崎旅行",
+      "source_url": "https://nagasaki-kunchi.com/",
+      "source_title": "長崎くんち ＜長崎伝統芸能振興会＞",
+      "image_prompt": "長崎の石畳の坂道と異国風の街並みを背景に、華やかな奉納踊の雰囲気を描く上品な旅行雑誌風イラスト。朱色と金色を基調にした秋の情景、人物はシルエット表現、文字・ロゴなし",
+      "image_path": "generated_media/2026-09-29/upcoming_event_1.png",
+      "generated_date": "2026-09-29"
+    },
+    {
+      "slot": "destination_1",
+      "category": "destination",
+      "title": "飛騨高山・郡上八幡の秋旅",
+      "area": "岐阜県高山市・郡上市",
+      "date_info": "2026年9月〜11月",
+      "post_text": "山々が色づく岐阜の秋は、古い町並みを歩く旅にぴったり。飛騨高山の朝市や郡上八幡の城下町を巡り、栗きんとんなど季節の甘味も楽しめます。#岐阜旅行 #秋旅",
+      "source_url": "https://www.kankou-gifu.jp/article/detail_207.html",
+      "source_title": "2026年 岐阜の秋旅！観光ガイド（9月〜11月編）｜岐阜の旅ガイド",
+      "image_prompt": "紅葉に包まれた飛騨高山の古い町並みと郡上八幡城を一枚に収めた上品な旅行雑誌風イラスト。澄んだ秋空、木造家屋、温かな茶色と朱色の配色、文字・ロゴなし",
+      "image_path": "generated_media/2026-09-29/destination_1.png",
+      "generated_date": "2026-09-29"
+    },
+    {
+      "slot": "upcoming_event_2",
+      "category": "event",
+      "title": "第39回東京国際映画祭",
+      "area": "東京都千代田区・中央区・港区周辺",
+      "date_info": "2026年10月26日（月）〜11月4日（水）",
+      "post_text": "映画好きなら、秋の東京へ。日比谷・有楽町・丸の内・銀座を舞台に、国内外の話題作が集まる東京国際映画祭が開催されます。上映の合間は街歩きもぜひ。#東京国際映画祭 #東京旅",
+      "source_url": "https://2026.tiff-jp.net/ja/",
+      "source_title": "第39回東京国際映画祭（2026）",
+      "image_prompt": "秋の東京の日比谷・有楽町エリアを舞台に、映画館へ向かう人々と街の灯りを描く上品な旅行雑誌風イラスト。映画祭の高揚感、夕暮れの青と金色、文字・ロゴなし",
+      "image_path": "generated_media/2026-09-29/upcoming_event_2.png",
+      "generated_date": "2026-09-29"
+    },
+    {
+      "slot": "local_food_1",
+      "category": "food",
+      "title": "柿の葉寿司",
+      "area": "奈良県吉野・奈良市",
+      "date_info": "通年。秋は柿の葉が色づく季節",
+      "post_text": "奈良の山里で味わいたい柿の葉寿司。酢飯と塩締めの魚を柿の葉で包んだ、香りまで旅の記憶になる郷土の味です。紅葉散策のおともにも。#奈良グルメ #柿の葉寿司",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html",
+      "source_title": "うちの郷土料理「秋」｜農林水産省",
+      "image_prompt": "木の葉が色づく奈良の山里で、柿の葉寿司を木箱に美しく並べた上品な旅行雑誌風イラスト。柿の葉の緑と橙、素朴な竹や木の器、文字・ロゴなし",
+      "image_path": "generated_media/2026-09-29/local_food_1.png",
+      "generated_date": "2026-09-29"
+    },
+    {
+      "slot": "destination_2",
+      "category": "destination",
+      "title": "島根・出雲から奥出雲へ",
+      "area": "島根県出雲市・奥出雲町",
+      "date_info": "2026年10月〜11月",
+      "post_text": "神在月の島根を旅するなら、出雲大社から奥出雲へ。紅葉の山々、石見神楽、そして香り豊かな新そば。神話と食をゆっくり味わう秋の周遊旅です。#島根旅行 #出雲旅",
+      "source_url": "https://www.kankou-shimane.com/pickup/75278.html",
+      "source_title": "神々が集う、島根の秋2026！｜しまね観光ナビ",
+      "image_prompt": "秋の出雲大社の静かな境内から、紅葉の山あいにある奥出雲のそば処へ続く旅情を描く上品な旅行雑誌風イラスト。神聖で落ち着いた空気、深い緑と紅葉色、文字・ロゴなし",
+      "image_path": "generated_media/2026-09-29/destination_2.png",
+      "generated_date": "2026-09-29"
+    }
+  ]
 }
