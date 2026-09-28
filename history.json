@@ -69,6 +69,41 @@
       "title": "箱根の紅葉と温泉",
       "area": "神奈川県箱根町",
       "source_url": "https://www.japan.travel/en/spot/1574/"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "event",
+      "title": "阿寒アイヌアートウィーク",
+      "area": "北海道釧路市・阿寒湖温泉",
+      "source_url": "https://www.visit-hokkaido.jp/event/detail_13028.html"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "destination",
+      "title": "大雪山旭岳の初紅葉",
+      "area": "北海道東川町・旭岳",
+      "source_url": "https://www.visit-hokkaido.jp/spot/detail_10173.html"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "event",
+      "title": "乙島祭り",
+      "area": "岡山県倉敷市玉島乙島・戸島神社",
+      "source_url": "https://www.okayama-kanko.jp/event/detail_12700.html"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "food",
+      "title": "はらこ飯",
+      "area": "宮城県亘理町・荒浜周辺",
+      "source_url": "https://www.maff.go.jp/j/keikaku/shokubunka/k_ryouri/search_menu/menu/harako_meshi_miyagi.html"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "destination",
+      "title": "高野山の紅葉と宿坊の朝",
+      "area": "和歌山県伊都郡高野町・高野山",
+      "source_url": "https://visitwakayama.jp/en/events/detail_41.html"
     }
   ]
 }
