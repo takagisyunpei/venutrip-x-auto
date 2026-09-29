@@ -1,95 +1,95 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "芋煮と地酒の会",
-      "area": "島根県津和野町・殿町通り鷺舞モニュメント前広場",
-      "date_info": "2026年10月18日（日）11:00〜15:30",
-      "post_text": "津和野の秋を味わうなら、郷土料理「芋煮」と地酒の会へ。殿町通りの風情ある町並みで、やさしい味わいの芋煮と津和野の地酒を楽しめます。秋の城下町歩きと合わせてどうぞ。#津和野 #島根旅行",
-      "source_url": "https://www.kankou-shimane.com/events/32087",
-      "source_title": "芋煮と地酒の会（津和野町）｜しまね観光ナビ",
-      "image_prompt": "島根県津和野町の殿町通りで開かれる秋の郷土料理イベントを、普通の旅行写真のように自然に描写。1枚目は城下町の通りとイベント会場の全景、2枚目は地元の人や観光客が芋煮と地酒を楽しむ現地の雰囲気、3枚目は湯気の立つ芋煮の器と地酒の detail。秋晴れ、自然な光、実写風、文字・ロゴなし",
+      "title": "西条まつり",
+      "area": "愛媛県西条市・伊曽乃神社周辺",
+      "date_info": "2026年10月10日〜11日、14日〜17日",
+      "post_text": "だんじり約150台が奉納される、愛媛・西条の秋祭り。なかでも16日の「川入り」は、加茂川の河川敷にだんじりが集結する圧巻の光景です。秋の夜、西条が熱気に包まれます。 #西条まつり #愛媛旅行",
+      "source_url": "https://www.iyokannet.jp/event/",
+      "source_title": "愛媛のイベントを探す｜いよ観ネット",
+      "image_prompt": "普通の旅行写真風、文字やロゴなし。愛媛県西条市の秋祭りを3カットで表現。1枚目は夕暮れの加茂川河川敷に多数のだんじりが集まる全景、2枚目は法被姿の人々と祭りの熱気が伝わる現地の雰囲気、3枚目はだんじりの彫刻や提灯の寄り。自然な光、実写風、観光客が撮ったような構図。",
       "image_paths": [
-        "generated_media/2026-09-29/upcoming_event_1_1.png",
-        "generated_media/2026-09-29/upcoming_event_1_2.png",
-        "generated_media/2026-09-29/upcoming_event_1_3.png"
+        "generated_media/2026-09-30/upcoming_event_1_1.png",
+        "generated_media/2026-09-30/upcoming_event_1_2.png",
+        "generated_media/2026-09-30/upcoming_event_1_3.png"
       ],
-      "image_path": "generated_media/2026-09-29/upcoming_event_1_1.png",
-      "generated_date": "2026-09-29"
+      "image_path": "generated_media/2026-09-30/upcoming_event_1_1.png",
+      "generated_date": "2026-09-30"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "八幡平の初秋トレッキング",
-      "area": "岩手県八幡平市・八幡平山頂遊歩道周辺",
-      "date_info": "草紅葉の見頃目安：2026年9月下旬〜10月上旬",
-      "post_text": "今行くなら、岩手・八幡平へ。山頂遊歩道ではひと足早く草紅葉が始まり、澄んだ空気のなかで秋の高原を歩けます。温泉と組み合わせて、季節の変わり目を感じる週末旅に。#八幡平 #岩手旅行",
-      "source_url": "https://iwatetabi.jp/flower/autumnleaves/",
-      "source_title": "紅葉色づき情報｜いわての旅",
-      "image_prompt": "岩手県八幡平の初秋の高原を、普通の旅行写真のように自然に描写。1枚目は草紅葉が広がる山頂遊歩道と遠くの山々の全景、2枚目はハイカーが木道を歩く現地の雰囲気、3枚目は赤茶色に色づいた草や高原の小さな植物の寄り。澄んだ秋空、自然光、実写風、文字・ロゴなし",
+      "title": "熊野古道と那智の滝の秋旅",
+      "area": "和歌山県田辺市・那智勝浦町周辺",
+      "date_info": "2026年10月〜11月の秋旅におすすめ",
+      "post_text": "秋の熊野古道は、歩きやすい気候と山々の紅葉が魅力。苔むした石畳を歩き、熊野那智大社から那智の滝へ。静かな森と朱色の社殿が、旅の気持ちをゆっくり整えてくれます。 #熊野古道 #和歌山旅行",
+      "source_url": "https://visitwakayama.jp/en/stories/detail_539.html",
+      "source_title": "All of the sights of Nachi Falls in one place｜Visit Wakayama",
+      "image_prompt": "普通の旅行写真風、文字やロゴなし。和歌山の熊野古道と那智の滝を3カットで表現。1枚目は秋色の山々と那智の滝、熊野那智大社を含む全景、2枚目は杉木立と石畳を歩く旅行者の自然な雰囲気、3枚目は苔むした石段、木漏れ日、朱色の鳥居や滝しぶきの寄り。実写風、落ち着いた秋の色合い。",
       "image_paths": [
-        "generated_media/2026-09-29/destination_1_1.png",
-        "generated_media/2026-09-29/destination_1_2.png",
-        "generated_media/2026-09-29/destination_1_3.png"
+        "generated_media/2026-09-30/destination_1_1.png",
+        "generated_media/2026-09-30/destination_1_2.png",
+        "generated_media/2026-09-30/destination_1_3.png"
       ],
-      "image_path": "generated_media/2026-09-29/destination_1_1.png",
-      "generated_date": "2026-09-29"
+      "image_path": "generated_media/2026-09-30/destination_1_1.png",
+      "generated_date": "2026-09-30"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "すみだストリートジャズフェスティバル2026",
-      "area": "東京都墨田区・錦糸公園、すみだトリフォニーホールほか約30会場",
-      "date_info": "2026年10月17日（土）〜10月18日（日）",
-      "post_text": "秋の東京で音楽と街歩きを楽しむなら、すみだストリートジャズフェスティバルへ。錦糸公園や周辺の約30会場で、街全体が音楽に包まれます。下町散策と一緒にどうぞ。#すみだ #東京イベント",
-      "source_url": "https://visit-sumida.jp/event/",
-      "source_title": "イベント情報｜すみだ観光サイト",
-      "image_prompt": "東京都墨田区のストリートジャズフェスティバルを、普通の旅行写真のように自然に描写。1枚目は錦糸公園と周辺会場を含む街の全景、2枚目は屋外ステージで演奏を聴く観客と下町の雰囲気、3枚目は楽器や演奏者の手元の寄り。秋の柔らかな光、臨場感のある実写風、文字・ロゴなし",
+      "title": "牛窓オリーブ収穫祭2026",
+      "area": "岡山県瀬戸内市・牛窓オリーブ園",
+      "date_info": "2026年10月24日（土）10:00〜15:00",
+      "post_text": "瀬戸内の風を感じながら、オリーブの収穫体験へ。牛窓オリーブ園では、収穫や搾油実演、オイルの試飲、大鍋パエリアなどを楽しめます。秋の岡山で、実りを五感で味わう一日を。 #牛窓 #岡山旅行",
+      "source_url": "https://www.okayama-kanko.jp/setouchi/event/detail_13134.html",
+      "source_title": "牛窓オリーブ収穫祭2026｜瀬戸内市公式観光サイト",
+      "image_prompt": "普通の旅行写真風、文字やロゴなし。岡山県瀬戸内市の牛窓オリーブ収穫祭を3カットで表現。1枚目は瀬戸内海を望むオリーブ園と青空の全景、2枚目は来場者が収穫体験や搾油実演を楽しむ現地の雰囲気、3枚目は摘みたてのオリーブの実、オリーブオイル、パエリアの寄り。自然な旅行写真、爽やかな秋の光。",
       "image_paths": [
-        "generated_media/2026-09-29/upcoming_event_2_1.png",
-        "generated_media/2026-09-29/upcoming_event_2_2.png",
-        "generated_media/2026-09-29/upcoming_event_2_3.png"
+        "generated_media/2026-09-30/upcoming_event_2_1.png",
+        "generated_media/2026-09-30/upcoming_event_2_2.png",
+        "generated_media/2026-09-30/upcoming_event_2_3.png"
       ],
-      "image_path": "generated_media/2026-09-29/upcoming_event_2_1.png",
-      "generated_date": "2026-09-29"
+      "image_path": "generated_media/2026-09-30/upcoming_event_2_1.png",
+      "generated_date": "2026-09-30"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "伊勢うどん",
-      "area": "三重県伊勢市・伊勢神宮周辺",
-      "date_info": "通年。秋の伊勢神宮参拝と合わせて味わいたい郷土料理",
-      "post_text": "伊勢を歩くなら、やわらかな太麺に濃厚なたれを絡める伊勢うどんを。見た目よりもまろやかで、歩き疲れた体にも嬉しい一杯です。伊勢神宮の参拝後に、土地の味をじっくりどうぞ。#伊勢うどん #伊勢旅行",
-      "source_url": "https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/pdf/94334601_01.pdf",
-      "source_title": "「100年フード」及び「食文化ミュージアム」認定一覧｜文化庁",
-      "image_prompt": "三重県伊勢市の伊勢うどんを、普通の旅行写真のように自然に描写。1枚目は伊勢の町並みと食事処の外観を含む旅情ある全景、2枚目は落ち着いた店内で伊勢うどんを味わう旅行者の雰囲気、3枚目は濃い色のたれと太い柔らかな麺を盛った丼の寄り。自然な料理写真、実写風、文字・ロゴなし",
+      "title": "福井のおろしそば",
+      "area": "福井県福井市・越前市・県内各地",
+      "date_info": "秋の新そばが出始める10月以降におすすめ",
+      "post_text": "福井で食べたいのは、香りの強いそばに大根おろしと冷たいだしを合わせた「おろしそば」。さっぱりした味わいで、旅の途中にもぴったりです。店ごとのだしや薬味の違いも楽しんで。 #福井グルメ #おろしそば",
+      "source_url": "https://wester.jr-odekake.net/assets/pdf/campaign/hokuriku_season/hokuriku_season_A4.pdf",
+      "source_title": "北陸の季節キャンペーン｜JR西日本",
+      "image_prompt": "普通の旅行写真風、文字やロゴなし。福井のおろしそばを3カットで表現。1枚目は福井の町並みや越前のそば店を感じる外観の全景、2枚目は木の温もりがある店内でそばを味わう現地の雰囲気、3枚目は冷たいそばに大根おろし、削り節、刻みねぎがのった器の寄り。食欲をそそる自然光、実写風。",
       "image_paths": [
-        "generated_media/2026-09-29/local_food_1_1.png",
-        "generated_media/2026-09-29/local_food_1_2.png",
-        "generated_media/2026-09-29/local_food_1_3.png"
+        "generated_media/2026-09-30/local_food_1_1.png",
+        "generated_media/2026-09-30/local_food_1_2.png",
+        "generated_media/2026-09-30/local_food_1_3.png"
       ],
-      "image_path": "generated_media/2026-09-29/local_food_1_1.png",
-      "generated_date": "2026-09-29"
+      "image_path": "generated_media/2026-09-30/local_food_1_1.png",
+      "generated_date": "2026-09-30"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "定山渓の五大紅葉",
-      "area": "北海道札幌市南区・定山渓温泉",
-      "date_info": "紅葉かっぱバス運行：2026年10月1日（木）〜10月21日（水）",
-      "post_text": "札幌から秋の景色を楽しむなら定山渓へ。渓谷を彩る紅葉を眺めながら温泉街を歩き、期間限定の紅葉かっぱバスで名所を巡るのもおすすめです。冷えた体は温泉でゆっくり温めて。#定山渓 #北海道旅行",
-      "source_url": "https://jozankei.jp/godaikoyo/page/2/",
-      "source_title": "バスで行く定山渓 五大紅葉｜定山渓観光協会公式サイト",
-      "image_prompt": "北海道札幌市の定山渓温泉を秋に訪れる旅行写真として自然に描写。1枚目は紅葉した渓谷と温泉街の全景、2枚目は紅葉かっぱバスや散策する旅行者がいる現地の雰囲気、3枚目は川沿いの紅葉、吊り橋、温泉街の建物などの寄り。鮮やかな秋色、自然光、実写風、文字・ロゴなし",
+      "title": "丹波篠山の黒枝豆と城下町の秋",
+      "area": "兵庫県丹波篠山市・篠山城下町周辺",
+      "date_info": "2026年10月上旬〜下旬の秋旅におすすめ",
+      "post_text": "10月の丹波篠山は、期間限定の黒枝豆を目当てに訪れたい季節。篠山城跡や古い商家が残る城下町を歩き、丹波栗や黒豆スイーツも味わえます。実りの秋を楽しむ小さな旅へ。 #丹波篠山 #兵庫旅行",
+      "source_url": "https://www.hyogo-tourism.jp/course/detail_74.html",
+      "source_title": "ブランド食材の宝庫・丹波へ味わい深い秋の旅｜兵庫観光ナビ",
+      "image_prompt": "普通の旅行写真風、文字やロゴなし。兵庫県丹波篠山市の秋旅を3カットで表現。1枚目は山に囲まれた城下町と秋色の田園風景の全景、2枚目は古い町並みを散策し農産物の店を訪れる旅行者の雰囲気、3枚目は丹波篠山黒枝豆、丹波栗、黒豆スイーツの寄り。温かみのある秋の自然光、実写風。",
       "image_paths": [
-        "generated_media/2026-09-29/destination_2_1.png",
-        "generated_media/2026-09-29/destination_2_2.png",
-        "generated_media/2026-09-29/destination_2_3.png"
+        "generated_media/2026-09-30/destination_2_1.png",
+        "generated_media/2026-09-30/destination_2_2.png",
+        "generated_media/2026-09-30/destination_2_3.png"
       ],
-      "image_path": "generated_media/2026-09-29/destination_2_1.png",
-      "generated_date": "2026-09-29"
+      "image_path": "generated_media/2026-09-30/destination_2_1.png",
+      "generated_date": "2026-09-30"
     }
   ]
 }
