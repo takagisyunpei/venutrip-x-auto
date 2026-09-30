@@ -1,95 +1,130 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "西条まつり",
-      "area": "愛媛県西条市・伊曽乃神社周辺",
-      "date_info": "2026年10月10日〜11日、14日〜17日",
-      "post_text": "だんじり約150台が奉納される、愛媛・西条の秋祭り。なかでも16日の「川入り」は、加茂川の河川敷にだんじりが集結する圧巻の光景です。秋の夜、西条が熱気に包まれます。 #西条まつり #愛媛旅行",
-      "source_url": "https://www.iyokannet.jp/event/",
-      "source_title": "愛媛のイベントを探す｜いよ観ネット",
-      "image_prompt": "普通の旅行写真風、文字やロゴなし。愛媛県西条市の秋祭りを3カットで表現。1枚目は夕暮れの加茂川河川敷に多数のだんじりが集まる全景、2枚目は法被姿の人々と祭りの熱気が伝わる現地の雰囲気、3枚目はだんじりの彫刻や提灯の寄り。自然な光、実写風、観光客が撮ったような構図。",
-      "image_paths": [
-        "generated_media/2026-09-30/upcoming_event_1_1.png",
-        "generated_media/2026-09-30/upcoming_event_1_2.png",
-        "generated_media/2026-09-30/upcoming_event_1_3.png"
+      "title": "第14回湯涌ぼんぼり祭り",
+      "area": "石川県金沢市・湯涌温泉街",
+      "date_info": "2026年10月17日（土）",
+      "post_text": "温泉街が幻想的な灯りに包まれる「湯涌ぼんぼり祭り」。10月17日は湯涌温泉で、本祭ならではの神事や夜の風景を楽しめます。秋の金沢旅に、ひと味違う温泉街の祭りを。 #石川県 #湯涌温泉",
+      "source_url": "https://yuwaku.gr.jp/bonbori/",
+      "source_title": "〈公式〉第14回湯涌ぼんぼり祭り",
+      "pexels_queries": [
+        "Yuwaku Onsen Kanazawa Ishikawa Japan lantern festival street"
       ],
-      "image_path": "generated_media/2026-09-30/upcoming_event_1_1.png",
-      "generated_date": "2026-09-30"
+      "image_prompt": "",
+      "image_paths": [
+        "generated_media/2026-10-01/upcoming_event_1_1.png"
+      ],
+      "image_sources": [
+        {
+          "type": "ai",
+          "path": "generated_media/2026-10-01/upcoming_event_1_1.png"
+        }
+      ],
+      "image_path": "generated_media/2026-10-01/upcoming_event_1_1.png",
+      "generated_date": "2026-10-01"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "熊野古道と那智の滝の秋旅",
-      "area": "和歌山県田辺市・那智勝浦町周辺",
-      "date_info": "2026年10月〜11月の秋旅におすすめ",
-      "post_text": "秋の熊野古道は、歩きやすい気候と山々の紅葉が魅力。苔むした石畳を歩き、熊野那智大社から那智の滝へ。静かな森と朱色の社殿が、旅の気持ちをゆっくり整えてくれます。 #熊野古道 #和歌山旅行",
-      "source_url": "https://visitwakayama.jp/en/stories/detail_539.html",
-      "source_title": "All of the sights of Nachi Falls in one place｜Visit Wakayama",
-      "image_prompt": "普通の旅行写真風、文字やロゴなし。和歌山の熊野古道と那智の滝を3カットで表現。1枚目は秋色の山々と那智の滝、熊野那智大社を含む全景、2枚目は杉木立と石畳を歩く旅行者の自然な雰囲気、3枚目は苔むした石段、木漏れ日、朱色の鳥居や滝しぶきの寄り。実写風、落ち着いた秋の色合い。",
-      "image_paths": [
-        "generated_media/2026-09-30/destination_1_1.png",
-        "generated_media/2026-09-30/destination_1_2.png",
-        "generated_media/2026-09-30/destination_1_3.png"
+      "title": "黒部峡谷・宇奈月温泉の紅葉旅",
+      "area": "富山県黒部市・宇奈月温泉",
+      "date_info": "紅葉の見頃：例年10月中旬〜11月下旬／2026年10月1日からトロッコ電車全線運行再開予定",
+      "post_text": "10月1日から全線運行が再開予定の黒部峡谷トロッコ電車へ。エメラルドグリーンの黒部川と山肌の紅葉を眺めながら、宇奈月温泉で深まる秋を味わう旅です。 #富山県 #黒部峡谷",
+      "source_url": "https://www.kurobe-unazuki.jp/event/2021/09/23/7039/",
+      "source_title": "黒部峡谷・宇奈月温泉の紅葉情報｜黒部めぐり",
+      "pexels_queries": [
+        "Kurobe Gorge Railway Unazuki Toyama Japan autumn foliage valley"
       ],
-      "image_path": "generated_media/2026-09-30/destination_1_1.png",
-      "generated_date": "2026-09-30"
+      "image_prompt": "",
+      "image_paths": [
+        "generated_media/2026-10-01/destination_1_1.png"
+      ],
+      "image_sources": [
+        {
+          "type": "ai",
+          "path": "generated_media/2026-10-01/destination_1_1.png"
+        }
+      ],
+      "image_path": "generated_media/2026-10-01/destination_1_1.png",
+      "generated_date": "2026-10-01"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "牛窓オリーブ収穫祭2026",
-      "area": "岡山県瀬戸内市・牛窓オリーブ園",
-      "date_info": "2026年10月24日（土）10:00〜15:00",
-      "post_text": "瀬戸内の風を感じながら、オリーブの収穫体験へ。牛窓オリーブ園では、収穫や搾油実演、オイルの試飲、大鍋パエリアなどを楽しめます。秋の岡山で、実りを五感で味わう一日を。 #牛窓 #岡山旅行",
-      "source_url": "https://www.okayama-kanko.jp/setouchi/event/detail_13134.html",
-      "source_title": "牛窓オリーブ収穫祭2026｜瀬戸内市公式観光サイト",
-      "image_prompt": "普通の旅行写真風、文字やロゴなし。岡山県瀬戸内市の牛窓オリーブ収穫祭を3カットで表現。1枚目は瀬戸内海を望むオリーブ園と青空の全景、2枚目は来場者が収穫体験や搾油実演を楽しむ現地の雰囲気、3枚目は摘みたてのオリーブの実、オリーブオイル、パエリアの寄り。自然な旅行写真、爽やかな秋の光。",
-      "image_paths": [
-        "generated_media/2026-09-30/upcoming_event_2_1.png",
-        "generated_media/2026-09-30/upcoming_event_2_2.png",
-        "generated_media/2026-09-30/upcoming_event_2_3.png"
+      "title": "2026佐賀インターナショナルバルーンフェスタ",
+      "area": "佐賀県佐賀市・嘉瀬川河川敷周辺",
+      "date_info": "2026年10月30日（金）〜11月3日（火・祝）",
+      "post_text": "佐賀平野の空を、色とりどりの熱気球が埋め尽くす5日間。2026年10月30日〜11月3日は、競技飛行やバルーンファンタジア、夜間係留を楽しめます。朝焼けの空を見に佐賀へ。 #佐賀県 #バルーンフェスタ",
+      "source_url": "https://www.sibf.jp/2026/schedule/",
+      "source_title": "大会スケジュール（2026）｜佐賀インターナショナルバルーンフェスタ",
+      "pexels_queries": [
+        "Saga International Balloon Fiesta Saga Japan hot air balloons sunrise"
       ],
-      "image_path": "generated_media/2026-09-30/upcoming_event_2_1.png",
-      "generated_date": "2026-09-30"
+      "image_prompt": "",
+      "image_paths": [
+        "generated_media/2026-10-01/upcoming_event_2_1.png"
+      ],
+      "image_sources": [
+        {
+          "type": "ai",
+          "path": "generated_media/2026-10-01/upcoming_event_2_1.png"
+        }
+      ],
+      "image_path": "generated_media/2026-10-01/upcoming_event_2_1.png",
+      "generated_date": "2026-10-01"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "福井のおろしそば",
-      "area": "福井県福井市・越前市・県内各地",
-      "date_info": "秋の新そばが出始める10月以降におすすめ",
-      "post_text": "福井で食べたいのは、香りの強いそばに大根おろしと冷たいだしを合わせた「おろしそば」。さっぱりした味わいで、旅の途中にもぴったりです。店ごとのだしや薬味の違いも楽しんで。 #福井グルメ #おろしそば",
-      "source_url": "https://wester.jr-odekake.net/assets/pdf/campaign/hokuriku_season/hokuriku_season_A4.pdf",
-      "source_title": "北陸の季節キャンペーン｜JR西日本",
-      "image_prompt": "普通の旅行写真風、文字やロゴなし。福井のおろしそばを3カットで表現。1枚目は福井の町並みや越前のそば店を感じる外観の全景、2枚目は木の温もりがある店内でそばを味わう現地の雰囲気、3枚目は冷たいそばに大根おろし、削り節、刻みねぎがのった器の寄り。食欲をそそる自然光、実写風。",
-      "image_paths": [
-        "generated_media/2026-09-30/local_food_1_1.png",
-        "generated_media/2026-09-30/local_food_1_2.png",
-        "generated_media/2026-09-30/local_food_1_3.png"
+      "title": "いものこ汁",
+      "area": "秋田県横手市・県南地域",
+      "date_info": "秋が食べ頃",
+      "post_text": "秋田県南の秋の味覚、いものこ汁。里芋を主役に、鶏肉やきのこ、せりなどを煮込む具だくさんの郷土料理です。収穫の季節に、湯気の立つ一杯で土地の秋を感じてみませんか。 #秋田県 #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_7_akita.html",
+      "source_title": "いものこ汁 秋田県｜うちの郷土料理：農林水産省",
+      "pexels_queries": [
+        "Imonoko jiru Yokote Akita Japan autumn local cuisine bowl"
       ],
-      "image_path": "generated_media/2026-09-30/local_food_1_1.png",
-      "generated_date": "2026-09-30"
+      "image_prompt": "",
+      "image_paths": [
+        "generated_media/2026-10-01/local_food_1_1.png"
+      ],
+      "image_sources": [
+        {
+          "type": "ai",
+          "path": "generated_media/2026-10-01/local_food_1_1.png"
+        }
+      ],
+      "image_path": "generated_media/2026-10-01/local_food_1_1.png",
+      "generated_date": "2026-10-01"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "丹波篠山の黒枝豆と城下町の秋",
-      "area": "兵庫県丹波篠山市・篠山城下町周辺",
-      "date_info": "2026年10月上旬〜下旬の秋旅におすすめ",
-      "post_text": "10月の丹波篠山は、期間限定の黒枝豆を目当てに訪れたい季節。篠山城跡や古い商家が残る城下町を歩き、丹波栗や黒豆スイーツも味わえます。実りの秋を楽しむ小さな旅へ。 #丹波篠山 #兵庫旅行",
-      "source_url": "https://www.hyogo-tourism.jp/course/detail_74.html",
-      "source_title": "ブランド食材の宝庫・丹波へ味わい深い秋の旅｜兵庫観光ナビ",
-      "image_prompt": "普通の旅行写真風、文字やロゴなし。兵庫県丹波篠山市の秋旅を3カットで表現。1枚目は山に囲まれた城下町と秋色の田園風景の全景、2枚目は古い町並みを散策し農産物の店を訪れる旅行者の雰囲気、3枚目は丹波篠山黒枝豆、丹波栗、黒豆スイーツの寄り。温かみのある秋の自然光、実写風。",
-      "image_paths": [
-        "generated_media/2026-09-30/destination_2_1.png",
-        "generated_media/2026-09-30/destination_2_2.png",
-        "generated_media/2026-09-30/destination_2_3.png"
+      "title": "鳴子峡の紅葉と温泉めぐり",
+      "area": "宮城県大崎市・鳴子温泉郷",
+      "date_info": "紅葉の見頃：例年10月中旬〜11月中旬",
+      "post_text": "深さ約100mの渓谷が赤や黄色に染まる鳴子峡へ。10月中旬から11月中旬は遊歩道を歩き、錦秋の絶景を眺めた後に鳴子温泉でひと休み。紅葉と湯けむりを一度に楽しむ秋旅です。 #宮城県 #鳴子峡",
+      "source_url": "https://www.city.osaki.miyagi.jp/shisei/soshikikarasagasu/narukosogoushisho/chiikishinkoka/5/3/3087.html",
+      "source_title": "鳴子峡｜大崎市公式ホームページ",
+      "pexels_queries": [
+        "Naruko Gorge Osaki Miyagi Japan autumn foliage bridge valley"
       ],
-      "image_path": "generated_media/2026-09-30/destination_2_1.png",
-      "generated_date": "2026-09-30"
+      "image_prompt": "",
+      "image_paths": [
+        "generated_media/2026-10-01/destination_2_1.png"
+      ],
+      "image_sources": [
+        {
+          "type": "ai",
+          "path": "generated_media/2026-10-01/destination_2_1.png"
+        }
+      ],
+      "image_path": "generated_media/2026-10-01/destination_2_1.png",
+      "generated_date": "2026-10-01"
     }
   ]
 }
