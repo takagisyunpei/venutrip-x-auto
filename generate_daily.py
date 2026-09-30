@@ -3,6 +3,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from openai import OpenAI
+import requests
 
 JST = ZoneInfo("Asia/Tokyo")
 ROOT = Path(__file__).resolve().parent
@@ -13,6 +14,7 @@ MEDIA_ROOT = ROOT / "generated_media"
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 TEXT_MODEL = os.getenv("OPENAI_TEXT_MODEL", "gpt-5.6-luna")
 IMAGE_MODEL = os.getenv("OPENAI_IMAGE_MODEL", "gpt-image-2.5-flare")
+PEXELS_API_KEY = os.getenv("PEXELS_API_KEY", "").strip()
 
 
 def load_history():
@@ -51,11 +53,9 @@ def research(today, recent):
 - 直近投稿と重複しない。
 - X本文は自然な日本語、200文字以内、ハッシュタグ最大2個。
 - イベント本文には開催日/期間を入れる。
-- image_promptは「普通の旅行写真っぽいAI画像」を作るための指示にする。
-- 画像は1投稿につき3枚作る前提。以下の3カットを作り分けやすい内容にすること。
-  1. 全景・風景
-  2. 現地の雰囲気
-  3. ディテール（食・街並み・名所の寄りなど）
+- pexels_queriesはPexelsで実写を探すための英語検索語を1件にする。固有名詞、都道府県・市区町村、Japanを含め、主題を具体化する。
+- image_promptはPexelsで適切な実写が見つからない場合だけ使うAI画像指示にする。
+- 画像は1投稿につき1枚。投稿内容がひと目で伝わる代表的な全景・料理・名所を選ぶこと。
 - 文字・ロゴなし。
 
 直近主題:
@@ -64,11 +64,11 @@ def research(today, recent):
 説明なしでJSONだけ返す:
 {{
  "items":[
-  {{"slot":"upcoming_event_1","category":"event","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","image_prompt":""}},
-  {{"slot":"destination_1","category":"destination","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","image_prompt":""}},
-  {{"slot":"upcoming_event_2","category":"event","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","image_prompt":""}},
-  {{"slot":"local_food_1","category":"food","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","image_prompt":""}},
-  {{"slot":"destination_2","category":"destination","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","image_prompt":""}}
+  {{"slot":"upcoming_event_1","category":"event","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","pexels_queries":["","",""],"image_prompt":""}},
+  {{"slot":"destination_1","category":"destination","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","pexels_queries":["","",""],"image_prompt":""}},
+  {{"slot":"upcoming_event_2","category":"event","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","pexels_queries":["","",""],"image_prompt":""}},
+  {{"slot":"local_food_1","category":"food","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","pexels_queries":["","",""],"image_prompt":""}},
+  {{"slot":"destination_2","category":"destination","title":"","area":"","date_info":"","post_text":"","source_url":"","source_title":"","pexels_queries":["","",""],"image_prompt":""}}
  ]
 }}
 '''
@@ -143,6 +143,50 @@ This should feel like a normal high-quality travel photo, not an illustration.
     outpath.write_bytes(base64.b64decode(r.data[0].b64_json))
 
 
+def download_pexels_image(item, outpath, shot_no, used_photo_ids):
+    if not PEXELS_API_KEY:
+        return None
+
+    queries = item.get("pexels_queries") or []
+    if len(queries) < 3 or not str(queries[shot_no - 1]).strip():
+        return None
+
+    response = requests.get(
+        "https://api.pexels.com/v1/search",
+        headers={"Authorization": PEXELS_API_KEY},
+        params={
+            "query": str(queries[shot_no - 1]).strip(),
+            "orientation": "landscape",
+            "size": "large",
+            "per_page": 10,
+        },
+        timeout=45,
+    )
+    response.raise_for_status()
+
+    for photo in response.json().get("photos", []):
+        photo_id = str(photo.get("id", ""))
+        if not photo_id or photo_id in used_photo_ids:
+            continue
+        src = photo.get("src") or {}
+        image_url = src.get("large2x") or src.get("large") or src.get("landscape")
+        if not image_url:
+            continue
+        image_response = requests.get(image_url, timeout=60)
+        image_response.raise_for_status()
+        outpath.parent.mkdir(parents=True, exist_ok=True)
+        outpath.write_bytes(image_response.content)
+        used_photo_ids.add(photo_id)
+        return {
+            "type": "pexels",
+            "path": str(outpath.relative_to(ROOT)).replace("\\", "/"),
+            "photo_id": photo_id,
+            "source_url": photo.get("url", ""),
+            "photographer": photo.get("photographer", ""),
+        }
+    return None
+
+
 def main():
     today = datetime.now(JST).date().isoformat()
     history = load_history()
@@ -169,13 +213,30 @@ def main():
             raise ValueError(f'Missing source URL: {item.get("title")}')
 
         image_paths = []
-        for shot_no in range(1, 4):
-            outpath = MEDIA_ROOT / today / f'{item["slot"]}_{shot_no}.png'
-            generate_image(item, outpath, shot_no)
-            image_paths.append(str(outpath.relative_to(ROOT)).replace("\\", "/"))
+        image_sources = []
+        used_photo_ids = set()
+        for shot_no in range(1, 2):
+            pexels_path = MEDIA_ROOT / today / f'{item["slot"]}_{shot_no}.jpg'
+            source = None
+            try:
+                source = download_pexels_image(item, pexels_path, shot_no, used_photo_ids)
+            except requests.RequestException as exc:
+                print(f'PEXELS FALLBACK {item["slot"]} shot={shot_no}: {exc}')
+
+            if source is None:
+                ai_path = MEDIA_ROOT / today / f'{item["slot"]}_{shot_no}.png'
+                generate_image(item, ai_path, shot_no)
+                source = {
+                    "type": "ai",
+                    "path": str(ai_path.relative_to(ROOT)).replace("\\", "/"),
+                }
+
+            image_paths.append(source["path"])
+            image_sources.append(source)
 
         item = dict(item)
         item["image_paths"] = image_paths
+        item["image_sources"] = image_sources
         item["image_path"] = image_paths[0]  # 互換用
         item["generated_date"] = today
         result_items.append(item)

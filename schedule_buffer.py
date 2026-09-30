@@ -1,8 +1,7 @@
-import json, os, time
+import json, os, re, time
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
-import requests
 
 JST = ZoneInfo("Asia/Tokyo")
 ROOT = Path(__file__).resolve().parent
@@ -11,6 +10,7 @@ KEY = os.environ["BUFFER_API_KEY"]
 CHANNEL = os.getenv("BUFFER_CHANNEL_NAME", "VENUTRIP_JP")
 REPO = os.environ["GITHUB_REPOSITORY"]
 SHA = os.environ["MEDIA_SHA"]
+SITE_URL = os.getenv("VENUTRIP_SITE_URL", "https://venutrip.jp").strip().rstrip("/")
 
 TIMES = {
     "upcoming_event_1": "08:00",
@@ -20,8 +20,16 @@ TIMES = {
     "destination_2": "19:00",
 }
 
+SITE_CTA_LABEL = "▼VENUTRIPで周辺情報をチェック"
+LEGACY_FOOTER_RE = re.compile(
+    r"\n*\s*▼VENUTRIPで周辺情報をチェック\s*\nhttps?://\S+\s*$",
+    re.MULTILINE,
+)
+
 
 def gql(q):
+    import requests
+
     r = requests.post(
         API,
         headers={
@@ -98,6 +106,8 @@ def create_post(cid, text, due, image_urls):
 
 
 def wait_public(url):
+    import requests
+
     for _ in range(12):
         try:
             r = requests.get(url, timeout=30)
@@ -107,6 +117,20 @@ def wait_public(url):
             pass
         time.sleep(5)
     raise RuntimeError(f"Image is not publicly reachable: {url}")
+
+
+def build_post_text(item):
+    body = LEGACY_FOOTER_RE.sub("", str(item.get("post_text", "")).strip()).strip()
+    image_sources = (item.get("image_sources") or [
+        {"type": "ai"} for _ in (item.get("image_paths") or [item.get("image_path")])
+    ])[:1]
+    ai_count = sum(1 for source in image_sources if source.get("type") == "ai")
+
+    parts = [body]
+    if ai_count == len(image_sources) and image_sources:
+        parts.append("※画像はAI生成イメージ")
+    parts.append(f"{SITE_CTA_LABEL}\n{SITE_URL}")
+    return "\n\n".join(part for part in parts if part)
 
 
 def main():
@@ -129,7 +153,7 @@ def main():
 
         due = due_local.astimezone(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
 
-        image_paths = item.get("image_paths") or [item["image_path"]]
+        image_paths = (item.get("image_paths") or [item["image_path"]])[:1]
         image_urls = [
             f"https://raw.githubusercontent.com/{REPO}/{SHA}/{path}"
             for path in image_paths
@@ -138,7 +162,7 @@ def main():
         for image_url in image_urls:
             wait_public(image_url)
 
-        text = item["post_text"].strip() + "\n\n※画像はAI生成イメージ"
+        text = build_post_text(item)
         post = create_post(cid, text, due, image_urls)
         print("CREATED", item["slot"], hhmm, post)
 
