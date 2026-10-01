@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "第14回湯涌ぼんぼり祭り",
-      "area": "石川県金沢市・湯涌温泉街",
-      "date_info": "2026年10月17日（土）",
-      "post_text": "温泉街が幻想的な灯りに包まれる「湯涌ぼんぼり祭り」。10月17日は湯涌温泉で、本祭ならではの神事や夜の風景を楽しめます。秋の金沢旅に、ひと味違う温泉街の祭りを。 #石川県 #湯涌温泉",
-      "source_url": "https://yuwaku.gr.jp/bonbori/",
-      "source_title": "〈公式〉第14回湯涌ぼんぼり祭り",
+      "title": "嘉穂劇場 再開場記念イベント",
+      "area": "福岡県飯塚市・嘉穂劇場",
+      "date_info": "2026年10月24日（土）・25日（日）",
+      "post_text": "休館していた嘉穂劇場が、見学施設として再開場。10月24日・25日は公演やお茶席、スイーツコレクションなど、劇場の門出を祝う記念イベントを開催します。飯塚の町歩きと合わせて訪れたい週末です。#福岡旅行 #飯塚市",
+      "source_url": "https://www.crossroadfukuoka.jp/feature/october",
+      "source_title": "【2026】福岡県内10月の主要観光イベント・祭り・おでかけスポットまとめ｜クロスロードふくおか",
       "pexels_queries": [
-        "Yuwaku Onsen Kanazawa Ishikawa Japan lantern festival street"
+        "Kaho Theatre Iizuka Fukuoka Japan historic theater exterior"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-01/upcoming_event_1_1.png"
+        "generated_media/2026-10-02/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-01/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-02/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-01/upcoming_event_1_1.png",
-      "generated_date": "2026-10-01"
+      "image_path": "generated_media/2026-10-02/upcoming_event_1_1.png",
+      "generated_date": "2026-10-02"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "黒部峡谷・宇奈月温泉の紅葉旅",
-      "area": "富山県黒部市・宇奈月温泉",
-      "date_info": "紅葉の見頃：例年10月中旬〜11月下旬／2026年10月1日からトロッコ電車全線運行再開予定",
-      "post_text": "10月1日から全線運行が再開予定の黒部峡谷トロッコ電車へ。エメラルドグリーンの黒部川と山肌の紅葉を眺めながら、宇奈月温泉で深まる秋を味わう旅です。 #富山県 #黒部峡谷",
-      "source_url": "https://www.kurobe-unazuki.jp/event/2021/09/23/7039/",
-      "source_title": "黒部峡谷・宇奈月温泉の紅葉情報｜黒部めぐり",
+      "title": "香嵐渓の紅葉と足助の町並み",
+      "area": "愛知県豊田市・足助町",
+      "date_info": "紅葉の見頃：例年11月上旬〜下旬",
+      "post_text": "秋の香嵐渓は、巴川沿いを彩る約4,000本のもみじが主役。赤や橙の木々を眺めながら歩いたあとは、足助の古い町並みへ。夕暮れからライトアップまで、山里の秋を一日かけて楽しめます。#愛知旅行 #香嵐渓",
+      "source_url": "https://www.tourismtoyota.jp/spots/detail/39/",
+      "source_title": "香嵐渓｜ツーリズムとよた",
       "pexels_queries": [
-        "Kurobe Gorge Railway Unazuki Toyama Japan autumn foliage valley"
+        "Korankei autumn foliage Asuke Toyota Aichi Japan river valley"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-01/destination_1_1.png"
+        "generated_media/2026-10-02/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-01/destination_1_1.png"
+          "path": "generated_media/2026-10-02/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-01/destination_1_1.png",
-      "generated_date": "2026-10-01"
+      "image_path": "generated_media/2026-10-02/destination_1_1.png",
+      "generated_date": "2026-10-02"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "2026佐賀インターナショナルバルーンフェスタ",
-      "area": "佐賀県佐賀市・嘉瀬川河川敷周辺",
-      "date_info": "2026年10月30日（金）〜11月3日（火・祝）",
-      "post_text": "佐賀平野の空を、色とりどりの熱気球が埋め尽くす5日間。2026年10月30日〜11月3日は、競技飛行やバルーンファンタジア、夜間係留を楽しめます。朝焼けの空を見に佐賀へ。 #佐賀県 #バルーンフェスタ",
-      "source_url": "https://www.sibf.jp/2026/schedule/",
-      "source_title": "大会スケジュール（2026）｜佐賀インターナショナルバルーンフェスタ",
+      "title": "三栖の炬火祭",
+      "area": "京都府京都市伏見区・三栖神社周辺",
+      "date_info": "2026年10月1日（木）〜12日（月・祝）",
+      "post_text": "伏見の秋を告げる伝統行事、三栖の炬火祭。大きな炬火が夜の町を照らし、地域に受け継がれてきた祭りの熱気を感じられます。酒蔵や伏見の町並みと合わせて、秋の夜の京都を歩いてみませんか。#京都旅行 #伏見",
+      "source_url": "https://ja.kyoto.travel/event/search.php?category_id=1",
+      "source_title": "伝統行事イベント一覧｜京都市公式観光Navi",
       "pexels_queries": [
-        "Saga International Balloon Fiesta Saga Japan hot air balloons sunrise"
+        "Misumi Shrine torch festival Fushimi Kyoto Japan traditional festival night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-01/upcoming_event_2_1.png"
+        "generated_media/2026-10-02/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-01/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-02/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-01/upcoming_event_2_1.png",
-      "generated_date": "2026-10-01"
+      "image_path": "generated_media/2026-10-02/upcoming_event_2_1.png",
+      "generated_date": "2026-10-02"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "いものこ汁",
-      "area": "秋田県横手市・県南地域",
-      "date_info": "秋が食べ頃",
-      "post_text": "秋田県南の秋の味覚、いものこ汁。里芋を主役に、鶏肉やきのこ、せりなどを煮込む具だくさんの郷土料理です。収穫の季節に、湯気の立つ一杯で土地の秋を感じてみませんか。 #秋田県 #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_7_akita.html",
-      "source_title": "いものこ汁 秋田県｜うちの郷土料理：農林水産省",
+      "title": "栗きんとん",
+      "area": "岐阜県中津川市・恵那市周辺",
+      "date_info": "旬の時期：例年9月〜11月",
+      "post_text": "岐阜の秋旅で味わいたい、栗きんとん。蒸した栗を裏ごしし、砂糖と合わせて茶巾で絞る、栗そのものの風味を楽しむ和菓子です。中津川や恵那の老舗をめぐりながら、店ごとの味の違いを楽しんで。#岐阜グルメ #栗きんとん",
+      "source_url": "https://www.kankou-gifu.jp/article/detail_207.html",
+      "source_title": "【2026】岐阜の秋旅！観光ガイド｜岐阜県観光公式サイト「岐阜の旅ガイド」",
       "pexels_queries": [
-        "Imonoko jiru Yokote Akita Japan autumn local cuisine bowl"
+        "chestnut kinton wagashi Nakatsugawa Gifu Japan traditional Japanese sweet"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-01/local_food_1_1.png"
+        "generated_media/2026-10-02/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-01/local_food_1_1.png"
+          "path": "generated_media/2026-10-02/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-01/local_food_1_1.png",
-      "generated_date": "2026-10-01"
+      "image_path": "generated_media/2026-10-02/local_food_1_1.png",
+      "generated_date": "2026-10-02"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "鳴子峡の紅葉と温泉めぐり",
-      "area": "宮城県大崎市・鳴子温泉郷",
-      "date_info": "紅葉の見頃：例年10月中旬〜11月中旬",
-      "post_text": "深さ約100mの渓谷が赤や黄色に染まる鳴子峡へ。10月中旬から11月中旬は遊歩道を歩き、錦秋の絶景を眺めた後に鳴子温泉でひと休み。紅葉と湯けむりを一度に楽しむ秋旅です。 #宮城県 #鳴子峡",
-      "source_url": "https://www.city.osaki.miyagi.jp/shisei/soshikikarasagasu/narukosogoushisho/chiikishinkoka/5/3/3087.html",
-      "source_title": "鳴子峡｜大崎市公式ホームページ",
+      "title": "蔵王の紅葉と温泉めぐり",
+      "area": "宮城県蔵王町・山形県山形市周辺",
+      "date_info": "紅葉の見頃：例年9月下旬〜11月上旬",
+      "post_text": "標高差のある蔵王は、秋の訪れが早い山から麓へと下りてくる紅葉の名所。山頂付近の錦秋、蔵王温泉の湯けむり、山形側の山里の景色をつないで楽しめます。冷えた体は温泉で温めて、秋の山旅へ。#蔵王 #紅葉旅行",
+      "source_url": "https://www.zao-spa.or.jp/",
+      "source_title": "蔵王温泉観光協会公式サイト",
       "pexels_queries": [
-        "Naruko Gorge Osaki Miyagi Japan autumn foliage bridge valley"
+        "Zao autumn foliage mountain road hot spring Yamagata Japan panoramic landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-01/destination_2_1.png"
+        "generated_media/2026-10-02/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-01/destination_2_1.png"
+          "path": "generated_media/2026-10-02/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-01/destination_2_1.png",
-      "generated_date": "2026-10-01"
+      "image_path": "generated_media/2026-10-02/destination_2_1.png",
+      "generated_date": "2026-10-02"
     }
   ]
 }
