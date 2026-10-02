@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "嘉穂劇場 再開場記念イベント",
-      "area": "福岡県飯塚市・嘉穂劇場",
-      "date_info": "2026年10月24日（土）・25日（日）",
-      "post_text": "休館していた嘉穂劇場が、見学施設として再開場。10月24日・25日は公演やお茶席、スイーツコレクションなど、劇場の門出を祝う記念イベントを開催します。飯塚の町歩きと合わせて訪れたい週末です。#福岡旅行 #飯塚市",
-      "source_url": "https://www.crossroadfukuoka.jp/feature/october",
-      "source_title": "【2026】福岡県内10月の主要観光イベント・祭り・おでかけスポットまとめ｜クロスロードふくおか",
+      "title": "阿寒アイヌアートウィーク",
+      "area": "北海道釧路市・阿寒湖温泉",
+      "date_info": "2026年10月8日（木）〜10月31日（土）",
+      "post_text": "阿寒湖の自然とアイヌ文化、現代アートが出会う3週間。阿寒湖アイヌコタンや温泉街を歩きながら、点在する作品や工芸に触れられます。秋の湖畔で、ここでしか出会えない表現を巡ってみて。 #阿寒湖 #北海道旅行",
+      "source_url": "https://www.akanainu.jp/events/1f05b41e478f9c66010752d5dfbabd687e51e5c2.html",
+      "source_title": "阿寒湖アイヌコタン｜阿寒アイヌアートウィーク",
       "pexels_queries": [
-        "Kaho Theatre Iizuka Fukuoka Japan historic theater exterior"
+        "Lake Akan Ainu Kotan autumn Hokkaido Japan landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-02/upcoming_event_1_1.png"
+        "generated_media/2026-10-03/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-02/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-03/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-02/upcoming_event_1_1.png",
-      "generated_date": "2026-10-02"
+      "image_path": "generated_media/2026-10-03/upcoming_event_1_1.png",
+      "generated_date": "2026-10-03"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "香嵐渓の紅葉と足助の町並み",
-      "area": "愛知県豊田市・足助町",
-      "date_info": "紅葉の見頃：例年11月上旬〜下旬",
-      "post_text": "秋の香嵐渓は、巴川沿いを彩る約4,000本のもみじが主役。赤や橙の木々を眺めながら歩いたあとは、足助の古い町並みへ。夕暮れからライトアップまで、山里の秋を一日かけて楽しめます。#愛知旅行 #香嵐渓",
-      "source_url": "https://www.tourismtoyota.jp/spots/detail/39/",
-      "source_title": "香嵐渓｜ツーリズムとよた",
+      "title": "戸隠高原・鏡池の紅葉",
+      "area": "長野県長野市・戸隠高原",
+      "date_info": "紅葉の見頃：例年10月上旬〜10月中旬",
+      "post_text": "戸隠連峰を水面に映す鏡池が、秋色に染まる季節。早朝の静かな池、杉並木の戸隠神社、香り高い戸隠そばを一緒に楽しめます。山の空気が澄む秋こそ訪れたい、信州の高原旅です。 #戸隠 #長野旅行",
+      "source_url": "https://db.go-nagano.net/topics_detail12/id%3D19340",
+      "source_title": "Go NAGANO｜戸隠",
       "pexels_queries": [
-        "Korankei autumn foliage Asuke Toyota Aichi Japan river valley"
+        "Togakushi Kagamiike Pond autumn Nagano Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-02/destination_1_1.png"
+        "generated_media/2026-10-03/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-02/destination_1_1.png"
+          "path": "generated_media/2026-10-03/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-02/destination_1_1.png",
-      "generated_date": "2026-10-02"
+      "image_path": "generated_media/2026-10-03/destination_1_1.png",
+      "generated_date": "2026-10-03"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "三栖の炬火祭",
-      "area": "京都府京都市伏見区・三栖神社周辺",
-      "date_info": "2026年10月1日（木）〜12日（月・祝）",
-      "post_text": "伏見の秋を告げる伝統行事、三栖の炬火祭。大きな炬火が夜の町を照らし、地域に受け継がれてきた祭りの熱気を感じられます。酒蔵や伏見の町並みと合わせて、秋の夜の京都を歩いてみませんか。#京都旅行 #伏見",
-      "source_url": "https://ja.kyoto.travel/event/search.php?category_id=1",
-      "source_title": "伝統行事イベント一覧｜京都市公式観光Navi",
+      "title": "第27回東京よさこい",
+      "area": "東京都豊島区・池袋駅周辺",
+      "date_info": "2026年10月10日（土）〜10月11日（日）",
+      "post_text": "池袋の街が、音楽と踊りの熱気に包まれる2日間。色鮮やかな衣装の踊り子たちが、池袋西口駅前などの会場を舞台に躍動します。秋の東京で、約100チームが繰り広げる迫力の演舞を楽しもう。 #東京よさこい #池袋",
+      "source_url": "https://tokyo-yosakoi.jp/",
+      "source_title": "東京よさこい公式サイト",
       "pexels_queries": [
-        "Misumi Shrine torch festival Fushimi Kyoto Japan traditional festival night"
+        "Tokyo Yosakoi dance festival Ikebukuro Japan street performance"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-02/upcoming_event_2_1.png"
+        "generated_media/2026-10-03/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-02/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-03/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-02/upcoming_event_2_1.png",
-      "generated_date": "2026-10-02"
+      "image_path": "generated_media/2026-10-03/upcoming_event_2_1.png",
+      "generated_date": "2026-10-03"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "栗きんとん",
-      "area": "岐阜県中津川市・恵那市周辺",
-      "date_info": "旬の時期：例年9月〜11月",
-      "post_text": "岐阜の秋旅で味わいたい、栗きんとん。蒸した栗を裏ごしし、砂糖と合わせて茶巾で絞る、栗そのものの風味を楽しむ和菓子です。中津川や恵那の老舗をめぐりながら、店ごとの味の違いを楽しんで。#岐阜グルメ #栗きんとん",
-      "source_url": "https://www.kankou-gifu.jp/article/detail_207.html",
-      "source_title": "【2026】岐阜の秋旅！観光ガイド｜岐阜県観光公式サイト「岐阜の旅ガイド」",
+      "title": "広島の焼き牡蠣",
+      "area": "広島県広島市・宮島・呉市周辺",
+      "date_info": "旬の時期：例年12月〜3月",
+      "post_text": "冬の広島で味わいたい、ぷりっと濃厚な焼き牡蠣。広島湾で育った牡蠣は、香ばしく焼くと旨みがさらに広がります。宮島や瀬戸内の港町を巡りながら、熱々を頬張る冬旅はいかが？ #広島グルメ #牡蠣",
+      "source_url": "https://www.city.hiroshima.lg.jp/business/sangyo/1021494/1026486/1026488/1033082/1017703.html",
+      "source_title": "広島市｜広島湾七大海の幸について",
       "pexels_queries": [
-        "chestnut kinton wagashi Nakatsugawa Gifu Japan traditional Japanese sweet"
+        "grilled Hiroshima oysters Miyajima Hiroshima Japan seafood"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-02/local_food_1_1.png"
+        "generated_media/2026-10-03/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-02/local_food_1_1.png"
+          "path": "generated_media/2026-10-03/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-02/local_food_1_1.png",
-      "generated_date": "2026-10-02"
+      "image_path": "generated_media/2026-10-03/local_food_1_1.png",
+      "generated_date": "2026-10-03"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "蔵王の紅葉と温泉めぐり",
-      "area": "宮城県蔵王町・山形県山形市周辺",
-      "date_info": "紅葉の見頃：例年9月下旬〜11月上旬",
-      "post_text": "標高差のある蔵王は、秋の訪れが早い山から麓へと下りてくる紅葉の名所。山頂付近の錦秋、蔵王温泉の湯けむり、山形側の山里の景色をつないで楽しめます。冷えた体は温泉で温めて、秋の山旅へ。#蔵王 #紅葉旅行",
-      "source_url": "https://www.zao-spa.or.jp/",
-      "source_title": "蔵王温泉観光協会公式サイト",
+      "title": "大山の紅葉とブナの森",
+      "area": "鳥取県西伯郡大山町・大山周辺",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
+      "post_text": "中国地方を代表する山、大山へ秋の森歩きに出かけませんか。ブナ林や山肌が赤や黄色に染まり、澄んだ空気の中で雄大な景色を楽しめます。大山寺や森の遊歩道を巡り、山の恵みを味わう旅にも。 #大山 #鳥取旅行",
+      "source_url": "https://www.tottori-guide.jp/806/16817.html",
+      "source_title": "とっとり旅｜鳥取県の紅葉みどころマップ",
       "pexels_queries": [
-        "Zao autumn foliage mountain road hot spring Yamagata Japan panoramic landscape"
+        "Mount Daisen autumn foliage beech forest Tottori Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-02/destination_2_1.png"
+        "generated_media/2026-10-03/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-02/destination_2_1.png"
+          "path": "generated_media/2026-10-03/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-02/destination_2_1.png",
-      "generated_date": "2026-10-02"
+      "image_path": "generated_media/2026-10-03/destination_2_1.png",
+      "generated_date": "2026-10-03"
     }
   ]
 }

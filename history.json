@@ -279,6 +279,41 @@
       "title": "蔵王の紅葉と温泉めぐり",
       "area": "宮城県蔵王町・山形県山形市周辺",
       "source_url": "https://www.zao-spa.or.jp/"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "event",
+      "title": "阿寒アイヌアートウィーク",
+      "area": "北海道釧路市・阿寒湖温泉",
+      "source_url": "https://www.akanainu.jp/events/1f05b41e478f9c66010752d5dfbabd687e51e5c2.html"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "destination",
+      "title": "戸隠高原・鏡池の紅葉",
+      "area": "長野県長野市・戸隠高原",
+      "source_url": "https://db.go-nagano.net/topics_detail12/id%3D19340"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "event",
+      "title": "第27回東京よさこい",
+      "area": "東京都豊島区・池袋駅周辺",
+      "source_url": "https://tokyo-yosakoi.jp/"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "food",
+      "title": "広島の焼き牡蠣",
+      "area": "広島県広島市・宮島・呉市周辺",
+      "source_url": "https://www.city.hiroshima.lg.jp/business/sangyo/1021494/1026486/1026488/1033082/1017703.html"
+    },
+    {
+      "date": "2026-10-03",
+      "category": "destination",
+      "title": "大山の紅葉とブナの森",
+      "area": "鳥取県西伯郡大山町・大山周辺",
+      "source_url": "https://www.tottori-guide.jp/806/16817.html"
     }
   ]
 }
