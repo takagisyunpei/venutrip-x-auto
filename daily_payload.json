@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "熊野速玉大社例大祭 御船祭",
-      "area": "和歌山県新宮市・熊野速玉大社周辺",
-      "date_info": "2026年10月15日〜16日（御船祭は10月16日）",
-      "post_text": "熊野速玉大社の例大祭を訪ねる秋の新宮旅。10月16日の御船祭では、熊野川を舞台に9隻の船が競漕し、神秘的な祭礼を繰り広げます。開催は10月15日〜16日。#和歌山旅行 #熊野古道",
-      "source_url": "https://www.wakayama-kanko.or.jp/events/index_1.html",
-      "source_title": "祭り・イベント｜和歌山県公式観光サイト",
+      "title": "EXPO2025 Futures Tour 東京",
+      "area": "東京都港区・麻布台ヒルズ",
+      "date_info": "2026年10月10日（土）・11日（日）10:00〜18:00",
+      "post_text": "大阪・関西万博の魅力を東京で体験できる「EXPO2025 Futures Tour」が、10月10日・11日に麻布台ヒルズで開催。未来の暮らしを感じる展示やステージを楽しみに出かけませんか？ #東京イベント #麻布台ヒルズ",
+      "source_url": "https://www.expo2025.or.jp/officialblog/expo2025-f-tour1010/",
+      "source_title": "全国キャラバンイベント「EXPO2025 Futures Tour」東京（10月10日、11日）｜EXPO 2025 大阪・関西万博公式Webサイト",
       "pexels_queries": [
-        "Kumano Hayatama Taisha Shrine boat festival Shingu Wakayama Japan"
+        "Azabudai Hills Tokyo Expo event Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-04/upcoming_event_1_1.png"
+        "generated_media/2026-10-05/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-04/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-05/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-04/upcoming_event_1_1.png",
-      "generated_date": "2026-10-04"
+      "image_path": "generated_media/2026-10-05/upcoming_event_1_1.png",
+      "generated_date": "2026-10-05"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "裏磐梯・五色沼の紅葉散策",
-      "area": "福島県耶麻郡北塩原村・裏磐梯",
-      "date_info": "紅葉の例年の見頃：10月中旬〜11月上旬",
-      "post_text": "青沼や毘沙門沼など、歩くたびに水の色が変わって見える裏磐梯・五色沼。例年10月中旬から紅葉が進み、秋色の森と神秘的な湖沼を楽しめます。歩きやすい靴でどうぞ。#福島旅行 #五色沼",
-      "source_url": "https://www.pref.fukushima.lg.jp/w4/fgr/activity/",
-      "source_title": "絶景アクティビティ｜ふくしまグリーン復興構想",
+      "title": "大内宿の紅葉と茅葺き街道",
+      "area": "福島県南会津郡下郷町・大内宿",
+      "date_info": "例年の紅葉見頃：10月下旬〜11月上旬",
+      "post_text": "茅葺き屋根の宿場町が、秋色に包まれる大内宿へ。街道を歩き、山あいの景色を眺めながら、名物ねぎそばを味わう旅はこの季節ならでは。 #福島旅行 #紅葉旅",
+      "source_url": "https://japan-heritage.bunka.go.jp/ja/lp/autumn/",
+      "source_title": "秋の紅葉特集｜日本遺産ポータルサイト",
       "pexels_queries": [
-        "Goshiki-numa Ponds autumn foliage Kitashiobara Fukushima Japan"
+        "Ouchi-juku Fukushima autumn foliage thatched houses Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-04/destination_1_1.png"
+        "generated_media/2026-10-05/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-04/destination_1_1.png"
+          "path": "generated_media/2026-10-05/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-04/destination_1_1.png",
-      "generated_date": "2026-10-04"
+      "image_path": "generated_media/2026-10-05/destination_1_1.png",
+      "generated_date": "2026-10-05"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "唐津くんち",
-      "area": "佐賀県唐津市・唐津神社周辺、旧城下町",
-      "date_info": "2026年11月2日〜4日",
-      "post_text": "14台の豪華な曳山が旧城下町を駆ける、唐津の秋祭り。11月2日の宵曳山は提灯に照らされた幻想的な姿、3日は御旅所神幸が見どころです。開催は11月2日〜4日。#唐津くんち #佐賀旅行",
-      "source_url": "https://www.city.karatsu.lg.jp/page/4344.html",
-      "source_title": "11月2日・3日・4日開催 唐津くんち｜唐津市",
+      "title": "椎葉平家まつり2026",
+      "area": "宮崎県東臼杵郡椎葉村・椎葉村中心部",
+      "date_info": "2026年11月7日（土）・8日（日）",
+      "post_text": "山深い椎葉村で受け継がれる歴史を感じる「椎葉平家まつり」。11月7日・8日は、鶴富姫法楽祭や物産カーニバルなど、山里の文化に触れる催しが楽しめます。 #宮崎旅行 #椎葉平家まつり",
+      "source_url": "https://www.kanko-miyazaki.jp/event/1192",
+      "source_title": "椎葉平家まつり2026｜宮崎県公式観光サイト「みやざき観光ナビ」",
       "pexels_queries": [
-        "Karatsu Kunchi festival floats Karatsu Saga Japan"
+        "Shiiba Village Miyazaki autumn mountain festival Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-04/upcoming_event_2_1.png"
+        "generated_media/2026-10-05/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-04/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-05/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-04/upcoming_event_2_1.png",
-      "generated_date": "2026-10-04"
+      "image_path": "generated_media/2026-10-05/upcoming_event_2_1.png",
+      "generated_date": "2026-10-05"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "宇和島じゃこ天",
-      "area": "愛媛県宇和島市・南予地域",
-      "date_info": "通年",
-      "post_text": "宇和海の小魚を皮や骨ごとすり身にして揚げる、愛媛・南予の郷土食「じゃこ天」。揚げたては香ばしく、魚のうまみもしっかり。宇和島の食べ歩きで味わいたい一枚です。#愛媛グルメ #宇和島",
-      "source_url": "https://www.iyokannet.jp/feature/gourmet/local",
-      "source_title": "受け継がれる郷土の味｜愛媛県公式観光サイト いよ観ネット",
+      "title": "ずいきのぬたあえ",
+      "area": "香川県・県内各地",
+      "date_info": "秋祭りの頃に味わいたい香川の郷土料理",
+      "post_text": "香川の秋に食べたい郷土の味、ずいきのぬたあえ。里いもの葉柄を酢味噌で和えた、やさしい食感と酸味が魅力の一品です。秋祭りの時期に出会ったらぜひ。 #香川グルメ #郷土料理",
+      "source_url": "https://www.my-kagawa.jp/gourmet/feature/gourmet/taste",
+      "source_title": "受け継がれる郷土の味覚｜香川県観光協会公式サイト うどん県旅ネット",
       "pexels_queries": [
-        "Uwajima jakoten fried fish cake Ehime Japan"
+        "Kagawa Japan zuiki nutae local autumn dish"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-04/local_food_1_1.png"
+        "generated_media/2026-10-05/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-04/local_food_1_1.png"
+          "path": "generated_media/2026-10-05/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-04/local_food_1_1.png",
-      "generated_date": "2026-10-04"
+      "image_path": "generated_media/2026-10-05/local_food_1_1.png",
+      "generated_date": "2026-10-05"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "高知県立牧野植物園の秋さんぽ",
-      "area": "高知県高知市・五台山",
-      "date_info": "秋の見どころ：9月〜11月。開園時間9:00〜17:00",
-      "post_text": "五台山の斜面に広がる牧野植物園で、秋の草花を探す高知旅。フジバカマやキキョウなど季節の植物に出会いながら、高知市街を望む園内をゆっくり歩けます。#高知旅行 #牧野植物園",
-      "source_url": "https://kochike.jp/column/374958/",
-      "source_title": "高知観光で是非行きたい！牧野植物園の四季の魅力と見どころをご紹介",
+      "title": "耶馬溪の紅葉と渓谷ドライブ",
+      "area": "大分県中津市・耶馬溪周辺",
+      "date_info": "秋の見頃：10月下旬〜11月上旬",
+      "post_text": "奇岩と渓谷が連なる大分・耶馬溪へ、紅葉ドライブの季節。深い谷を彩る木々を眺め、青の洞門や渓谷沿いの道をゆっくり巡れば、秋の絶景に出会えます。 #大分旅行 #耶馬溪",
+      "source_url": "https://www.visit-oita.jp/events/index/2026-11",
+      "source_title": "イベント情報｜日本一の「おんせん県」大分県の観光情報公式サイト",
       "pexels_queries": [
-        "Makino Botanical Garden autumn flowers Godaiyama Kochi Japan"
+        "Yabakei Nakatsu Oita autumn valley foliage Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-04/destination_2_1.png"
+        "generated_media/2026-10-05/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-04/destination_2_1.png"
+          "path": "generated_media/2026-10-05/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-04/destination_2_1.png",
-      "generated_date": "2026-10-04"
+      "image_path": "generated_media/2026-10-05/destination_2_1.png",
+      "generated_date": "2026-10-05"
     }
   ]
 }
