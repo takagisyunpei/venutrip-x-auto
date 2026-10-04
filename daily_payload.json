@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "阿寒アイヌアートウィーク",
-      "area": "北海道釧路市・阿寒湖温泉",
-      "date_info": "2026年10月8日（木）〜10月31日（土）",
-      "post_text": "阿寒湖の自然とアイヌ文化、現代アートが出会う3週間。阿寒湖アイヌコタンや温泉街を歩きながら、点在する作品や工芸に触れられます。秋の湖畔で、ここでしか出会えない表現を巡ってみて。 #阿寒湖 #北海道旅行",
-      "source_url": "https://www.akanainu.jp/events/1f05b41e478f9c66010752d5dfbabd687e51e5c2.html",
-      "source_title": "阿寒湖アイヌコタン｜阿寒アイヌアートウィーク",
+      "title": "熊野速玉大社例大祭 御船祭",
+      "area": "和歌山県新宮市・熊野速玉大社周辺",
+      "date_info": "2026年10月15日〜16日（御船祭は10月16日）",
+      "post_text": "熊野速玉大社の例大祭を訪ねる秋の新宮旅。10月16日の御船祭では、熊野川を舞台に9隻の船が競漕し、神秘的な祭礼を繰り広げます。開催は10月15日〜16日。#和歌山旅行 #熊野古道",
+      "source_url": "https://www.wakayama-kanko.or.jp/events/index_1.html",
+      "source_title": "祭り・イベント｜和歌山県公式観光サイト",
       "pexels_queries": [
-        "Lake Akan Ainu Kotan autumn Hokkaido Japan landscape"
+        "Kumano Hayatama Taisha Shrine boat festival Shingu Wakayama Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-03/upcoming_event_1_1.png"
+        "generated_media/2026-10-04/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-03/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-04/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-03/upcoming_event_1_1.png",
-      "generated_date": "2026-10-03"
+      "image_path": "generated_media/2026-10-04/upcoming_event_1_1.png",
+      "generated_date": "2026-10-04"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "戸隠高原・鏡池の紅葉",
-      "area": "長野県長野市・戸隠高原",
-      "date_info": "紅葉の見頃：例年10月上旬〜10月中旬",
-      "post_text": "戸隠連峰を水面に映す鏡池が、秋色に染まる季節。早朝の静かな池、杉並木の戸隠神社、香り高い戸隠そばを一緒に楽しめます。山の空気が澄む秋こそ訪れたい、信州の高原旅です。 #戸隠 #長野旅行",
-      "source_url": "https://db.go-nagano.net/topics_detail12/id%3D19340",
-      "source_title": "Go NAGANO｜戸隠",
+      "title": "裏磐梯・五色沼の紅葉散策",
+      "area": "福島県耶麻郡北塩原村・裏磐梯",
+      "date_info": "紅葉の例年の見頃：10月中旬〜11月上旬",
+      "post_text": "青沼や毘沙門沼など、歩くたびに水の色が変わって見える裏磐梯・五色沼。例年10月中旬から紅葉が進み、秋色の森と神秘的な湖沼を楽しめます。歩きやすい靴でどうぞ。#福島旅行 #五色沼",
+      "source_url": "https://www.pref.fukushima.lg.jp/w4/fgr/activity/",
+      "source_title": "絶景アクティビティ｜ふくしまグリーン復興構想",
       "pexels_queries": [
-        "Togakushi Kagamiike Pond autumn Nagano Japan"
+        "Goshiki-numa Ponds autumn foliage Kitashiobara Fukushima Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-03/destination_1_1.png"
+        "generated_media/2026-10-04/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-03/destination_1_1.png"
+          "path": "generated_media/2026-10-04/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-03/destination_1_1.png",
-      "generated_date": "2026-10-03"
+      "image_path": "generated_media/2026-10-04/destination_1_1.png",
+      "generated_date": "2026-10-04"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "第27回東京よさこい",
-      "area": "東京都豊島区・池袋駅周辺",
-      "date_info": "2026年10月10日（土）〜10月11日（日）",
-      "post_text": "池袋の街が、音楽と踊りの熱気に包まれる2日間。色鮮やかな衣装の踊り子たちが、池袋西口駅前などの会場を舞台に躍動します。秋の東京で、約100チームが繰り広げる迫力の演舞を楽しもう。 #東京よさこい #池袋",
-      "source_url": "https://tokyo-yosakoi.jp/",
-      "source_title": "東京よさこい公式サイト",
+      "title": "唐津くんち",
+      "area": "佐賀県唐津市・唐津神社周辺、旧城下町",
+      "date_info": "2026年11月2日〜4日",
+      "post_text": "14台の豪華な曳山が旧城下町を駆ける、唐津の秋祭り。11月2日の宵曳山は提灯に照らされた幻想的な姿、3日は御旅所神幸が見どころです。開催は11月2日〜4日。#唐津くんち #佐賀旅行",
+      "source_url": "https://www.city.karatsu.lg.jp/page/4344.html",
+      "source_title": "11月2日・3日・4日開催 唐津くんち｜唐津市",
       "pexels_queries": [
-        "Tokyo Yosakoi dance festival Ikebukuro Japan street performance"
+        "Karatsu Kunchi festival floats Karatsu Saga Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-03/upcoming_event_2_1.png"
+        "generated_media/2026-10-04/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-03/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-04/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-03/upcoming_event_2_1.png",
-      "generated_date": "2026-10-03"
+      "image_path": "generated_media/2026-10-04/upcoming_event_2_1.png",
+      "generated_date": "2026-10-04"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "広島の焼き牡蠣",
-      "area": "広島県広島市・宮島・呉市周辺",
-      "date_info": "旬の時期：例年12月〜3月",
-      "post_text": "冬の広島で味わいたい、ぷりっと濃厚な焼き牡蠣。広島湾で育った牡蠣は、香ばしく焼くと旨みがさらに広がります。宮島や瀬戸内の港町を巡りながら、熱々を頬張る冬旅はいかが？ #広島グルメ #牡蠣",
-      "source_url": "https://www.city.hiroshima.lg.jp/business/sangyo/1021494/1026486/1026488/1033082/1017703.html",
-      "source_title": "広島市｜広島湾七大海の幸について",
+      "title": "宇和島じゃこ天",
+      "area": "愛媛県宇和島市・南予地域",
+      "date_info": "通年",
+      "post_text": "宇和海の小魚を皮や骨ごとすり身にして揚げる、愛媛・南予の郷土食「じゃこ天」。揚げたては香ばしく、魚のうまみもしっかり。宇和島の食べ歩きで味わいたい一枚です。#愛媛グルメ #宇和島",
+      "source_url": "https://www.iyokannet.jp/feature/gourmet/local",
+      "source_title": "受け継がれる郷土の味｜愛媛県公式観光サイト いよ観ネット",
       "pexels_queries": [
-        "grilled Hiroshima oysters Miyajima Hiroshima Japan seafood"
+        "Uwajima jakoten fried fish cake Ehime Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-03/local_food_1_1.png"
+        "generated_media/2026-10-04/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-03/local_food_1_1.png"
+          "path": "generated_media/2026-10-04/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-03/local_food_1_1.png",
-      "generated_date": "2026-10-03"
+      "image_path": "generated_media/2026-10-04/local_food_1_1.png",
+      "generated_date": "2026-10-04"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "大山の紅葉とブナの森",
-      "area": "鳥取県西伯郡大山町・大山周辺",
-      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
-      "post_text": "中国地方を代表する山、大山へ秋の森歩きに出かけませんか。ブナ林や山肌が赤や黄色に染まり、澄んだ空気の中で雄大な景色を楽しめます。大山寺や森の遊歩道を巡り、山の恵みを味わう旅にも。 #大山 #鳥取旅行",
-      "source_url": "https://www.tottori-guide.jp/806/16817.html",
-      "source_title": "とっとり旅｜鳥取県の紅葉みどころマップ",
+      "title": "高知県立牧野植物園の秋さんぽ",
+      "area": "高知県高知市・五台山",
+      "date_info": "秋の見どころ：9月〜11月。開園時間9:00〜17:00",
+      "post_text": "五台山の斜面に広がる牧野植物園で、秋の草花を探す高知旅。フジバカマやキキョウなど季節の植物に出会いながら、高知市街を望む園内をゆっくり歩けます。#高知旅行 #牧野植物園",
+      "source_url": "https://kochike.jp/column/374958/",
+      "source_title": "高知観光で是非行きたい！牧野植物園の四季の魅力と見どころをご紹介",
       "pexels_queries": [
-        "Mount Daisen autumn foliage beech forest Tottori Japan"
+        "Makino Botanical Garden autumn flowers Godaiyama Kochi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-03/destination_2_1.png"
+        "generated_media/2026-10-04/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-03/destination_2_1.png"
+          "path": "generated_media/2026-10-04/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-03/destination_2_1.png",
-      "generated_date": "2026-10-03"
+      "image_path": "generated_media/2026-10-04/destination_2_1.png",
+      "generated_date": "2026-10-04"
     }
   ]
 }
