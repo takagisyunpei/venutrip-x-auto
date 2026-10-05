@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "EXPO2025 Futures Tour 東京",
-      "area": "東京都港区・麻布台ヒルズ",
-      "date_info": "2026年10月10日（土）・11日（日）10:00〜18:00",
-      "post_text": "大阪・関西万博の魅力を東京で体験できる「EXPO2025 Futures Tour」が、10月10日・11日に麻布台ヒルズで開催。未来の暮らしを感じる展示やステージを楽しみに出かけませんか？ #東京イベント #麻布台ヒルズ",
-      "source_url": "https://www.expo2025.or.jp/officialblog/expo2025-f-tour1010/",
-      "source_title": "全国キャラバンイベント「EXPO2025 Futures Tour」東京（10月10日、11日）｜EXPO 2025 大阪・関西万博公式Webサイト",
+      "title": "嵐山もみじ祭り",
+      "area": "京都府京都市右京区・嵐山渡月橋上流",
+      "date_info": "2026年11月7日（土）・8日（日）",
+      "post_text": "紅葉の嵐山で、平安貴族の舟遊びを再現する「嵐山もみじ祭り」。大堰川と川岸を舞台に、今様や平安管弦の演舞が繰り広げられます。開催は2026年11月7日（土）・8日（日）。#京都 #嵐山",
+      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=4066",
+      "source_title": "嵐山もみじ祭り｜京都市公式 京都観光Navi",
       "pexels_queries": [
-        "Azabudai Hills Tokyo Expo event Japan"
+        "Arashiyama Togetsukyo Bridge autumn Kyoto Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-05/upcoming_event_1_1.png"
+        "generated_media/2026-10-06/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-05/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-06/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-05/upcoming_event_1_1.png",
-      "generated_date": "2026-10-05"
+      "image_path": "generated_media/2026-10-06/upcoming_event_1_1.png",
+      "generated_date": "2026-10-06"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "大内宿の紅葉と茅葺き街道",
-      "area": "福島県南会津郡下郷町・大内宿",
-      "date_info": "例年の紅葉見頃：10月下旬〜11月上旬",
-      "post_text": "茅葺き屋根の宿場町が、秋色に包まれる大内宿へ。街道を歩き、山あいの景色を眺めながら、名物ねぎそばを味わう旅はこの季節ならでは。 #福島旅行 #紅葉旅",
-      "source_url": "https://japan-heritage.bunka.go.jp/ja/lp/autumn/",
-      "source_title": "秋の紅葉特集｜日本遺産ポータルサイト",
+      "title": "清津峡の紅葉と光のトンネル",
+      "area": "新潟県十日町市・清津峡",
+      "date_info": "紅葉の見頃は例年10月中旬〜11月上旬",
+      "post_text": "切り立つ岩壁と清流がつくる、日本三大峡谷の清津峡へ。紅葉の見頃は例年10月中旬〜11月上旬で、渓谷トンネルの「Tunnel of Light」から見る秋色の景観は格別です。#新潟 #清津峡",
+      "source_url": "https://niigata-kankou.or.jp/spot/detail_6950.html",
+      "source_title": "新潟県の紅葉スポット｜にいがた観光ナビ",
       "pexels_queries": [
-        "Ouchi-juku Fukushima autumn foliage thatched houses Japan"
+        "Kiyotsu Gorge autumn leaves Tokamachi Niigata Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-05/destination_1_1.png"
+        "generated_media/2026-10-06/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-05/destination_1_1.png"
+          "path": "generated_media/2026-10-06/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-05/destination_1_1.png",
-      "generated_date": "2026-10-05"
+      "image_path": "generated_media/2026-10-06/destination_1_1.png",
+      "generated_date": "2026-10-06"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "椎葉平家まつり2026",
-      "area": "宮崎県東臼杵郡椎葉村・椎葉村中心部",
-      "date_info": "2026年11月7日（土）・8日（日）",
-      "post_text": "山深い椎葉村で受け継がれる歴史を感じる「椎葉平家まつり」。11月7日・8日は、鶴富姫法楽祭や物産カーニバルなど、山里の文化に触れる催しが楽しめます。 #宮崎旅行 #椎葉平家まつり",
-      "source_url": "https://www.kanko-miyazaki.jp/event/1192",
-      "source_title": "椎葉平家まつり2026｜宮崎県公式観光サイト「みやざき観光ナビ」",
+      "title": "九重“夢”大吊橋 20周年記念 秋の大感謝祭",
+      "area": "大分県玖珠郡九重町・九重“夢”大吊橋",
+      "date_info": "2026年10月31日（土）〜11月1日（日）",
+      "post_text": "紅葉に包まれる九重“夢”大吊橋で、20周年記念の秋の大感謝祭が開催。標高777mの大吊橋から、九重連山と秋色の渓谷を眺める絶景旅へ。期間は2026年10月31日（土）〜11月1日（日）。#大分 #九重",
+      "source_url": "https://www.visit-oita.jp/events/",
+      "source_title": "イベント情報｜日本一の「おんせん県」大分県の観光情報公式サイト",
       "pexels_queries": [
-        "Shiiba Village Miyazaki autumn mountain festival Japan"
+        "Kokonoe Yume Otsurihashi Bridge autumn Kyushu Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-05/upcoming_event_2_1.png"
+        "generated_media/2026-10-06/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-05/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-06/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-05/upcoming_event_2_1.png",
-      "generated_date": "2026-10-05"
+      "image_path": "generated_media/2026-10-06/upcoming_event_2_1.png",
+      "generated_date": "2026-10-06"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "ずいきのぬたあえ",
-      "area": "香川県・県内各地",
-      "date_info": "秋祭りの頃に味わいたい香川の郷土料理",
-      "post_text": "香川の秋に食べたい郷土の味、ずいきのぬたあえ。里いもの葉柄を酢味噌で和えた、やさしい食感と酸味が魅力の一品です。秋祭りの時期に出会ったらぜひ。 #香川グルメ #郷土料理",
-      "source_url": "https://www.my-kagawa.jp/gourmet/feature/gourmet/taste",
-      "source_title": "受け継がれる郷土の味覚｜香川県観光協会公式サイト うどん県旅ネット",
+      "title": "おけさ柿",
+      "area": "新潟県佐渡市",
+      "date_info": "秋が旬",
+      "post_text": "佐渡の秋を代表する、種なしで甘みの強い「おけさ柿」。澄んだ空気と豊かな日照に育まれた、なめらかな食感の味わいです。旬の時期は生のまま、干し柿でじっくり楽しむのもおすすめ。#佐渡 #新潟グルメ",
+      "source_url": "https://niigata-kankou.or.jp/feature/okesagaki/",
+      "source_title": "新潟名物「おけさ柿」とは？｜にいがた観光ナビ",
       "pexels_queries": [
-        "Kagawa Japan zuiki nutae local autumn dish"
+        "Okesa persimmon Sado Island Niigata Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-05/local_food_1_1.png"
+        "generated_media/2026-10-06/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-05/local_food_1_1.png"
+          "path": "generated_media/2026-10-06/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-05/local_food_1_1.png",
-      "generated_date": "2026-10-05"
+      "image_path": "generated_media/2026-10-06/local_food_1_1.png",
+      "generated_date": "2026-10-06"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "耶馬溪の紅葉と渓谷ドライブ",
-      "area": "大分県中津市・耶馬溪周辺",
-      "date_info": "秋の見頃：10月下旬〜11月上旬",
-      "post_text": "奇岩と渓谷が連なる大分・耶馬溪へ、紅葉ドライブの季節。深い谷を彩る木々を眺め、青の洞門や渓谷沿いの道をゆっくり巡れば、秋の絶景に出会えます。 #大分旅行 #耶馬溪",
-      "source_url": "https://www.visit-oita.jp/events/index/2026-11",
-      "source_title": "イベント情報｜日本一の「おんせん県」大分県の観光情報公式サイト",
+      "title": "長門湯本温泉の秋旅",
+      "area": "山口県長門市・長門湯本温泉",
+      "date_info": "2026年秋",
+      "post_text": "音信川沿いのそぞろ歩きが心地よい、長門湯本温泉へ。秋は温泉街に季節の味覚を使った料理がそろい、夕暮れの川辺と湯あがり散策をゆっくり楽しめます。秋グルメと温泉で、山口の秋を満喫。#山口 #長門湯本温泉",
+      "source_url": "https://yumotoonsen.com/news/aki-gourmet2026/",
+      "source_title": "長門湯本NEWS：温泉街で秋グルメが充実しています",
       "pexels_queries": [
-        "Yabakei Nakatsu Oita autumn valley foliage Japan"
+        "Nagato Yumoto Onsen autumn river Yamaguchi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-05/destination_2_1.png"
+        "generated_media/2026-10-06/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-05/destination_2_1.png"
+          "path": "generated_media/2026-10-06/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-05/destination_2_1.png",
-      "generated_date": "2026-10-05"
+      "image_path": "generated_media/2026-10-06/destination_2_1.png",
+      "generated_date": "2026-10-06"
     }
   ]
 }
