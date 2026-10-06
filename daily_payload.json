@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "嵐山もみじ祭り",
-      "area": "京都府京都市右京区・嵐山渡月橋上流",
-      "date_info": "2026年11月7日（土）・8日（日）",
-      "post_text": "紅葉の嵐山で、平安貴族の舟遊びを再現する「嵐山もみじ祭り」。大堰川と川岸を舞台に、今様や平安管弦の演舞が繰り広げられます。開催は2026年11月7日（土）・8日（日）。#京都 #嵐山",
-      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=4066",
-      "source_title": "嵐山もみじ祭り｜京都市公式 京都観光Navi",
+      "title": "浅草酉の市",
+      "area": "東京都台東区・浅草 鷲神社、長國寺周辺",
+      "date_info": "2026年11月7日〜11月19日",
+      "post_text": "商売繁盛や開運招福を願う「浅草酉の市」へ。熊手が並ぶ境内と、夜の浅草ならではの活気を楽しめます。開催は2026年11月7日〜19日。#浅草酉の市 #東京観光",
+      "source_url": "https://www.gotokyo.org/jp/spot/ev090/index.html",
+      "source_title": "浅草酉の市／東京の観光公式サイトGO TOKYO",
       "pexels_queries": [
-        "Arashiyama Togetsukyo Bridge autumn Kyoto Japan"
+        "Asakusa Tori no Ichi festival Tokyo Japan night market"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-06/upcoming_event_1_1.png"
+        "generated_media/2026-10-07/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-06/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-07/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-06/upcoming_event_1_1.png",
-      "generated_date": "2026-10-06"
+      "image_path": "generated_media/2026-10-07/upcoming_event_1_1.png",
+      "generated_date": "2026-10-07"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "清津峡の紅葉と光のトンネル",
-      "area": "新潟県十日町市・清津峡",
-      "date_info": "紅葉の見頃は例年10月中旬〜11月上旬",
-      "post_text": "切り立つ岩壁と清流がつくる、日本三大峡谷の清津峡へ。紅葉の見頃は例年10月中旬〜11月上旬で、渓谷トンネルの「Tunnel of Light」から見る秋色の景観は格別です。#新潟 #清津峡",
-      "source_url": "https://niigata-kankou.or.jp/spot/detail_6950.html",
-      "source_title": "新潟県の紅葉スポット｜にいがた観光ナビ",
+      "title": "飯綱高原・大座法師池の紅葉",
+      "area": "長野県長野市・飯綱高原",
+      "date_info": "例年の見頃：10月中旬〜10月下旬",
+      "post_text": "湖面に映る飯縄山と紅葉を眺める、長野の高原さんぽ。大座法師池や飯綱湖は、秋色の森を気軽に楽しみたい日にぴったりです。#長野旅行 #紅葉",
+      "source_url": "https://www.nagano-cvb.or.jp/modules/flower/kind/2",
+      "source_title": "開花情報 - 紅葉｜ながの観光net",
       "pexels_queries": [
-        "Kiyotsu Gorge autumn leaves Tokamachi Niigata Japan"
+        "Iizuna Kogen Ozehoshi Pond autumn leaves Nagano Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-06/destination_1_1.png"
+        "generated_media/2026-10-07/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-06/destination_1_1.png"
+          "path": "generated_media/2026-10-07/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-06/destination_1_1.png",
-      "generated_date": "2026-10-06"
+      "image_path": "generated_media/2026-10-07/destination_1_1.png",
+      "generated_date": "2026-10-07"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "九重“夢”大吊橋 20周年記念 秋の大感謝祭",
-      "area": "大分県玖珠郡九重町・九重“夢”大吊橋",
-      "date_info": "2026年10月31日（土）〜11月1日（日）",
-      "post_text": "紅葉に包まれる九重“夢”大吊橋で、20周年記念の秋の大感謝祭が開催。標高777mの大吊橋から、九重連山と秋色の渓谷を眺める絶景旅へ。期間は2026年10月31日（土）〜11月1日（日）。#大分 #九重",
-      "source_url": "https://www.visit-oita.jp/events/",
-      "source_title": "イベント情報｜日本一の「おんせん県」大分県の観光情報公式サイト",
+      "title": "小倉イルミネーション2026",
+      "area": "福岡県北九州市・小倉北区各所",
+      "date_info": "2026年11月20日〜2027年1月11日",
+      "post_text": "小倉の街が光に包まれる「小倉イルミネーション2026」。夕食前の街歩きにも、冬の夜景旅にもおすすめです。開催は2026年11月20日〜2027年1月11日。#北九州 #イルミネーション",
+      "source_url": "https://www.city.kitakyushu.lg.jp/cgi-bin/form/event.php?e=202612&eventArea=&eventLargeClassification=&f=event.html&o=eventDate",
+      "source_title": "イベントカレンダー｜北九州市",
       "pexels_queries": [
-        "Kokonoe Yume Otsurihashi Bridge autumn Kyushu Japan"
+        "Kokura Illumination winter lights Kitakyushu Fukuoka Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-06/upcoming_event_2_1.png"
+        "generated_media/2026-10-07/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-06/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-07/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-06/upcoming_event_2_1.png",
-      "generated_date": "2026-10-06"
+      "image_path": "generated_media/2026-10-07/upcoming_event_2_1.png",
+      "generated_date": "2026-10-07"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "おけさ柿",
-      "area": "新潟県佐渡市",
+      "title": "鮭の焼漬け",
+      "area": "新潟県村上市・三面川周辺",
       "date_info": "秋が旬",
-      "post_text": "佐渡の秋を代表する、種なしで甘みの強い「おけさ柿」。澄んだ空気と豊かな日照に育まれた、なめらかな食感の味わいです。旬の時期は生のまま、干し柿でじっくり楽しむのもおすすめ。#佐渡 #新潟グルメ",
-      "source_url": "https://niigata-kankou.or.jp/feature/okesagaki/",
-      "source_title": "新潟名物「おけさ柿」とは？｜にいがた観光ナビ",
+      "post_text": "鮭のまち・村上で味わいたい「鮭の焼漬け」。焼いた鮭を醤油だれに漬け込む、保存食の知恵から生まれた郷土の味です。新米と一緒にぜひ。#村上グルメ #新潟旅行",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html",
+      "source_title": "秋｜うちの郷土料理：農林水産省",
       "pexels_queries": [
-        "Okesa persimmon Sado Island Niigata Japan"
+        "Murakami grilled marinated salmon local food Niigata Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-06/local_food_1_1.png"
+        "generated_media/2026-10-07/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-06/local_food_1_1.png"
+          "path": "generated_media/2026-10-07/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-06/local_food_1_1.png",
-      "generated_date": "2026-10-06"
+      "image_path": "generated_media/2026-10-07/local_food_1_1.png",
+      "generated_date": "2026-10-07"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "長門湯本温泉の秋旅",
-      "area": "山口県長門市・長門湯本温泉",
-      "date_info": "2026年秋",
-      "post_text": "音信川沿いのそぞろ歩きが心地よい、長門湯本温泉へ。秋は温泉街に季節の味覚を使った料理がそろい、夕暮れの川辺と湯あがり散策をゆっくり楽しめます。秋グルメと温泉で、山口の秋を満喫。#山口 #長門湯本温泉",
-      "source_url": "https://yumotoonsen.com/news/aki-gourmet2026/",
-      "source_title": "長門湯本NEWS：温泉街で秋グルメが充実しています",
+      "title": "秋の京丹後・海とフルーツの里めぐり",
+      "area": "京都府京丹後市・久美浜、網野、丹後町周辺",
+      "date_info": "秋の味覚と紅葉を楽しめる季節",
+      "post_text": "海沿いの景色と、直売所に並ぶ秋のフルーツをめぐる京丹後旅。旬の味覚を探しながら、温泉や夕景までゆっくり楽しめます。#京丹後 #京都旅行",
+      "source_url": "https://www.kyotango.gr.jp/autumn/",
+      "source_title": "ね、来てよかったでしょ？ 〜秋の京丹後〜｜京丹後ナビ",
       "pexels_queries": [
-        "Nagato Yumoto Onsen autumn river Yamaguchi Japan"
+        "Kyotango coastline autumn fruit market Kyoto Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-06/destination_2_1.png"
+        "generated_media/2026-10-07/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-06/destination_2_1.png"
+          "path": "generated_media/2026-10-07/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-06/destination_2_1.png",
-      "generated_date": "2026-10-06"
+      "image_path": "generated_media/2026-10-07/destination_2_1.png",
+      "generated_date": "2026-10-07"
     }
   ]
 }
