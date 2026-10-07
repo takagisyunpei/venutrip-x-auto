@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "浅草酉の市",
-      "area": "東京都台東区・浅草 鷲神社、長國寺周辺",
-      "date_info": "2026年11月7日〜11月19日",
-      "post_text": "商売繁盛や開運招福を願う「浅草酉の市」へ。熊手が並ぶ境内と、夜の浅草ならではの活気を楽しめます。開催は2026年11月7日〜19日。#浅草酉の市 #東京観光",
-      "source_url": "https://www.gotokyo.org/jp/spot/ev090/index.html",
-      "source_title": "浅草酉の市／東京の観光公式サイトGO TOKYO",
+      "title": "秩父夜祭",
+      "area": "埼玉県秩父市・秩父神社周辺、市街地",
+      "date_info": "2026年12月2日（水）宵宮・12月3日（木）本祭",
+      "post_text": "極彩色の山車が夜の秩父を進む、ユネスコ無形文化遺産の「秩父夜祭」。2026年は12月2日・3日に開催予定です。冬の澄んだ空気に花火が映える、秩父の代表的な祭りへ。#秩父夜祭 #埼玉旅",
+      "source_url": "https://navi.city.chichibu.lg.jp/info/2026/10/31171/",
+      "source_title": "令和8年「秩父夜祭」について｜秩父観光なび",
       "pexels_queries": [
-        "Asakusa Tori no Ichi festival Tokyo Japan night market"
+        "Chichibu Night Festival Saitama Japan illuminated floats fireworks"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-07/upcoming_event_1_1.png"
+        "generated_media/2026-10-08/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-07/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-08/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-07/upcoming_event_1_1.png",
-      "generated_date": "2026-10-07"
+      "image_path": "generated_media/2026-10-08/upcoming_event_1_1.png",
+      "generated_date": "2026-10-08"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "飯綱高原・大座法師池の紅葉",
-      "area": "長野県長野市・飯綱高原",
-      "date_info": "例年の見頃：10月中旬〜10月下旬",
-      "post_text": "湖面に映る飯縄山と紅葉を眺める、長野の高原さんぽ。大座法師池や飯綱湖は、秋色の森を気軽に楽しみたい日にぴったりです。#長野旅行 #紅葉",
-      "source_url": "https://www.nagano-cvb.or.jp/modules/flower/kind/2",
-      "source_title": "開花情報 - 紅葉｜ながの観光net",
+      "title": "高千穂峡の紅葉と早朝の雲海",
+      "area": "宮崎県西臼杵郡高千穂町・高千穂峡、国見ヶ丘周辺",
+      "date_info": "紅葉は例年11月中旬〜11月下旬、雲海は10月初旬〜12月初旬の早朝が目安",
+      "post_text": "11月の高千穂は、柱状節理の渓谷に紅葉が重なる季節。早朝は国見ヶ丘から雲海を狙い、日中は高千穂峡の貸しボートで神秘的な景観を間近に楽しみたい旅先です。#高千穂 #宮崎旅",
+      "source_url": "https://takachiho-kanko.info/faq/",
+      "source_title": "よくあるご質問｜高千穂町観光協会",
       "pexels_queries": [
-        "Iizuna Kogen Ozehoshi Pond autumn leaves Nagano Japan"
+        "Takachiho Gorge autumn foliage Miyazaki Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-07/destination_1_1.png"
+        "generated_media/2026-10-08/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-07/destination_1_1.png"
+          "path": "generated_media/2026-10-08/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-07/destination_1_1.png",
-      "generated_date": "2026-10-07"
+      "image_path": "generated_media/2026-10-08/destination_1_1.png",
+      "generated_date": "2026-10-08"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "小倉イルミネーション2026",
-      "area": "福岡県北九州市・小倉北区各所",
-      "date_info": "2026年11月20日〜2027年1月11日",
-      "post_text": "小倉の街が光に包まれる「小倉イルミネーション2026」。夕食前の街歩きにも、冬の夜景旅にもおすすめです。開催は2026年11月20日〜2027年1月11日。#北九州 #イルミネーション",
-      "source_url": "https://www.city.kitakyushu.lg.jp/cgi-bin/form/event.php?e=202612&eventArea=&eventLargeClassification=&f=event.html&o=eventDate",
-      "source_title": "イベントカレンダー｜北九州市",
+      "title": "東福寺塔頭 天得院 秋の特別拝観",
+      "area": "京都府京都市東山区・東福寺塔頭 天得院",
+      "date_info": "2026年11月14日（土）〜12月6日（日）9:00〜20:00、16:00頃からライトアップ",
+      "post_text": "苔の庭と紅葉をしっとり眺める、東福寺塔頭・天得院の秋の特別拝観。2026年11月14日〜12月6日に開催され、夕方からは庭園がライトアップされます。京都の秋を静かに楽しみたい人へ。#京都紅葉 #秋の京都",
+      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=264",
+      "source_title": "東福寺塔頭 天得院 秋の特別拝観｜京都市公式京都観光Navi",
       "pexels_queries": [
-        "Kokura Illumination winter lights Kitakyushu Fukuoka Japan"
+        "Tokuin Temple autumn garden Kyoto Japan maple illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-07/upcoming_event_2_1.png"
+        "generated_media/2026-10-08/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-07/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-08/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-07/upcoming_event_2_1.png",
-      "generated_date": "2026-10-07"
+      "image_path": "generated_media/2026-10-08/upcoming_event_2_1.png",
+      "generated_date": "2026-10-08"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "鮭の焼漬け",
-      "area": "新潟県村上市・三面川周辺",
-      "date_info": "秋が旬",
-      "post_text": "鮭のまち・村上で味わいたい「鮭の焼漬け」。焼いた鮭を醤油だれに漬け込む、保存食の知恵から生まれた郷土の味です。新米と一緒にぜひ。#村上グルメ #新潟旅行",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html",
-      "source_title": "秋｜うちの郷土料理：農林水産省",
+      "title": "淡路島の鱧すき",
+      "area": "兵庫県南あわじ市・淡路島南部",
+      "date_info": "旬の目安は6月〜11月。秋は脂がのった鱧を味わいやすい時期",
+      "post_text": "淡路島で食べたい秋の名物、鱧すき。鱧のアラで取っただしに、甘みのある淡路島たまねぎを合わせる郷土料理です。骨切りされた鱧のふんわりした身と、締めのそうめんまで味わいたい一鍋。#淡路島グルメ #鱧すき",
+      "source_url": "https://www.awajishima-kanko.jp/awaji/hamo/",
+      "source_title": "淡路島の鱧｜淡路島観光ガイド",
       "pexels_queries": [
-        "Murakami grilled marinated salmon local food Niigata Japan"
+        "Awajishima hamo suki hot pot Hyogo Japan onion"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-07/local_food_1_1.png"
+        "generated_media/2026-10-08/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-07/local_food_1_1.png"
+          "path": "generated_media/2026-10-08/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-07/local_food_1_1.png",
-      "generated_date": "2026-10-07"
+      "image_path": "generated_media/2026-10-08/local_food_1_1.png",
+      "generated_date": "2026-10-08"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "秋の京丹後・海とフルーツの里めぐり",
-      "area": "京都府京丹後市・久美浜、網野、丹後町周辺",
-      "date_info": "秋の味覚と紅葉を楽しめる季節",
-      "post_text": "海沿いの景色と、直売所に並ぶ秋のフルーツをめぐる京丹後旅。旬の味覚を探しながら、温泉や夕景までゆっくり楽しめます。#京丹後 #京都旅行",
-      "source_url": "https://www.kyotango.gr.jp/autumn/",
-      "source_title": "ね、来てよかったでしょ？ 〜秋の京丹後〜｜京丹後ナビ",
+      "title": "京都・大原の紅葉と里山散歩",
+      "area": "京都府京都市左京区・大原三千院周辺",
+      "date_info": "紅葉は例年11月上旬〜12月上旬。山手は市街地より早く色づく傾向",
+      "post_text": "喧騒を離れて秋の京都へ行くなら大原。三千院の苔庭や山里の紅葉を歩き、温かい湯豆腐や京漬物を味わう一日旅がおすすめです。11月は朝の澄んだ空気と、寺院を包む静かな彩りが魅力。#大原 #京都旅",
+      "source_url": "https://ja.kyoto.travel/flower/momiji/search.php?search_spot%5B%5D=9",
+      "source_title": "紅葉の名所｜京都市公式京都観光Navi",
       "pexels_queries": [
-        "Kyotango coastline autumn fruit market Kyoto Japan"
+        "Ohara Sanzenin autumn leaves Kyoto Japan temple garden"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-07/destination_2_1.png"
+        "generated_media/2026-10-08/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-07/destination_2_1.png"
+          "path": "generated_media/2026-10-08/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-07/destination_2_1.png",
-      "generated_date": "2026-10-07"
+      "image_path": "generated_media/2026-10-08/destination_2_1.png",
+      "generated_date": "2026-10-08"
     }
   ]
 }
