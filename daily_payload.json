@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "本場大館きりたんぽまつり",
-      "area": "秋田県大館市・ニプロハチ公ドーム",
-      "date_info": "2026年10月10日（土）・11日（日）",
-      "post_text": "新米のきりたんぽと比内地鶏を味わう、秋田・大館の食の祭典。きりたんぽグランプリや味噌つけたんぽ作りなど、郷土の味を楽しむ体験も充実します。開催は10月10日・11日。#秋田旅行 #きりたんぽ",
-      "source_url": "https://visitakita.com/tourist-guide/event21/",
-      "source_title": "本場大館きりたんぽまつり｜秋田犬ツーリズム",
+      "title": "越前かにまつり2026",
+      "area": "福井県丹生郡越前町・道の駅「越前」",
+      "date_info": "2026年11月14日（土）・15日（日）、21日（土）・22日（日）",
+      "post_text": "越前がにの季節が到来🦀 道の駅「越前」で、セイコガニ汁や海鮮焼き、甲羅蒸しを楽しめる「越前かにまつり2026」を開催。開催日は11月14・15日、21・22日です。#福井旅行 #越前がに",
+      "source_url": "https://fuku-iro.jp/event/detail_11462.html",
+      "source_title": "越前かにまつり2026（@道の駅越前）｜福いろ",
       "pexels_queries": [
-        "Odate Akita kiritanpo festival hot pot Japan"
+        "Echizen crab festival Echizen Fukui Japan seafood market"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-09/upcoming_event_1_1.png"
+        "generated_media/2026-10-10/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-09/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-10/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-09/upcoming_event_1_1.png",
-      "generated_date": "2026-10-09"
+      "image_path": "generated_media/2026-10-10/upcoming_event_1_1.png",
+      "generated_date": "2026-10-10"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "奥入瀬渓流の紅葉散策",
-      "area": "青森県十和田市・奥入瀬渓流",
-      "date_info": "紅葉の見頃目安：2026年10月下旬",
-      "post_text": "苔むした岩、滝、清流が約14km続く奥入瀬渓流。10月下旬は紅葉が渓流沿いを彩り、木漏れ日と水音に包まれる散策が楽しめます。早朝の静かな時間を狙って、秋の森へ。#青森旅行 #紅葉",
-      "source_url": "https://aomori-tourism.com/spot/detail_339.html",
-      "source_title": "奥入瀬渓流｜Amazing AOMORI",
+      "title": "大窪寺の紅葉とお遍路の里歩き",
+      "area": "香川県さぬき市・大窪寺周辺",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
+      "post_text": "四国遍路の結願寺・大窪寺へ。境内を彩る大イチョウやモミジが見頃を迎える秋は、門前町の空気まで格別です。静かな山寺で、季節の移ろいを感じる一日を。#香川旅行 #紅葉旅",
+      "source_url": "https://shikoku-tourism.com/feature/kouyou/rist_map",
+      "source_title": "おすすめの絶景紅葉スポット｜ツーリズム四国",
       "pexels_queries": [
-        "Oirase Gorge Towada Aomori autumn foliage stream Japan"
+        "Okuboji Temple autumn leaves Sanuki Kagawa Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-09/destination_1_1.png"
+        "generated_media/2026-10-10/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-09/destination_1_1.png"
+          "path": "generated_media/2026-10-10/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-09/destination_1_1.png",
-      "generated_date": "2026-10-09"
+      "image_path": "generated_media/2026-10-10/destination_1_1.png",
+      "generated_date": "2026-10-10"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "いずみマチ・テラス2026",
-      "area": "鹿児島県出水市・出水麓武家屋敷群周辺",
-      "date_info": "2026年10月31日（土）〜11月3日（火・祝）",
-      "post_text": "歴史ある出水麓武家屋敷群を竹灯籠が彩る、鹿児島・出水の秋イベント。10月31日から11月3日まで、光に包まれた町並みとステージ、飲食ブースを楽しめます。#鹿児島旅行 #竹灯籠",
-      "source_url": "https://www.kagoshima-kankou.com/event",
-      "source_title": "イベント｜かごしまの旅",
+      "title": "ジオガイドと行く秋吉台草紅葉ウォーキングツアー",
+      "area": "山口県美祢市・秋吉台",
+      "date_info": "2026年11月23日（月・祝）",
+      "post_text": "ススキとチガヤが揺れる秋吉台を、ジオガイドと歩く特別ツアー。草紅葉に染まるカルスト台地を眺めながら、地形や大地の物語にも出会えます。開催日は11月23日です。#山口旅行 #秋吉台",
+      "source_url": "https://yamaguchi-tourism.jp/event/detail_19125.html",
+      "source_title": "ジオガイドと行く秋吉台草紅葉ウォーキングツアー｜おいでませ山口へ",
       "pexels_queries": [
-        "Izumi Kagoshima bamboo lantern townscape Japan"
+        "Akiyoshidai autumn pampas grass Mine Yamaguchi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-09/upcoming_event_2_1.png"
+        "generated_media/2026-10-10/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-09/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-10/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-09/upcoming_event_2_1.png",
-      "generated_date": "2026-10-09"
+      "image_path": "generated_media/2026-10-10/upcoming_event_2_1.png",
+      "generated_date": "2026-10-10"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "博多水炊き",
-      "area": "福岡県福岡市・博多、中洲周辺",
-      "date_info": "通年。秋冬の食べ歩きにおすすめ",
-      "post_text": "鶏の旨みが溶け込んだ白濁スープを、まずは一口。博多水炊きは、鶏肉やつくね、野菜を味わい、最後は雑炊で締める福岡の代表的な郷土料理です。秋の博多旅で、温かな一鍋を。#福岡グルメ #博多水炊き",
-      "source_url": "https://yokanavi.com/gourmet",
-      "source_title": "福岡・博多グルメ｜よかなび",
+      "title": "八戸せんべい汁",
+      "area": "青森県八戸市・八戸市内各店",
+      "date_info": "秋冬におすすめ",
+      "post_text": "八戸で食べたい郷土鍋、せんべい汁。鶏だしや魚だしの汁に専用の南部せんべいを煮込み、もちもち食感を味わいます。冷え込む季節の八戸旅にぴったりの一杯です。#八戸グルメ #青森旅行",
+      "source_url": "https://aomori-tourism.com/spot/detail_2082.html",
+      "source_title": "八戸せんべい汁｜Amazing AOMORI",
       "pexels_queries": [
-        "Hakata mizutaki hot pot Fukuoka Japan"
+        "Hachinohe senbei jiru rice cracker soup Hachinohe Aomori Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-09/local_food_1_1.png"
+        "generated_media/2026-10-10/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-09/local_food_1_1.png"
+          "path": "generated_media/2026-10-10/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-09/local_food_1_1.png",
-      "generated_date": "2026-10-09"
+      "image_path": "generated_media/2026-10-10/local_food_1_1.png",
+      "generated_date": "2026-10-10"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "大歩危・小歩危の紅葉と渓谷めぐり",
-      "area": "徳島県三好市・大歩危峡、小歩危峡",
-      "date_info": "紅葉の見頃目安：11月中旬〜下旬",
-      "post_text": "吉野川が刻んだ深い渓谷を、遊覧船や散策で楽しむ徳島・大歩危小歩危。秋は切り立つ岩肌と渓谷沿いの木々が色づき、船上から眺める紅葉は格別です。祖谷のかずら橋と合わせて秋旅に。#徳島旅行 #紅葉",
-      "source_url": "https://shikoku-tourism.com/spot/22119",
-      "source_title": "大歩危・小歩危の紅葉｜ツーリズム四国",
+      "title": "三段峡の紅葉渓谷さんぽ",
+      "area": "広島県山県郡安芸太田町・三段峡",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
+      "post_text": "清流と断崖がつくる西日本屈指の渓谷美、三段峡。秋は木々が色づき、遊歩道を歩くたびに水音と紅葉の景色が広がります。深まる秋の広島で、自然に浸る旅へ。#広島旅行 #紅葉スポット",
+      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/life/998135_8927130_misc.pdf",
+      "source_title": "広島観光情報 三段峡｜広島県",
       "pexels_queries": [
-        "Oboke Koboke Gorge Tokushima autumn foliage Japan"
+        "Sandankyo Gorge autumn leaves Akiota Hiroshima Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-09/destination_2_1.png"
+        "generated_media/2026-10-10/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-09/destination_2_1.png"
+          "path": "generated_media/2026-10-10/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-09/destination_2_1.png",
-      "generated_date": "2026-10-09"
+      "image_path": "generated_media/2026-10-10/destination_2_1.png",
+      "generated_date": "2026-10-10"
     }
   ]
 }
