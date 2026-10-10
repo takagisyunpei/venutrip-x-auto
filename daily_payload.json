@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "越前かにまつり2026",
-      "area": "福井県丹生郡越前町・道の駅「越前」",
-      "date_info": "2026年11月14日（土）・15日（日）、21日（土）・22日（日）",
-      "post_text": "越前がにの季節が到来🦀 道の駅「越前」で、セイコガニ汁や海鮮焼き、甲羅蒸しを楽しめる「越前かにまつり2026」を開催。開催日は11月14・15日、21・22日です。#福井旅行 #越前がに",
-      "source_url": "https://fuku-iro.jp/event/detail_11462.html",
-      "source_title": "越前かにまつり2026（@道の駅越前）｜福いろ",
+      "title": "第47回しまばら温泉不知火まつり",
+      "area": "長崎県島原市・島原一番街アーケード、島原城大手門市ステージ",
+      "date_info": "2026年10月17日（土）11:00〜14:30",
+      "post_text": "島原の秋を彩る「しまばら温泉不知火まつり」へ。島原の本丸踊り・総踊りのパレードや、不知火奉納舞台を楽しめます。開催は2026年10月17日。城下町散策とあわせてどうぞ。#島原 #長崎旅行",
+      "source_url": "https://www.city.shimabara.lg.jp/kanko/page20630.html?type=top",
+      "source_title": "第47回しまばら温泉不知火まつりを開催します！｜島原市公式ホームページ",
       "pexels_queries": [
-        "Echizen crab festival Echizen Fukui Japan seafood market"
+        "Shimabara Nagasaki Japan traditional festival street parade autumn"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-10/upcoming_event_1_1.png"
+        "generated_media/2026-10-11/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-10/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-11/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-10/upcoming_event_1_1.png",
-      "generated_date": "2026-10-10"
+      "image_path": "generated_media/2026-10-11/upcoming_event_1_1.png",
+      "generated_date": "2026-10-11"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "大窪寺の紅葉とお遍路の里歩き",
-      "area": "香川県さぬき市・大窪寺周辺",
-      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
-      "post_text": "四国遍路の結願寺・大窪寺へ。境内を彩る大イチョウやモミジが見頃を迎える秋は、門前町の空気まで格別です。静かな山寺で、季節の移ろいを感じる一日を。#香川旅行 #紅葉旅",
-      "source_url": "https://shikoku-tourism.com/feature/kouyou/rist_map",
-      "source_title": "おすすめの絶景紅葉スポット｜ツーリズム四国",
+      "title": "金沢・兼六園の秋紅葉と夜景",
+      "area": "石川県金沢市・兼六園、金沢城公園周辺",
+      "date_info": "紅葉の見頃は例年11月中旬〜下旬。ライトアップは2026年11月7日、14日、15日、21日、22日、28日、29日",
+      "post_text": "秋の金沢は、兼六園の紅葉と金沢城・兼六園ライトアップをめぐる旅に。庭園の池に映る赤や黄の彩りは、昼と夜で表情が変わります。茶屋街や海の幸も一緒に楽しみたい季節です。#金沢旅行 #紅葉",
+      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/article/detail_152.html",
+      "source_title": "兼六園から穴場まで！秋の金沢で行くべき「とっておきの紅葉スポット10選」｜金沢旅物語",
       "pexels_queries": [
-        "Okuboji Temple autumn leaves Sanuki Kagawa Japan"
+        "Kenrokuen Garden Kanazawa Ishikawa Japan autumn maple leaves pond"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-10/destination_1_1.png"
+        "generated_media/2026-10-11/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-10/destination_1_1.png"
+          "path": "generated_media/2026-10-11/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-10/destination_1_1.png",
-      "generated_date": "2026-10-10"
+      "image_path": "generated_media/2026-10-11/destination_1_1.png",
+      "generated_date": "2026-10-11"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "ジオガイドと行く秋吉台草紅葉ウォーキングツアー",
-      "area": "山口県美祢市・秋吉台",
-      "date_info": "2026年11月23日（月・祝）",
-      "post_text": "ススキとチガヤが揺れる秋吉台を、ジオガイドと歩く特別ツアー。草紅葉に染まるカルスト台地を眺めながら、地形や大地の物語にも出会えます。開催日は11月23日です。#山口旅行 #秋吉台",
-      "source_url": "https://yamaguchi-tourism.jp/event/detail_19125.html",
-      "source_title": "ジオガイドと行く秋吉台草紅葉ウォーキングツアー｜おいでませ山口へ",
+      "title": "魚の駅「生地」大感謝祭",
+      "area": "富山県黒部市・魚の駅「生地」",
+      "date_info": "2026年10月11日（日）",
+      "post_text": "富山湾の海の幸を楽しむなら、黒部・魚の駅「生地」の大感謝祭へ。鮮魚や地元グルメに出会える一日です。宇奈月温泉や黒部峡谷の秋旅と組み合わせて、富山の旬を満喫しませんか。#富山旅行 #黒部",
+      "source_url": "https://www.kurobe-unazuki.jp/event/",
+      "source_title": "イベント情報｜黒部めぐり〈黒部・宇奈月温泉観光局公式サイト〉",
       "pexels_queries": [
-        "Akiyoshidai autumn pampas grass Mine Yamaguchi Japan"
+        "Kurobe Toyama Japan seafood market harbor fresh fish"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-10/upcoming_event_2_1.png"
+        "generated_media/2026-10-11/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-10/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-11/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-10/upcoming_event_2_1.png",
-      "generated_date": "2026-10-10"
+      "image_path": "generated_media/2026-10-11/upcoming_event_2_1.png",
+      "generated_date": "2026-10-11"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "八戸せんべい汁",
-      "area": "青森県八戸市・八戸市内各店",
-      "date_info": "秋冬におすすめ",
-      "post_text": "八戸で食べたい郷土鍋、せんべい汁。鶏だしや魚だしの汁に専用の南部せんべいを煮込み、もちもち食感を味わいます。冷え込む季節の八戸旅にぴったりの一杯です。#八戸グルメ #青森旅行",
-      "source_url": "https://aomori-tourism.com/spot/detail_2082.html",
-      "source_title": "八戸せんべい汁｜Amazing AOMORI",
+      "title": "塩原高原大根料理",
+      "area": "栃木県那須塩原市・塩原温泉郷",
+      "date_info": "塩原高原大根キャンペーンは2026年9月15日〜11月15日頃",
+      "post_text": "秋の塩原温泉で味わいたいのが、寒暖差で甘みを増す塩原高原大根。旅館や飲食店では、煮物や漬物など地域ならではの料理に出会えます。紅葉狩りのあとは、温泉と旬の大根料理でほっとひと息。#塩原温泉 #栃木グルメ",
+      "source_url": "https://www.tochigiji.or.jp/event/e15689",
+      "source_title": "秋の旬感ベジたべる！塩原高原大根キャンペーン｜とちぎ旅ネット",
       "pexels_queries": [
-        "Hachinohe senbei jiru rice cracker soup Hachinohe Aomori Japan"
+        "Shiobara Tochigi Japan daikon radish local cuisine autumn hot spring town"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-10/local_food_1_1.png"
+        "generated_media/2026-10-11/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-10/local_food_1_1.png"
+          "path": "generated_media/2026-10-11/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-10/local_food_1_1.png",
-      "generated_date": "2026-10-10"
+      "image_path": "generated_media/2026-10-11/local_food_1_1.png",
+      "generated_date": "2026-10-11"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "三段峡の紅葉渓谷さんぽ",
-      "area": "広島県山県郡安芸太田町・三段峡",
-      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
-      "post_text": "清流と断崖がつくる西日本屈指の渓谷美、三段峡。秋は木々が色づき、遊歩道を歩くたびに水音と紅葉の景色が広がります。深まる秋の広島で、自然に浸る旅へ。#広島旅行 #紅葉スポット",
-      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/life/998135_8927130_misc.pdf",
-      "source_title": "広島観光情報 三段峡｜広島県",
+      "title": "日光・奥日光の紅葉と湖畔散策",
+      "area": "栃木県日光市・湯ノ湖、いろは坂、霧降の滝周辺",
+      "date_info": "2026年10月中旬〜11月上旬頃に紅葉が進む季節",
+      "post_text": "木々が赤や黄に染まる秋の日光へ。湯ノ湖の静かな湖畔、いろは坂の絶景、霧降の滝をめぐれば、日帰りでも奥深い秋旅に。混雑を避けるなら、朝早い時間帯や公共交通での移動がおすすめです。#日光 #紅葉旅",
+      "source_url": "https://www.city.nikko.lg.jp/soshiki/6/1024/1/1/2618.html",
+      "source_title": "Route. N #6 秋の現実逃避ルート｜日光市公式ホームページ",
       "pexels_queries": [
-        "Sandankyo Gorge autumn leaves Akiota Hiroshima Japan"
+        "Nikko Tochigi Japan autumn foliage Lake Chuzenji mountain road waterfall"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-10/destination_2_1.png"
+        "generated_media/2026-10-11/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-10/destination_2_1.png"
+          "path": "generated_media/2026-10-11/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-10/destination_2_1.png",
-      "generated_date": "2026-10-10"
+      "image_path": "generated_media/2026-10-11/destination_2_1.png",
+      "generated_date": "2026-10-11"
     }
   ]
 }
