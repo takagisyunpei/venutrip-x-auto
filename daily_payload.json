@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "第47回しまばら温泉不知火まつり",
-      "area": "長崎県島原市・島原一番街アーケード、島原城大手門市ステージ",
-      "date_info": "2026年10月17日（土）11:00〜14:30",
-      "post_text": "島原の秋を彩る「しまばら温泉不知火まつり」へ。島原の本丸踊り・総踊りのパレードや、不知火奉納舞台を楽しめます。開催は2026年10月17日。城下町散策とあわせてどうぞ。#島原 #長崎旅行",
-      "source_url": "https://www.city.shimabara.lg.jp/kanko/page20630.html?type=top",
-      "source_title": "第47回しまばら温泉不知火まつりを開催します！｜島原市公式ホームページ",
+      "title": "鹿児島ジャズフェスティバル 2026 the 10th",
+      "area": "鹿児島県鹿児島市・鹿児島市中心部",
+      "date_info": "2026年10月17日（土）〜10月18日（日）",
+      "post_text": "秋の鹿児島に音楽が響く2日間。街なかを舞台に、国内外のジャズアーティストが熱演する「鹿児島ジャズフェスティバル 2026」。旅の夜を彩るライブを楽しみに出かけませんか？ 2026年10月17日〜18日開催。#鹿児島旅行 #ジャズフェス",
+      "source_url": "https://www.kagoshima-kankou.com/event",
+      "source_title": "鹿児島県観光サイト かごしまの旅｜イベント",
       "pexels_queries": [
-        "Shimabara Nagasaki Japan traditional festival street parade autumn"
+        "Kagoshima City Kagoshima Japan outdoor jazz festival live music"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-11/upcoming_event_1_1.png"
+        "generated_media/2026-10-12/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-11/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-12/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-11/upcoming_event_1_1.png",
-      "generated_date": "2026-10-11"
+      "image_path": "generated_media/2026-10-12/upcoming_event_1_1.png",
+      "generated_date": "2026-10-12"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "金沢・兼六園の秋紅葉と夜景",
-      "area": "石川県金沢市・兼六園、金沢城公園周辺",
-      "date_info": "紅葉の見頃は例年11月中旬〜下旬。ライトアップは2026年11月7日、14日、15日、21日、22日、28日、29日",
-      "post_text": "秋の金沢は、兼六園の紅葉と金沢城・兼六園ライトアップをめぐる旅に。庭園の池に映る赤や黄の彩りは、昼と夜で表情が変わります。茶屋街や海の幸も一緒に楽しみたい季節です。#金沢旅行 #紅葉",
-      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/article/detail_152.html",
-      "source_title": "兼六園から穴場まで！秋の金沢で行くべき「とっておきの紅葉スポット10選」｜金沢旅物語",
+      "title": "大沼公園の紅葉と湖畔ドライブ",
+      "area": "北海道亀田郡七飯町・大沼国定公園",
+      "date_info": "紅葉の見頃目安：2026年10月中旬〜11月中旬",
+      "post_text": "湖に映る紅葉、駒ヶ岳のシルエット、秋色の遊歩道。大沼公園は、北海道の秋をゆっくり味わえる湖畔の旅先です。ボートや散策、温泉を組み合わせて、深まる季節の絶景を楽しみたい。#北海道旅行 #大沼公園",
+      "source_url": "https://www.visit-hokkaido.jp/",
+      "source_title": "公式観光サイト HOKKAIDO LOVE!",
       "pexels_queries": [
-        "Kenrokuen Garden Kanazawa Ishikawa Japan autumn maple leaves pond"
+        "Onuma Park Nanae Hokkaido Japan autumn foliage lake Mount Komagatake"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-11/destination_1_1.png"
+        "generated_media/2026-10-12/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-11/destination_1_1.png"
+          "path": "generated_media/2026-10-12/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-11/destination_1_1.png",
-      "generated_date": "2026-10-11"
+      "image_path": "generated_media/2026-10-12/destination_1_1.png",
+      "generated_date": "2026-10-12"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "魚の駅「生地」大感謝祭",
-      "area": "富山県黒部市・魚の駅「生地」",
-      "date_info": "2026年10月11日（日）",
-      "post_text": "富山湾の海の幸を楽しむなら、黒部・魚の駅「生地」の大感謝祭へ。鮮魚や地元グルメに出会える一日です。宇奈月温泉や黒部峡谷の秋旅と組み合わせて、富山の旬を満喫しませんか。#富山旅行 #黒部",
-      "source_url": "https://www.kurobe-unazuki.jp/event/",
-      "source_title": "イベント情報｜黒部めぐり〈黒部・宇奈月温泉観光局公式サイト〉",
+      "title": "天童秋まつり",
+      "area": "山形県天童市・市内各所",
+      "date_info": "2026年10月上旬〜11月下旬",
+      "post_text": "将棋のまち・天童が秋色に染まる「天童秋まつり」。もみじ園のライトアップや菊花展、新そばなど、市内各所で秋の魅力を満喫できます。2026年10月上旬〜11月下旬開催。#山形旅行 #天童秋まつり",
+      "source_url": "https://yamagatakanko.com/festivals/detail_8084.html",
+      "source_title": "やまがたへの旅｜天童秋まつり",
       "pexels_queries": [
-        "Kurobe Toyama Japan seafood market harbor fresh fish"
+        "Tendo Yamagata Japan autumn foliage park traditional Japanese town"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-11/upcoming_event_2_1.png"
+        "generated_media/2026-10-12/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-11/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-12/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-11/upcoming_event_2_1.png",
-      "generated_date": "2026-10-11"
+      "image_path": "generated_media/2026-10-12/upcoming_event_2_1.png",
+      "generated_date": "2026-10-12"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "塩原高原大根料理",
-      "area": "栃木県那須塩原市・塩原温泉郷",
-      "date_info": "塩原高原大根キャンペーンは2026年9月15日〜11月15日頃",
-      "post_text": "秋の塩原温泉で味わいたいのが、寒暖差で甘みを増す塩原高原大根。旅館や飲食店では、煮物や漬物など地域ならではの料理に出会えます。紅葉狩りのあとは、温泉と旬の大根料理でほっとひと息。#塩原温泉 #栃木グルメ",
-      "source_url": "https://www.tochigiji.or.jp/event/e15689",
-      "source_title": "秋の旬感ベジたべる！塩原高原大根キャンペーン｜とちぎ旅ネット",
+      "title": "はらこ飯",
+      "area": "宮城県亘理町・山元町周辺",
+      "date_info": "旬の目安：秋（9月〜11月頃）",
+      "post_text": "宮城の秋を代表する郷土料理、はらこ飯。鮭の煮汁で炊いたご飯に、鮭の身といくらをのせた一杯は、ひと口ごとに海と川の恵みを感じます。秋の沿岸旅で、ぜひ本場の味を。#宮城グルメ #はらこ飯",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html",
+      "source_title": "農林水産省 うちの郷土料理｜秋",
       "pexels_queries": [
-        "Shiobara Tochigi Japan daikon radish local cuisine autumn hot spring town"
+        "Harako meshi Watari Miyagi Japan salmon roe rice local cuisine"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-11/local_food_1_1.png"
+        "generated_media/2026-10-12/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-11/local_food_1_1.png"
+          "path": "generated_media/2026-10-12/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-11/local_food_1_1.png",
-      "generated_date": "2026-10-11"
+      "image_path": "generated_media/2026-10-12/local_food_1_1.png",
+      "generated_date": "2026-10-12"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "日光・奥日光の紅葉と湖畔散策",
-      "area": "栃木県日光市・湯ノ湖、いろは坂、霧降の滝周辺",
-      "date_info": "2026年10月中旬〜11月上旬頃に紅葉が進む季節",
-      "post_text": "木々が赤や黄に染まる秋の日光へ。湯ノ湖の静かな湖畔、いろは坂の絶景、霧降の滝をめぐれば、日帰りでも奥深い秋旅に。混雑を避けるなら、朝早い時間帯や公共交通での移動がおすすめです。#日光 #紅葉旅",
-      "source_url": "https://www.city.nikko.lg.jp/soshiki/6/1024/1/1/2618.html",
-      "source_title": "Route. N #6 秋の現実逃避ルート｜日光市公式ホームページ",
+      "title": "秋の宮島・紅葉谷公園と弥山",
+      "area": "広島県廿日市市・宮島",
+      "date_info": "紅葉の見頃目安：2026年11月中旬〜下旬",
+      "post_text": "朱色の社殿と瀬戸内の海、紅葉に包まれる弥山。秋の宮島は、厳島神社だけでなく紅葉谷公園や山の上からの景色まで歩いて楽しみたい旅先です。朝の静かな時間帯を狙って、島の秋を満喫しよう。#宮島 #広島旅行",
+      "source_url": "https://www.hiroshima-kankou.com/",
+      "source_title": "ひろしま公式観光サイト",
       "pexels_queries": [
-        "Nikko Tochigi Japan autumn foliage Lake Chuzenji mountain road waterfall"
+        "Miyajima Hiroshima Japan autumn foliage Itsukushima Shrine Mount Misen"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-11/destination_2_1.png"
+        "generated_media/2026-10-12/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-11/destination_2_1.png"
+          "path": "generated_media/2026-10-12/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-11/destination_2_1.png",
-      "generated_date": "2026-10-11"
+      "image_path": "generated_media/2026-10-12/destination_2_1.png",
+      "generated_date": "2026-10-12"
     }
   ]
 }
