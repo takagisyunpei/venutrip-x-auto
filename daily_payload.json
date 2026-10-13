@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "さっぽろ菊まつり",
-      "area": "北海道札幌市・札幌駅前通地下歩行空間、さっぽろ地下街オーロラタウン周辺",
-      "date_info": "2026年11月1日（日）〜11月3日（火・祝）",
-      "post_text": "札幌の地下街が色鮮やかな菊で彩られる「さっぽろ菊まつり」。大輪や盆栽仕立てなど、丹精込めた作品が並びます。開催は2026年11月1日〜3日。秋の札幌散策にぜひ。#札幌観光 #菊まつり",
-      "source_url": "https://www.sapporo.travel/chrysanthemum-festival/",
-      "source_title": "さっぽろ菊まつり｜ようこそさっぽろ",
+      "title": "菊花展",
+      "area": "京都府京都市左京区・京都府立植物園",
+      "date_info": "2026年10月20日（火）〜11月15日（日）9:00〜17:00（最終日は16:00まで）／会場：京都府立植物園 大芝生地特設展示場・正門前",
+      "post_text": "約300鉢の大菊や小菊が並ぶ、京都府立植物園の菊花展。11月3日・4日は菊花切花展も同時開催。秋の花景色をゆっくり楽しみに出かけませんか。#京都観光 #秋旅",
+      "source_url": "https://www.kyotobotanicalgardens.jp/ibentoqing-bao-2/%E3%80%9010/20%28%E7%81%AB%29%EF%BD%9E11/15%28%E6%97%A5%29%E3%80%91%E8%8F%8A%E8%8A%B1%E5%B1%95",
+      "source_title": "【公式】京都府立植物園｜菊花展",
       "pexels_queries": [
-        "Sapporo Hokkaido chrysanthemum festival underground walkway Japan"
+        "Kyoto Botanical Gardens chrysanthemum exhibition Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-13/upcoming_event_1_1.png"
+        "generated_media/2026-10-14/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-13/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-14/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-13/upcoming_event_1_1.png",
-      "generated_date": "2026-10-13"
+      "image_path": "generated_media/2026-10-14/upcoming_event_1_1.png",
+      "generated_date": "2026-10-14"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "秋月城跡・黒門の紅葉",
-      "area": "福岡県朝倉市・秋月城跡、杉の馬場通り",
-      "date_info": "紅葉の見頃目安：11月中旬〜下旬",
-      "post_text": "「筑前の小京都」と呼ばれる秋月へ。黒門と真っ赤なカエデのコントラストを眺めながら、杉の馬場通りの城下町をゆっくり歩けます。紅葉の見頃は例年11月中旬〜下旬。#福岡旅行 #紅葉",
-      "source_url": "https://www.city.asakura.lg.jp/site/kanko/2930.html",
-      "source_title": "秋月城跡「黒門」の紅葉｜朝倉市公式観光情報",
+      "title": "黒部峡谷と宇奈月温泉の紅葉旅",
+      "area": "富山県黒部市・黒部峡谷、宇奈月温泉",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月下旬／紅葉情報掲載期間：2026年9月1日〜11月30日",
+      "post_text": "トロッコ電車で進む黒部峡谷は、秋になると山肌が黄色や赤に染まる絶景に。宇奈月温泉で温まりながら、標高差が生む紅葉のグラデーションを楽しむ富山旅へ。#富山旅行 #紅葉",
+      "source_url": "https://www.kurobe-unazuki.jp/event/2021/09/23/7039/",
+      "source_title": "黒部めぐり｜黒部峡谷・宇奈月温泉の紅葉情報",
       "pexels_queries": [
-        "Akizuki Castle Black Gate autumn maple leaves Asakura Fukuoka Japan"
+        "Kurobe Gorge Unazuki Toyama autumn leaves train Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-13/destination_1_1.png"
+        "generated_media/2026-10-14/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-13/destination_1_1.png"
+          "path": "generated_media/2026-10-14/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-13/destination_1_1.png",
-      "generated_date": "2026-10-13"
+      "image_path": "generated_media/2026-10-14/destination_1_1.png",
+      "generated_date": "2026-10-14"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "第22回 秋の有田陶磁器まつり",
-      "area": "佐賀県西松浦郡有田町・有田町内各所",
-      "date_info": "2026年11月19日（木）〜11月23日（月・祝）",
-      "post_text": "焼き物の町・有田が秋色に染まる「秋の有田陶磁器まつり」。窯元めぐりや器探し、秋の特別メニューなど、有田ならではの町歩きを楽しめます。開催は2026年11月19日〜23日。#有田焼 #佐賀旅行",
-      "source_url": "https://www.asobo-saga.jp/events/detail/c94cf984-9f70-41ce-9963-0d03f901b965",
-      "source_title": "第22回 秋の有田陶磁器まつり｜あそぼーさが公式",
+      "title": "第27回 成田山公園紅葉まつり",
+      "area": "千葉県成田市・成田山新勝寺 成田山公園",
+      "date_info": "2026年11月14日（土）〜11月29日（日）／会場：成田山新勝寺 成田山公園",
+      "post_text": "池の水面に映るモミジやイチョウが美しい、成田山公園紅葉まつり。期間中の土日祝は演奏会やお茶会も開催されます。成田の秋を感じる庭園散策へ。#成田観光 #紅葉",
+      "source_url": "https://www.nrtk.jp/enjoy/shikisaisai/autumn-festival.html",
+      "source_title": "FEEL成田｜第27回 成田山公園紅葉まつり",
       "pexels_queries": [
-        "Arita pottery town autumn festival ceramic shops Arita Saga Japan"
+        "Naritasan Park autumn leaves Narita Chiba Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-13/upcoming_event_2_1.png"
+        "generated_media/2026-10-14/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-13/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-14/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-13/upcoming_event_2_1.png",
-      "generated_date": "2026-10-13"
+      "image_path": "generated_media/2026-10-14/upcoming_event_2_1.png",
+      "generated_date": "2026-10-14"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "スズキの奉書焼き",
-      "area": "島根県松江市・宍道湖周辺",
-      "date_info": "旬の目安：秋〜初冬",
-      "post_text": "松江の秋に味わいたい「スズキの奉書焼き」。宍道湖七珍のひとつ、脂ののったスズキを奉書紙で包んで蒸し焼きにする伝統料理です。紙を開いた瞬間に広がる香りもごちそう。#松江グルメ #島根旅行",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/suzukinohoshoyaki_shimane.html",
-      "source_title": "スズキの奉書焼き 島根県｜農林水産省「うちの郷土料理」",
+      "title": "さんまのすり身汁",
+      "area": "岩手県沿岸部・三陸地域",
+      "date_info": "秋が旬の郷土料理",
+      "post_text": "三陸の秋に味わいたい、さんまのすり身汁。すり身の旨みが溶け込んだ温かな汁物は、海の町ならではの素朴なごちそうです。旬のさんまを求めて岩手へ。#岩手グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html",
+      "source_title": "農林水産省｜うちの郷土料理 秋",
       "pexels_queries": [
-        "Suzuki fish wrapped in Japanese paper traditional dish Matsue Shimane Japan"
+        "sanma surimi soup Iwate Sanriku Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-13/local_food_1_1.png"
+        "generated_media/2026-10-14/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-13/local_food_1_1.png"
+          "path": "generated_media/2026-10-14/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-13/local_food_1_1.png",
-      "generated_date": "2026-10-13"
+      "image_path": "generated_media/2026-10-14/local_food_1_1.png",
+      "generated_date": "2026-10-14"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "太龍寺ロープウェイと秋の太龍寺",
-      "area": "徳島県阿南市・太龍寺山、太龍寺ロープウェイ",
-      "date_info": "紅葉の見頃目安：11月上旬〜下旬",
-      "post_text": "秋の太龍寺は、山肌を染める紅葉とロープウェイからの大パノラマが魅力。標高約750mの山上にある霊場まで、空中散歩を楽しみながら向かえます。見頃は例年11月上旬〜下旬。#徳島旅行 #紅葉",
-      "source_url": "https://japan-heritage.bunka.go.jp/ja/lp/autumn/",
-      "source_title": "秋の紅葉特集｜日本遺産ポータルサイト",
+      "title": "鳴子峡の紅葉と鳴子温泉郷",
+      "area": "宮城県大崎市・鳴子温泉、鳴子峡",
+      "date_info": "紅葉の見頃：例年10月中旬〜11月中旬／遊歩道開放：2026年11月下旬まで（気象状況により変更あり）",
+      "post_text": "深さ約100mの峡谷を彩る鳴子峡の紅葉。見晴台や遊歩道から絶景を眺めたら、鳴子温泉郷でほっとひと息。秋の東北で、渓谷と湯めぐりを満喫しませんか。#宮城旅行 #紅葉",
+      "source_url": "https://www.city.osaki.miyagi.jp/kanko/sizen/4/6032.html",
+      "source_title": "大崎市公式観光サイト｜鳴子峡",
       "pexels_queries": [
-        "Tairyuji Temple ropeway autumn mountains Anan Tokushima Japan"
+        "Naruko Gorge autumn leaves Osaki Miyagi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-13/destination_2_1.png"
+        "generated_media/2026-10-14/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-13/destination_2_1.png"
+          "path": "generated_media/2026-10-14/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-13/destination_2_1.png",
-      "generated_date": "2026-10-13"
+      "image_path": "generated_media/2026-10-14/destination_2_1.png",
+      "generated_date": "2026-10-14"
     }
   ]
 }
