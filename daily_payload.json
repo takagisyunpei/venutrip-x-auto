@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "菊花展",
-      "area": "京都府京都市左京区・京都府立植物園",
-      "date_info": "2026年10月20日（火）〜11月15日（日）9:00〜17:00（最終日は16:00まで）／会場：京都府立植物園 大芝生地特設展示場・正門前",
-      "post_text": "約300鉢の大菊や小菊が並ぶ、京都府立植物園の菊花展。11月3日・4日は菊花切花展も同時開催。秋の花景色をゆっくり楽しみに出かけませんか。#京都観光 #秋旅",
-      "source_url": "https://www.kyotobotanicalgardens.jp/ibentoqing-bao-2/%E3%80%9010/20%28%E7%81%AB%29%EF%BD%9E11/15%28%E6%97%A5%29%E3%80%91%E8%8F%8A%E8%8A%B1%E5%B1%95",
-      "source_title": "【公式】京都府立植物園｜菊花展",
+      "title": "2026佐賀インターナショナルバルーンフェスタ",
+      "area": "佐賀県佐賀市・嘉瀬川河川敷",
+      "date_info": "2026年10月30日（金）〜11月3日（火・祝）",
+      "post_text": "佐賀平野の空を、色とりどりの熱気球が埋め尽くす5日間。朝の競技飛行や夜間係留など、空を見上げる秋旅へ出かけませんか？開催は2026年10月30日〜11月3日。#佐賀バルーンフェスタ #佐賀旅行",
+      "source_url": "https://www.sibf.jp/index.html",
+      "source_title": "佐賀インターナショナルバルーンフェスタ公式サイト",
       "pexels_queries": [
-        "Kyoto Botanical Gardens chrysanthemum exhibition Japan"
+        "Saga International Balloon Fiesta Saga Japan colorful hot air balloons landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-14/upcoming_event_1_1.png"
+        "generated_media/2026-10-15/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-14/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-15/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-14/upcoming_event_1_1.png",
-      "generated_date": "2026-10-14"
+      "image_path": "generated_media/2026-10-15/upcoming_event_1_1.png",
+      "generated_date": "2026-10-15"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "黒部峡谷と宇奈月温泉の紅葉旅",
-      "area": "富山県黒部市・黒部峡谷、宇奈月温泉",
-      "date_info": "紅葉の見頃：例年10月下旬〜11月下旬／紅葉情報掲載期間：2026年9月1日〜11月30日",
-      "post_text": "トロッコ電車で進む黒部峡谷は、秋になると山肌が黄色や赤に染まる絶景に。宇奈月温泉で温まりながら、標高差が生む紅葉のグラデーションを楽しむ富山旅へ。#富山旅行 #紅葉",
-      "source_url": "https://www.kurobe-unazuki.jp/event/2021/09/23/7039/",
-      "source_title": "黒部めぐり｜黒部峡谷・宇奈月温泉の紅葉情報",
+      "title": "香嵐渓の紅葉と足助の町並み",
+      "area": "愛知県豊田市・足助地区",
+      "date_info": "紅葉の見頃は例年11月中旬〜下旬。香嵐渓もみじまつりは2026年11月1日から約1か月間",
+      "post_text": "約3,000本のもみじが染まる香嵐渓へ。巴川沿いを歩き、足助の古い町並みをめぐれば、昼も夜も秋色に包まれる一日が楽しめます。見頃は11月中旬〜下旬。#香嵐渓 #愛知旅行",
+      "source_url": "https://www.city.toyota.aichi.jp/shisei/jichiku/1008649/1013511/1005336.html",
+      "source_title": "香嵐渓もみじまつり｜豊田市",
       "pexels_queries": [
-        "Kurobe Gorge Unazuki Toyama autumn leaves train Japan"
+        "Korankei Gorge autumn leaves Toyota Aichi Japan river valley"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-14/destination_1_1.png"
+        "generated_media/2026-10-15/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-14/destination_1_1.png"
+          "path": "generated_media/2026-10-15/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-14/destination_1_1.png",
-      "generated_date": "2026-10-14"
+      "image_path": "generated_media/2026-10-15/destination_1_1.png",
+      "generated_date": "2026-10-15"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "第27回 成田山公園紅葉まつり",
-      "area": "千葉県成田市・成田山新勝寺 成田山公園",
-      "date_info": "2026年11月14日（土）〜11月29日（日）／会場：成田山新勝寺 成田山公園",
-      "post_text": "池の水面に映るモミジやイチョウが美しい、成田山公園紅葉まつり。期間中の土日祝は演奏会やお茶会も開催されます。成田の秋を感じる庭園散策へ。#成田観光 #紅葉",
-      "source_url": "https://www.nrtk.jp/enjoy/shikisaisai/autumn-festival.html",
-      "source_title": "FEEL成田｜第27回 成田山公園紅葉まつり",
+      "title": "徳島おどりフェスタ2026",
+      "area": "徳島県徳島市・新町橋通り周辺、藍場浜公園",
+      "date_info": "2026年10月31日（土）〜11月1日（日）",
+      "post_text": "秋の徳島で、阿波おどりの熱気を体感！流し踊りやスペシャルパレード、全国阿波おどりコンテストなど、多彩な企画が徳島市中心部を盛り上げます。開催は2026年10月31日〜11月1日。#徳島おどりフェスタ #徳島旅行",
+      "source_url": "https://www.pref.tokushima.lg.jp/ippannokata/kyoiku/kanko/7315687/",
+      "source_title": "徳島おどりフェスタ2026の開催について｜徳島県",
       "pexels_queries": [
-        "Naritasan Park autumn leaves Narita Chiba Japan"
+        "Awa Odori dance festival Tokushima Japan traditional dancers street"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-14/upcoming_event_2_1.png"
+        "generated_media/2026-10-15/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-14/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-15/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-14/upcoming_event_2_1.png",
-      "generated_date": "2026-10-14"
+      "image_path": "generated_media/2026-10-15/upcoming_event_2_1.png",
+      "generated_date": "2026-10-15"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "さんまのすり身汁",
-      "area": "岩手県沿岸部・三陸地域",
-      "date_info": "秋が旬の郷土料理",
-      "post_text": "三陸の秋に味わいたい、さんまのすり身汁。すり身の旨みが溶け込んだ温かな汁物は、海の町ならではの素朴なごちそうです。旬のさんまを求めて岩手へ。#岩手グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html",
-      "source_title": "農林水産省｜うちの郷土料理 秋",
+      "title": "丹波栗の焼き栗と栗ごはん",
+      "area": "兵庫県丹波篠山市・丹波地域",
+      "date_info": "丹波栗フェア2026は2026年9月21日〜11月3日",
+      "post_text": "秋の丹波篠山で味わいたいのは、大粒で甘みのある丹波栗。香ばしい焼き栗やほくほくの栗ごはん、渋皮煮やスイーツまで、収穫後ならではの味を楽しめます。#丹波栗 #丹波篠山",
+      "source_url": "https://tourism.sasayama.jp/tanbaguri/",
+      "source_title": "丹波栗フェア2026｜丹波篠山市公式観光サイト",
       "pexels_queries": [
-        "sanma surimi soup Iwate Sanriku Japan"
+        "Tanba chestnuts roasted chestnuts chestnut rice Tamba Sasayama Hyogo Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-14/local_food_1_1.png"
+        "generated_media/2026-10-15/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-14/local_food_1_1.png"
+          "path": "generated_media/2026-10-15/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-14/local_food_1_1.png",
-      "generated_date": "2026-10-14"
+      "image_path": "generated_media/2026-10-15/local_food_1_1.png",
+      "generated_date": "2026-10-15"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "鳴子峡の紅葉と鳴子温泉郷",
-      "area": "宮城県大崎市・鳴子温泉、鳴子峡",
-      "date_info": "紅葉の見頃：例年10月中旬〜11月中旬／遊歩道開放：2026年11月下旬まで（気象状況により変更あり）",
-      "post_text": "深さ約100mの峡谷を彩る鳴子峡の紅葉。見晴台や遊歩道から絶景を眺めたら、鳴子温泉郷でほっとひと息。秋の東北で、渓谷と湯めぐりを満喫しませんか。#宮城旅行 #紅葉",
-      "source_url": "https://www.city.osaki.miyagi.jp/kanko/sizen/4/6032.html",
-      "source_title": "大崎市公式観光サイト｜鳴子峡",
+      "title": "白川郷の合掌造りと秋の山里",
+      "area": "岐阜県大野郡白川村・白川郷",
+      "date_info": "紅葉の見頃は例年10月下旬〜11月上旬",
+      "post_text": "合掌造りの集落を、山々の紅葉が彩る白川郷。朝の澄んだ空気の中で集落を歩き、展望台から茅葺き屋根と秋色の山並みを眺める、今だけの山里旅へ。#白川郷 #岐阜旅行",
+      "source_url": "https://www.kankou-gifu.jp/article/detail_207.html",
+      "source_title": "2026年 岐阜の秋旅！観光ガイド｜岐阜県観光公式サイト",
       "pexels_queries": [
-        "Naruko Gorge autumn leaves Osaki Miyagi Japan"
+        "Shirakawa-go autumn foliage traditional thatched houses Gifu Japan village"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-14/destination_2_1.png"
+        "generated_media/2026-10-15/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-14/destination_2_1.png"
+          "path": "generated_media/2026-10-15/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-14/destination_2_1.png",
-      "generated_date": "2026-10-14"
+      "image_path": "generated_media/2026-10-15/destination_2_1.png",
+      "generated_date": "2026-10-15"
     }
   ]
 }
