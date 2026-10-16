@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "あっけし牡蠣まつり",
-      "area": "北海道厚岸郡厚岸町・子野日公園",
-      "date_info": "2026年11月14日（土）〜15日（日）9:00〜15:00",
-      "post_text": "炭火で焼く厚岸産牡蠣を、潮風の中で味わう秋の恒例行事。アサリやホタテなど、厚岸の海の幸も勢ぞろいします。開催は11月14日〜15日、会場は子野日公園です。#北海道旅行 #牡蠣まつり",
-      "source_url": "https://akkeshi.shop/akkeshi-kakimatsuri/",
-      "source_title": "第64回あっけし牡蠣まつり｜厚岸観光協会",
+      "title": "第20回 上田城紅葉まつり",
+      "area": "長野県上田市・上田城跡公園",
+      "date_info": "2026年11月7日（土）〜11月8日（日）",
+      "post_text": "紅葉に包まれる上田城で、武将隊の迫力あるステージや信州のご当地グルメを楽しむ2日間。歴史と秋色が重なる、上田ならではの週末へ。2026年11月7日〜8日開催。 #上田城 #紅葉まつり",
+      "source_url": "https://ueda-kanko.or.jp/special/kouyoumatsuri2026/",
+      "source_title": "第20回 上田城紅葉まつり｜信州上田観光協会",
       "pexels_queries": [
-        "Akkeshi Hokkaido grilled oysters seafood festival Japan"
+        "Ueda Castle autumn leaves Nagano Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-16/upcoming_event_1_1.png"
+        "generated_media/2026-10-17/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-16/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-17/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-16/upcoming_event_1_1.png",
-      "generated_date": "2026-10-16"
+      "image_path": "generated_media/2026-10-17/upcoming_event_1_1.png",
+      "generated_date": "2026-10-17"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "国営ひたち海浜公園のコキア紅葉",
-      "area": "茨城県ひたちなか市・国営ひたち海浜公園みはらしの丘",
-      "date_info": "2026年10月中旬〜下旬が見頃。コキアカーニバルは11月3日まで",
-      "post_text": "約4万本のコキアが、みはらしの丘を赤く染める秋の絶景。2026年は10月15日に紅葉の最盛期を迎えています。澄んだ秋空と赤い丘を歩きに、今こそ訪れたい場所です。#茨城旅行 #コキア",
-      "source_url": "https://www.hitachikaihin.jp/",
-      "source_title": "国営ひたち海浜公園公式ホームページ",
+      "title": "久慈渓流の紅葉ドライブ",
+      "area": "岩手県久慈市・久慈渓流",
+      "date_info": "紅葉の見頃：例年10月中旬〜10月下旬",
+      "post_text": "岩手・久慈渓流では、清流沿いのコナラやカエデが色づく秋。常緑の松や杉が紅葉を引き立てる、静かな渓谷ドライブへ。見頃は10月中旬〜下旬です。 #岩手旅行 #紅葉",
+      "source_url": "https://iwatetabi.jp/spots/5219/",
+      "source_title": "久慈渓流｜岩手県公式観光サイト「いわての旅」",
       "pexels_queries": [
-        "Hitachi Seaside Park red kochia autumn Ibaraki Japan"
+        "Kuji Gorge autumn foliage Iwate Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-16/destination_1_1.png"
+        "generated_media/2026-10-17/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-16/destination_1_1.png"
+          "path": "generated_media/2026-10-17/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-16/destination_1_1.png",
-      "generated_date": "2026-10-16"
+      "image_path": "generated_media/2026-10-17/destination_1_1.png",
+      "generated_date": "2026-10-17"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "東京味わいフェスタ2026",
-      "area": "東京都千代田区・丸の内、有楽町、日比谷、江東区・豊洲",
-      "date_info": "2026年10月23日（金）〜25日（日）",
-      "post_text": "東京産の食材を使った料理や、農林水産業の魅力に出会える3日間。丸の内、有楽町、日比谷、豊洲の4エリアを巡りながら、東京の“おいしい”を楽しめます。10月23日〜25日開催。#東京イベント #東京グルメ",
-      "source_url": "https://tasteoftokyo-ajiwaifes.jp/",
-      "source_title": "東京味わいフェスタ2026｜TASTE of TOKYO",
+      "title": "唐津くんち",
+      "area": "佐賀県唐津市・唐津神社、唐津市街地",
+      "date_info": "2026年11月2日（月）〜11月4日（水）",
+      "post_text": "提灯に照らされた曳山が城下町を進む、唐津の秋祭り。宵曳山から御旅所神幸、翌日祭まで、豪華な14台が町を彩ります。2026年11月2日〜4日開催。 #唐津くんち #佐賀旅行",
+      "source_url": "https://www.city.karatsu.lg.jp/page/4344.html",
+      "source_title": "11月2日・3日・4日開催 唐津くんち｜唐津市",
       "pexels_queries": [
-        "Tokyo Marunouchi food festival local Japanese cuisine Japan"
+        "Karatsu Kunchi festival floats Saga Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-16/upcoming_event_2_1.png"
+        "generated_media/2026-10-17/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-16/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-17/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-16/upcoming_event_2_1.png",
-      "generated_date": "2026-10-16"
+      "image_path": "generated_media/2026-10-17/upcoming_event_2_1.png",
+      "generated_date": "2026-10-17"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "きりたんぽ鍋",
-      "area": "秋田県大館市・鹿角市を中心とする県北地域",
-      "date_info": "新米の季節から冬にかけて",
-      "post_text": "新米をつぶして焼いたきりたんぽを、比内地鶏のだしとセリ、ゴボウなどで煮込む秋田の郷土鍋。香ばしさと滋味深いスープが、冷え始めた秋の旅にぴったりです。#秋田グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_6_akita.html",
-      "source_title": "きりたんぽ鍋｜農林水産省「うちの郷土料理」",
+      "title": "日生カキオコ",
+      "area": "岡山県備前市日生町",
+      "date_info": "生ガキの季節：例年11月上旬〜4月上旬頃",
+      "post_text": "瀬戸内のカキを山盛りにした、岡山・日生のご当地お好み焼き「カキオコ」。ぷりっと濃厚なカキと甘辛いソースの相性は格別。冬の港町で熱々をどうぞ。 #日生カキオコ #岡山グルメ",
+      "source_url": "https://www.okayama-kanko.jp/spot/detail_11077.html",
+      "source_title": "日生カキオコ｜岡山観光WEB",
       "pexels_queries": [
-        "Kiritanpo hot pot Akita Japan traditional food"
+        "Hinase kakioko oyster okonomiyaki Bizen Okayama Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-16/local_food_1_1.png"
+        "generated_media/2026-10-17/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-16/local_food_1_1.png"
+          "path": "generated_media/2026-10-17/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-16/local_food_1_1.png",
-      "generated_date": "2026-10-16"
+      "image_path": "generated_media/2026-10-17/local_food_1_1.png",
+      "generated_date": "2026-10-17"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "栗林公園の秋ライトアップ",
-      "area": "香川県高松市・特別名勝栗林公園",
-      "date_info": "2026年11月20日（金）〜29日（日）",
-      "post_text": "深まる秋の栗林公園を、光に浮かぶ池や松の景色とともに楽しむ夜さんぽ。南湖の水面に映る紅葉は昼とは別の表情です。秋のライトアップは11月20日〜29日。#香川旅行 #紅葉",
-      "source_url": "https://www.my-kagawa.jp/news/2369",
-      "source_title": "令和8年栗林公園秋のライトアップの開催日程について｜香川県観光協会",
+      "title": "面河渓の紅葉と渓谷散策",
+      "area": "愛媛県上浮穴郡久万高原町・面河渓",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月上旬",
+      "post_text": "石鎚山の南麓に広がる面河渓へ。透明な流れ、奇岩、滝をめぐる遊歩道が、紅葉の季節には鮮やかな渓谷美に変わります。秋の四国で、深呼吸したくなる散策を。 #愛媛旅行 #面河渓",
+      "source_url": "https://www.iyokannet.jp/spot/414",
+      "source_title": "面河渓｜愛媛の公式観光サイト「いよ観ネット」",
       "pexels_queries": [
-        "Ritsurin Garden autumn night illumination Takamatsu Kagawa Japan"
+        "Omogo Gorge autumn foliage Ehime Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-16/destination_2_1.png"
+        "generated_media/2026-10-17/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-16/destination_2_1.png"
+          "path": "generated_media/2026-10-17/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-16/destination_2_1.png",
-      "generated_date": "2026-10-16"
+      "image_path": "generated_media/2026-10-17/destination_2_1.png",
+      "generated_date": "2026-10-17"
     }
   ]
 }
