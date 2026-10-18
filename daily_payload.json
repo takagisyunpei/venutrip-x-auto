@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "長瀞紅葉まつり2026",
-      "area": "埼玉県秩父郡長瀞町・月の石もみじ公園、寶登山神社周辺",
-      "date_info": "2026年11月1日（日）〜11月30日（月）",
-      "post_text": "川下りと紅葉の名所・長瀞へ。月の石もみじ公園や寶登山神社周辺が色づく季節、渓谷と秋色の町並みを歩きませんか。開催は2026年11月1日〜30日。#長瀞 #紅葉",
-      "source_url": "https://www.nagatoro.gr.jp/kouyo2026/",
-      "source_title": "長瀞紅葉まつり2026｜長瀞町観光協会公式サイト",
+      "title": "2026さっぽろホワイトイルミネーション",
+      "area": "北海道札幌市・大通公園、駅前通会場ほか",
+      "date_info": "2026年11月20日〜12月25日",
+      "post_text": "札幌の街が、冬の光に包まれる季節へ。2026さっぽろホワイトイルミネーションは11月20日〜12月25日に開催。大通公園や駅前通を歩きながら、雪の季節ならではのきらめきを楽しみたい。#札幌 #イルミネーション",
+      "source_url": "https://www.sapporo.travel/white-illumination/",
+      "source_title": "さっぽろホワイトイルミネーション｜公式ウェブサイト",
       "pexels_queries": [
-        "Nagatoro Saitama Japan autumn foliage river valley"
+        "Sapporo Odori Park winter illumination Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-18/upcoming_event_1_1.png"
+        "generated_media/2026-10-19/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-18/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-19/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-18/upcoming_event_1_1.png",
-      "generated_date": "2026-10-18"
+      "image_path": "generated_media/2026-10-19/upcoming_event_1_1.png",
+      "generated_date": "2026-10-19"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "刈込池の紅葉",
-      "area": "福井県大野市・刈込池",
-      "date_info": "紅葉の見頃：2026年11月上旬ごろ",
-      "post_text": "ブナの森を歩いた先に広がる、鏡のような刈込池。山肌の紅葉が水面に映る幻想的な秋景色を目指して、福井・大野へ出かけたい季節です。#福井旅行 #刈込池",
-      "source_url": "https://www.japan47go.travel/ja/featured/autumn-leaves",
-      "source_title": "紅葉スポットやお祭り・紅葉情報特集 2026-2027｜JAPAN 47 GO",
+      "title": "大山の紅葉とブナの森ドライブ",
+      "area": "鳥取県西伯郡大山町・大山寺、鍵掛峠、豪円山周辺",
+      "date_info": "紅葉の見頃は例年10月下旬〜11月上旬",
+      "post_text": "西日本屈指の紅葉名所、大山へ。ブナの森が赤やオレンジに染まる秋は、鍵掛峠や大山寺周辺をめぐるドライブにぴったり。澄んだ空気の中で、山陰の秋色を探しに行こう。#鳥取 #大山",
+      "source_url": "https://tourismdaisen.com/feature/autumn/",
+      "source_title": "絶景・大山の紅葉！〜日本屈指の赤、紅葉に魅せられし秋〜｜鳥取大山観光ガイド",
       "pexels_queries": [
-        "Karikomiike Ono Fukui Japan autumn foliage lake"
+        "Mount Daisen autumn foliage Kagamigake Pass Tottori Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-18/destination_1_1.png"
+        "generated_media/2026-10-19/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-18/destination_1_1.png"
+          "path": "generated_media/2026-10-19/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-18/destination_1_1.png",
-      "generated_date": "2026-10-18"
+      "image_path": "generated_media/2026-10-19/destination_1_1.png",
+      "generated_date": "2026-10-19"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "more TOHOKU マルシェ",
-      "area": "宮城県仙台市・仙台市中心部",
-      "date_info": "2026年10月17日（土）〜11月8日（日）",
-      "post_text": "東北の味と手仕事が仙台に集まる「more TOHOKU マルシェ」。旅先で出会いたいご当地グルメや特産品を、街歩きと一緒に楽しめます。開催は2026年10月17日〜11月8日。#仙台 #東北旅",
-      "source_url": "https://www.sentabi.jp/?post_type=event",
-      "source_title": "せんだい旅日和｜仙台観光情報サイト",
+      "title": "胡子大祭",
+      "area": "広島県広島市中区・胡子神社、えびす通り商店街周辺",
+      "date_info": "2026年11月18日〜11月20日",
+      "post_text": "広島の冬の訪れを告げる胡子大祭が、11月18日〜20日に開催。胡子神社への参拝とともに、商店街の誓文払い、縁起物のこまざらえを楽しめる、街なかの伝統行事です。#広島 #胡子大祭",
+      "source_url": "https://www.city.hiroshima.lg.jp/faq/tourism-culture/1001621/1028191/1006395.html",
+      "source_title": "えびす講・えべっさんについて知りたい｜広島市公式ウェブサイト",
       "pexels_queries": [
-        "Sendai Miyagi Japan local food market autumn"
+        "Hiroshima traditional festival shopping street Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-18/upcoming_event_2_1.png"
+        "generated_media/2026-10-19/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-18/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-19/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-18/upcoming_event_2_1.png",
-      "generated_date": "2026-10-18"
+      "image_path": "generated_media/2026-10-19/upcoming_event_2_1.png",
+      "generated_date": "2026-10-19"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "中津川栗きんとん",
-      "area": "岐阜県中津川市・東濃地域",
-      "date_info": "旬：2026年9月上旬〜12月上旬ごろ",
-      "post_text": "岐阜の栗きんとんは、おせちとは別もの。蒸した栗に砂糖を加え、茶巾で絞った上品な和菓子です。秋の中津川で、店ごとの香りと食感を食べ比べてみて。#岐阜グルメ #栗きんとん",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_17_gifu.html",
-      "source_title": "栗きんとん 岐阜県｜農林水産省「うちの郷土料理」",
+      "title": "しっぽくうどん",
+      "area": "香川県高松市・讃岐うどん店各店",
+      "date_info": "秋から冬にかけて味わいたい香川県の郷土料理",
+      "post_text": "香川の秋冬に食べたい、しっぽくうどん。大根や里芋、にんじんなど季節の野菜を煮込んだ具だくさんの汁を、讃岐うどんにたっぷりかけていただく。冷えた日にうれしい、土地の味です。#香川 #讃岐うどん",
+      "source_url": "https://www.maff.go.jp/j/keikaku/shokubunka/k_ryouri/search_menu/menu/shipok_udon_kagawa.html",
+      "source_title": "しっぽくうどん／香川県｜うちの郷土料理：農林水産省",
       "pexels_queries": [
-        "Nakatsugawa Gifu Japan chestnut wagashi autumn"
+        "Shippoku udon traditional Kagawa Sanuki udon Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-18/local_food_1_1.png"
+        "generated_media/2026-10-19/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-18/local_food_1_1.png"
+          "path": "generated_media/2026-10-19/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-18/local_food_1_1.png",
-      "generated_date": "2026-10-18"
+      "image_path": "generated_media/2026-10-19/local_food_1_1.png",
+      "generated_date": "2026-10-19"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "芦ノ湖と箱根の秋景色",
-      "area": "神奈川県足柄下郡箱根町・芦ノ湖、箱根離宮跡地周辺",
-      "date_info": "紅葉の見頃：2026年11月中旬〜下旬ごろ",
-      "post_text": "芦ノ湖の青、富士山、湖畔の紅葉が一枚に収まる箱根の秋。遊覧船や温泉を組み合わせて、景色を眺めながらゆっくり過ごす週末旅におすすめです。#箱根 #秋旅",
+      "title": "大内宿の茅葺き街道と秋の山里",
+      "area": "福島県南会津郡下郷町・大内宿",
+      "date_info": "紅葉の見頃は例年10月下旬〜11月上旬",
+      "post_text": "茅葺き屋根の家並みが残る大内宿へ。秋は街道の奥に広がる山々が色づき、歴史ある宿場町がいっそう絵になる季節。名物ねぎそばと一緒に、会津の山里をゆっくり歩きたい。#福島 #大内宿",
       "source_url": "https://japan-heritage.bunka.go.jp/ja/lp/autumn/",
       "source_title": "秋の紅葉特集｜日本遺産ポータルサイト",
       "pexels_queries": [
-        "Lake Ashi Hakone Kanagawa Japan autumn foliage Mount Fuji"
+        "Ouchi-juku autumn thatched roofs Shimogo Fukushima Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-18/destination_2_1.png"
+        "generated_media/2026-10-19/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-18/destination_2_1.png"
+          "path": "generated_media/2026-10-19/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-18/destination_2_1.png",
-      "generated_date": "2026-10-18"
+      "image_path": "generated_media/2026-10-19/destination_2_1.png",
+      "generated_date": "2026-10-19"
     }
   ]
 }
