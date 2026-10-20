@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "沖縄こどもの国 秋の感謝祭2026",
-      "area": "沖縄県沖縄市・沖縄こどもの国",
-      "date_info": "2026年11月1日（日）〜11月30日（月）",
-      "post_text": "沖縄こどもの国で「秋の感謝祭2026」を開催。沖縄そば打ち体験やステージ、週末のNIGHTZOOなど、昼も夜も楽しめる企画が満載です。開催期間は11月1日〜30日。秋の沖縄旅にぜひ。#沖縄旅行 #沖縄イベント",
-      "source_url": "https://www.okzm.jp/event/5373/",
-      "source_title": "沖縄こどもの国 秋の感謝祭 2026",
+      "title": "ACN presents 代々木フォレスト・オブ・ライツ～光の森～",
+      "area": "東京都渋谷区・代々木公園サイクリングコースエリア",
+      "date_info": "2026年11月13日（金）〜2027年1月11日（月・祝）",
+      "post_text": "東京・代々木公園の森を歩く、体験型イルミネーションが11月13日開幕。光と音に包まれる約1.8kmの夜さんぽで、都会の冬を五感で楽しもう。#東京観光 #イルミネーション",
+      "source_url": "https://tickets.tbs.co.jp/yoyogiforestoflights2026/",
+      "source_title": "ACN presents代々木フォレスト・オブ・ライツ～光の森～｜TBSチケット公式",
       "pexels_queries": [
-        "Okinawa City Okinawa Japan zoo autumn evening"
+        "Yoyogi Park Tokyo illumination forest Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-20/upcoming_event_1_1.png"
+        "generated_media/2026-10-21/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-20/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-21/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-20/upcoming_event_1_1.png",
-      "generated_date": "2026-10-20"
+      "image_path": "generated_media/2026-10-21/upcoming_event_1_1.png",
+      "generated_date": "2026-10-21"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "平泉・中尊寺の紅葉と秋の世界遺産めぐり",
-      "area": "岩手県西磐井郡平泉町・中尊寺、毛越寺周辺",
-      "date_info": "紅葉の見頃は例年10月下旬〜11月上旬。中尊寺では2026年10月24日〜11月8日にライトアップを実施",
-      "post_text": "秋の平泉は、世界遺産の古刹と紅葉を一度に楽しめる季節。中尊寺の参道や毛越寺の庭園を歩けば、歴史ある景色が赤や vàngに彩られます。夕方は中尊寺のライトアップへ。#岩手旅行 #平泉",
-      "source_url": "https://www.pref.iwate.jp/event/moyooshi/1077803.html",
-      "source_title": "岩手県「平泉町」紅葉銀河2026",
+      "title": "香嵐渓の紅葉と足助の町並み",
+      "area": "愛知県豊田市・足助地区、香嵐渓",
+      "date_info": "紅葉の見頃は例年11月中旬〜下旬",
+      "post_text": "約3,000本のモミジが彩る香嵐渓へ。昼は巴川沿いの紅葉、夕方からはライトアップ、足助の古い町並み散策まで一度に楽しめる秋旅です。#愛知旅行 #紅葉",
+      "source_url": "https://www.aichinow.pref.aichi.jp/events/detail/131/",
+      "source_title": "第71回 香嵐渓もみじまつり｜Aichi Now",
       "pexels_queries": [
-        "Chusonji Temple Hiraizumi Iwate Japan autumn maple"
+        "Korankei Asuke Toyota Aichi autumn leaves Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-20/destination_1_1.png"
+        "generated_media/2026-10-21/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-20/destination_1_1.png"
+          "path": "generated_media/2026-10-21/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-20/destination_1_1.png",
-      "generated_date": "2026-10-20"
+      "image_path": "generated_media/2026-10-21/destination_1_1.png",
+      "generated_date": "2026-10-21"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "第27回 成田山公園紅葉まつり",
-      "area": "千葉県成田市・成田山新勝寺 成田山公園",
-      "date_info": "2026年11月14日（土）〜11月29日（日）",
-      "post_text": "成田山新勝寺の奥に広がる成田山公園で、紅葉まつりを開催。池に映るモミジやイチョウを眺めながら、期間中の土日祝には演奏会やお茶会も楽しめます。開催期間は11月14日〜29日。#成田観光 #紅葉",
-      "source_url": "https://www.nrtk.jp/enjoy/shikisaisai/autumn-festival.html",
-      "source_title": "第27回 成田山公園紅葉まつり",
+      "title": "永観堂（ライトアップ＆夜間特別拝観）",
+      "area": "京都府京都市左京区・永観堂禅林寺",
+      "date_info": "2026年11月20日（金）〜12月6日（日）",
+      "post_text": "「紅葉の永観堂」として知られる京都・永観堂が夜間特別拝観を開催。色づくモミジが光に浮かぶ、秋の京都ならではの夜景を訪ねてみませんか。#京都観光 #紅葉",
+      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=5019",
+      "source_title": "永観堂（ライトアップ＆夜間特別拝観）｜京都市公式 京都観光Navi",
       "pexels_queries": [
-        "Naritasan Shinshoji Temple Narita Chiba Japan autumn garden"
+        "Eikando Temple Kyoto autumn night illumination Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-20/upcoming_event_2_1.png"
+        "generated_media/2026-10-21/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-20/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-21/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-20/upcoming_event_2_1.png",
-      "generated_date": "2026-10-20"
+      "image_path": "generated_media/2026-10-21/upcoming_event_2_1.png",
+      "generated_date": "2026-10-21"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "佐渡のおけさ柿",
-      "area": "新潟県佐渡市・新潟県内各地",
-      "date_info": "秋が旬。例年10月頃から出回る新潟の代表的な柿",
-      "post_text": "佐渡をはじめ新潟各地で育つ「おけさ柿」は、種がなく食べやすい秋の名物。渋抜きされた果肉は、やわらかくジューシーで上品な甘さです。市場や直売所で見つけたら、旬の新潟土産に。#新潟グルメ #佐渡",
-      "source_url": "https://niigata-kankou.or.jp/feature/okesagaki/",
-      "source_title": "新潟名物「おけさ柿」とは？",
+      "title": "山形の芋煮",
+      "area": "山形県山形市・村山地域を中心とする県内各地",
+      "date_info": "旬の時期：10月下旬〜11月頃",
+      "post_text": "秋の山形で味わいたい郷土鍋、芋煮。里芋、牛肉、こんにゃく、ねぎを醤油味で煮込む村山風など、地域ごとの違いを食べ比べるのも旅の楽しみです。#山形グルメ #郷土料理",
+      "source_url": "https://yamagatakanko.com/local-foods",
+      "source_title": "心温まる郷土の味。地産地消は旅の醍醐味｜やまがたへの旅",
       "pexels_queries": [
-        "Okesa persimmon Sado Niigata Japan autumn fruit"
+        "Yamagata imoni stew local food Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-20/local_food_1_1.png"
+        "generated_media/2026-10-21/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-20/local_food_1_1.png"
+          "path": "generated_media/2026-10-21/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-20/local_food_1_1.png",
-      "generated_date": "2026-10-20"
+      "image_path": "generated_media/2026-10-21/local_food_1_1.png",
+      "generated_date": "2026-10-21"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "東京・奥多摩の紅葉と渓谷ハイキング",
-      "area": "東京都西多摩郡奥多摩町・奥多摩湖、鳩ノ巣渓谷周辺",
-      "date_info": "例年10月下旬〜11月中旬に紅葉が見頃",
-      "post_text": "都心から足を延ばして、奥多摩の渓谷へ。奥多摩湖や鳩ノ巣渓谷では、清流と山肌を彩る紅葉を眺めながら、秋のハイキングを楽しめます。朝の澄んだ空気の中で歩くのがおすすめです。#奥多摩 #東京観光",
-      "source_url": "https://www.gotokyo.org/jp/story/guide/autumn-leaves-forecast/index.html",
-      "source_title": "秋の東京・紅葉",
+      "title": "高野山の紅葉と壇上伽藍・奥之院めぐり",
+      "area": "和歌山県伊都郡高野町・高野山",
+      "date_info": "紅葉の見頃は例年10月下旬〜11月中旬",
+      "post_text": "杉木立と山上の寺院が秋色に染まる高野山。壇上伽藍から奥之院まで、静かな参道を歩けば、紅葉と歴史が重なる特別な季節を感じられます。#和歌山旅行 #紅葉",
+      "source_url": "https://www.koyasan.or.jp/",
+      "source_title": "高野山公式サイト",
       "pexels_queries": [
-        "Okutama Tokyo Japan autumn leaves valley hiking"
+        "Koyasan Wakayama autumn temple forest Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-20/destination_2_1.png"
+        "generated_media/2026-10-21/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-20/destination_2_1.png"
+          "path": "generated_media/2026-10-21/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-20/destination_2_1.png",
-      "generated_date": "2026-10-20"
+      "image_path": "generated_media/2026-10-21/destination_2_1.png",
+      "generated_date": "2026-10-21"
     }
   ]
 }
