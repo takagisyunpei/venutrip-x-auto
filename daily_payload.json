@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "ACN presents 代々木フォレスト・オブ・ライツ～光の森～",
-      "area": "東京都渋谷区・代々木公園サイクリングコースエリア",
-      "date_info": "2026年11月13日（金）〜2027年1月11日（月・祝）",
-      "post_text": "東京・代々木公園の森を歩く、体験型イルミネーションが11月13日開幕。光と音に包まれる約1.8kmの夜さんぽで、都会の冬を五感で楽しもう。#東京観光 #イルミネーション",
-      "source_url": "https://tickets.tbs.co.jp/yoyogiforestoflights2026/",
-      "source_title": "ACN presents代々木フォレスト・オブ・ライツ～光の森～｜TBSチケット公式",
+      "title": "東山動植物園 もみじ狩り・紅葉ライトアップ",
+      "area": "愛知県名古屋市・東山動植物園 植物園",
+      "date_info": "もみじ狩り：2026年11月14日（土）〜12月6日（日）／紅葉ライトアップ：11月21日（土）・22日（日）・23日（月・祝）・28日（土）・29日（日）",
+      "post_text": "500本以上の紅葉樹が彩る、名古屋・東山動植物園の秋。昼は園内をゆっくり散策し、夜はライトアップされた日本庭園へ。11月14日〜12月6日開催。秋色の名古屋を歩きに行こう。#名古屋観光 #紅葉",
+      "source_url": "https://www.city.nagoya.jp/houdou/3003942/3003949/3006040.html",
+      "source_title": "「東山動植物園　もみじ狩り・紅葉ライトアップ」を開催します｜名古屋市公式ウェブサイト",
       "pexels_queries": [
-        "Yoyogi Park Tokyo illumination forest Japan"
+        "Higashiyama Zoo and Botanical Gardens Nagoya Aichi Japan autumn maple leaves garden"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-21/upcoming_event_1_1.png"
+        "generated_media/2026-10-22/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-21/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-22/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-21/upcoming_event_1_1.png",
-      "generated_date": "2026-10-21"
+      "image_path": "generated_media/2026-10-22/upcoming_event_1_1.png",
+      "generated_date": "2026-10-22"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "香嵐渓の紅葉と足助の町並み",
-      "area": "愛知県豊田市・足助地区、香嵐渓",
-      "date_info": "紅葉の見頃は例年11月中旬〜下旬",
-      "post_text": "約3,000本のモミジが彩る香嵐渓へ。昼は巴川沿いの紅葉、夕方からはライトアップ、足助の古い町並み散策まで一度に楽しめる秋旅です。#愛知旅行 #紅葉",
-      "source_url": "https://www.aichinow.pref.aichi.jp/events/detail/131/",
-      "source_title": "第71回 香嵐渓もみじまつり｜Aichi Now",
+      "title": "奥津渓の紅葉と奥津温泉",
+      "area": "岡山県苫田郡鏡野町・奥津渓、奥津温泉",
+      "date_info": "紅葉の見頃：10月下旬〜11月中旬",
+      "post_text": "約3km続く渓流と奇岩、真っ赤なモミジが競演する岡山・奥津渓。秋は遊歩道を歩いたあと、奥津温泉でひと休み。渓谷美と湯けむりを一度に楽しめる、今行きたい山あいの旅です。#岡山観光 #紅葉",
+      "source_url": "https://www.okayama-kanko.jp/business/spot/detail_11712.html",
+      "source_title": "奥津渓｜岡山観光WEB 公式",
       "pexels_queries": [
-        "Korankei Asuke Toyota Aichi autumn leaves Japan"
+        "Okutsu Valley Kagamino Okayama Japan autumn foliage river gorge"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-21/destination_1_1.png"
+        "generated_media/2026-10-22/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-21/destination_1_1.png"
+          "path": "generated_media/2026-10-22/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-21/destination_1_1.png",
-      "generated_date": "2026-10-21"
+      "image_path": "generated_media/2026-10-22/destination_1_1.png",
+      "generated_date": "2026-10-22"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "永観堂（ライトアップ＆夜間特別拝観）",
-      "area": "京都府京都市左京区・永観堂禅林寺",
-      "date_info": "2026年11月20日（金）〜12月6日（日）",
-      "post_text": "「紅葉の永観堂」として知られる京都・永観堂が夜間特別拝観を開催。色づくモミジが光に浮かぶ、秋の京都ならではの夜景を訪ねてみませんか。#京都観光 #紅葉",
-      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=5019",
-      "source_title": "永観堂（ライトアップ＆夜間特別拝観）｜京都市公式 京都観光Navi",
+      "title": "嵐山渓谷紅葉まつり",
+      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場",
+      "date_info": "みごろウィーク：2026年11月14日（土）〜12月6日（日）／イベントDay：11月28日（土）〜29日（日）9:00〜15:00",
+      "post_text": "水面に映る紅葉を眺めながら、秋のグルメマルシェへ。埼玉・嵐山渓谷紅葉まつりは、11月28日・29日に開催。色づく渓谷を歩いて、地元の味覚と秋の空気を満喫しよう。#埼玉観光 #紅葉",
+      "source_url": "https://www.ranzan-kanko.jp/autumnleavesevent",
+      "source_title": "嵐山渓谷紅葉まつり｜嵐山町観光協会",
       "pexels_queries": [
-        "Eikando Temple Kyoto autumn night illumination Japan"
+        "Ranzan Valley Saitama Japan autumn foliage river gorge"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-21/upcoming_event_2_1.png"
+        "generated_media/2026-10-22/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-21/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-22/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-21/upcoming_event_2_1.png",
-      "generated_date": "2026-10-21"
+      "image_path": "generated_media/2026-10-22/upcoming_event_2_1.png",
+      "generated_date": "2026-10-22"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "山形の芋煮",
-      "area": "山形県山形市・村山地域を中心とする県内各地",
-      "date_info": "旬の時期：10月下旬〜11月頃",
-      "post_text": "秋の山形で味わいたい郷土鍋、芋煮。里芋、牛肉、こんにゃく、ねぎを醤油味で煮込む村山風など、地域ごとの違いを食べ比べるのも旅の楽しみです。#山形グルメ #郷土料理",
-      "source_url": "https://yamagatakanko.com/local-foods",
-      "source_title": "心温まる郷土の味。地産地消は旅の醍醐味｜やまがたへの旅",
+      "title": "ほうとう",
+      "area": "山梨県・甲府市、富士五湖周辺など県内各地",
+      "date_info": "秋冬におすすめ。県内各地の郷土料理店で提供",
+      "post_text": "山梨の秋冬旅で食べたい、具だくさんのほうとう。幅広の麺をかぼちゃや季節の野菜と味噌仕立てで煮込む、体の芯から温まる郷土料理です。紅葉散策のあとは、熱々の鉄鍋をぜひ。#山梨グルメ #ほうとう",
+      "source_url": "https://www.yamanashi-kankou.jp/special/gourmet_hoto.html",
+      "source_title": "山梨の郷土料理「ほうとう」を味わえる名店をご紹介｜富士の国やまなし観光ネット",
       "pexels_queries": [
-        "Yamagata imoni stew local food Japan"
+        "Yamanashi Japan traditional hoto noodles hot pot pumpkin miso"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-21/local_food_1_1.png"
+        "generated_media/2026-10-22/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-21/local_food_1_1.png"
+          "path": "generated_media/2026-10-22/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-21/local_food_1_1.png",
-      "generated_date": "2026-10-21"
+      "image_path": "generated_media/2026-10-22/local_food_1_1.png",
+      "generated_date": "2026-10-22"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "高野山の紅葉と壇上伽藍・奥之院めぐり",
-      "area": "和歌山県伊都郡高野町・高野山",
-      "date_info": "紅葉の見頃は例年10月下旬〜11月中旬",
-      "post_text": "杉木立と山上の寺院が秋色に染まる高野山。壇上伽藍から奥之院まで、静かな参道を歩けば、紅葉と歴史が重なる特別な季節を感じられます。#和歌山旅行 #紅葉",
-      "source_url": "https://www.koyasan.or.jp/",
-      "source_title": "高野山公式サイト",
+      "title": "昇仙峡の紅葉と渓谷さんぽ",
+      "area": "山梨県甲府市・昇仙峡",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
+      "post_text": "奇岩と清流がつくる渓谷美に、秋の紅葉が重なる昇仙峡。遊歩道を歩き、覚円峰や仙娥滝をめぐったら、甲府名物ほうとうでひと休み。秋の山梨を五感で味わう日帰り旅におすすめです。#山梨観光 #昇仙峡",
+      "source_url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4534.html",
+      "source_title": "もみじ回廊｜富士の国やまなし観光ネット 公式",
       "pexels_queries": [
-        "Koyasan Wakayama autumn temple forest Japan"
+        "Shosenkyo Gorge Kofu Yamanashi Japan autumn maple foliage waterfall"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-21/destination_2_1.png"
+        "generated_media/2026-10-22/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-21/destination_2_1.png"
+          "path": "generated_media/2026-10-22/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-21/destination_2_1.png",
-      "generated_date": "2026-10-21"
+      "image_path": "generated_media/2026-10-22/destination_2_1.png",
+      "generated_date": "2026-10-22"
     }
   ]
 }
