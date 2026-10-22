@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "東山動植物園 もみじ狩り・紅葉ライトアップ",
-      "area": "愛知県名古屋市・東山動植物園 植物園",
-      "date_info": "もみじ狩り：2026年11月14日（土）〜12月6日（日）／紅葉ライトアップ：11月21日（土）・22日（日）・23日（月・祝）・28日（土）・29日（日）",
-      "post_text": "500本以上の紅葉樹が彩る、名古屋・東山動植物園の秋。昼は園内をゆっくり散策し、夜はライトアップされた日本庭園へ。11月14日〜12月6日開催。秋色の名古屋を歩きに行こう。#名古屋観光 #紅葉",
-      "source_url": "https://www.city.nagoya.jp/houdou/3003942/3003949/3006040.html",
-      "source_title": "「東山動植物園　もみじ狩り・紅葉ライトアップ」を開催します｜名古屋市公式ウェブサイト",
+      "title": "嵐山渓谷紅葉まつり2026",
+      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場",
+      "date_info": "2026年11月14日（土）〜12月6日（日）※イベント日は11月28日（土）・29日（日）",
+      "post_text": "紅葉の嵐山渓谷で秋の味覚を楽しむ「嵐山渓谷紅葉まつり」。2026年11月14日〜12月6日に開催され、11月28・29日は紅葉グルメマルシェも登場。渓谷散策と地元の味を満喫しよう。#埼玉旅行 #紅葉",
+      "source_url": "https://www.ranzan-kanko.jp/autumnleavesevent",
+      "source_title": "嵐山渓谷紅葉まつり｜一般社団法人嵐山町観光協会",
       "pexels_queries": [
-        "Higashiyama Zoo and Botanical Gardens Nagoya Aichi Japan autumn maple leaves garden"
+        "Ranzan Gorge Saitama Japan autumn foliage river valley"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-22/upcoming_event_1_1.png"
+        "generated_media/2026-10-23/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-22/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-23/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-22/upcoming_event_1_1.png",
-      "generated_date": "2026-10-22"
+      "image_path": "generated_media/2026-10-23/upcoming_event_1_1.png",
+      "generated_date": "2026-10-23"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "奥津渓の紅葉と奥津温泉",
-      "area": "岡山県苫田郡鏡野町・奥津渓、奥津温泉",
-      "date_info": "紅葉の見頃：10月下旬〜11月中旬",
-      "post_text": "約3km続く渓流と奇岩、真っ赤なモミジが競演する岡山・奥津渓。秋は遊歩道を歩いたあと、奥津温泉でひと休み。渓谷美と湯けむりを一度に楽しめる、今行きたい山あいの旅です。#岡山観光 #紅葉",
-      "source_url": "https://www.okayama-kanko.jp/business/spot/detail_11712.html",
-      "source_title": "奥津渓｜岡山観光WEB 公式",
+      "title": "奥入瀬渓流の紅葉さんぽ",
+      "area": "青森県十和田市・奥入瀬渓流",
+      "date_info": "紅葉の見頃は例年10月中旬〜下旬。2026年秋の交通規制・混雑対策は現地公式情報を確認",
+      "post_text": "苔むした森を縫う清流と、赤や黄に染まる木々。奥入瀬渓流は秋の青森で歩きたい代表的な景勝地です。滝や渓流沿いの遊歩道をゆっくり歩き、十和田湖まで季節の絶景をつなごう。#青森旅行 #奥入瀬渓流",
+      "source_url": "https://aomori-tourism.com/spot/detail_339.html",
+      "source_title": "奥入瀬渓流｜青森県観光情報サイト Amazing AOMORI",
       "pexels_queries": [
-        "Okutsu Valley Kagamino Okayama Japan autumn foliage river gorge"
+        "Oirase Gorge Towada Aomori Japan autumn stream waterfall"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-22/destination_1_1.png"
+        "generated_media/2026-10-23/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-22/destination_1_1.png"
+          "path": "generated_media/2026-10-23/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-22/destination_1_1.png",
-      "generated_date": "2026-10-22"
+      "image_path": "generated_media/2026-10-23/destination_1_1.png",
+      "generated_date": "2026-10-23"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "嵐山渓谷紅葉まつり",
-      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場",
-      "date_info": "みごろウィーク：2026年11月14日（土）〜12月6日（日）／イベントDay：11月28日（土）〜29日（日）9:00〜15:00",
-      "post_text": "水面に映る紅葉を眺めながら、秋のグルメマルシェへ。埼玉・嵐山渓谷紅葉まつりは、11月28日・29日に開催。色づく渓谷を歩いて、地元の味覚と秋の空気を満喫しよう。#埼玉観光 #紅葉",
-      "source_url": "https://www.ranzan-kanko.jp/autumnleavesevent",
-      "source_title": "嵐山渓谷紅葉まつり｜嵐山町観光協会",
+      "title": "ヨルノヨ2026",
+      "area": "神奈川県横浜市・横浜都心臨海部",
+      "date_info": "2026年12月4日（金）〜12月30日（水）",
+      "post_text": "冬の横浜が光に包まれる「ヨルノヨ2026」。2026年12月4日〜30日、みなとみらい周辺の夜景とイルミネーションを楽しめます。海辺の街並みを歩きながら、横浜ならではの光の演出を満喫しよう。#横浜夜景 #イルミネーション",
+      "source_url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw9092",
+      "source_title": "国内最大級のイルミネーションイベント「ヨルノヨ2026」｜横浜市観光情報サイト",
       "pexels_queries": [
-        "Ranzan Valley Saitama Japan autumn foliage river gorge"
+        "Yorunoyo Yokohama Kanagawa Japan waterfront illumination night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-22/upcoming_event_2_1.png"
+        "generated_media/2026-10-23/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-22/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-23/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-22/upcoming_event_2_1.png",
-      "generated_date": "2026-10-22"
+      "image_path": "generated_media/2026-10-23/upcoming_event_2_1.png",
+      "generated_date": "2026-10-23"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "ほうとう",
-      "area": "山梨県・甲府市、富士五湖周辺など県内各地",
-      "date_info": "秋冬におすすめ。県内各地の郷土料理店で提供",
-      "post_text": "山梨の秋冬旅で食べたい、具だくさんのほうとう。幅広の麺をかぼちゃや季節の野菜と味噌仕立てで煮込む、体の芯から温まる郷土料理です。紅葉散策のあとは、熱々の鉄鍋をぜひ。#山梨グルメ #ほうとう",
-      "source_url": "https://www.yamanashi-kankou.jp/special/gourmet_hoto.html",
-      "source_title": "山梨の郷土料理「ほうとう」を味わえる名店をご紹介｜富士の国やまなし観光ネット",
+      "title": "広島かきの土手鍋",
+      "area": "広島県広島市・広島湾沿岸の牡蠣料理店",
+      "date_info": "牡蠣の旬を迎える冬におすすめ",
+      "post_text": "寒い季節の広島で味わいたい郷土料理、かきの土手鍋。鍋のふちに味噌を塗り、広島産牡蠣と野菜を煮込む濃厚な一杯です。牡蠣の旨みが溶けた味噌だしを、最後まで楽しみたい。#広島グルメ #牡蠣",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+      "source_title": "かきの土手鍋 広島県｜農林水産省「うちの郷土料理」",
       "pexels_queries": [
-        "Yamanashi Japan traditional hoto noodles hot pot pumpkin miso"
+        "Hiroshima oyster dotenabe hot pot Hiroshima Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-22/local_food_1_1.png"
+        "generated_media/2026-10-23/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-22/local_food_1_1.png"
+          "path": "generated_media/2026-10-23/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-22/local_food_1_1.png",
-      "generated_date": "2026-10-22"
+      "image_path": "generated_media/2026-10-23/local_food_1_1.png",
+      "generated_date": "2026-10-23"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "昇仙峡の紅葉と渓谷さんぽ",
-      "area": "山梨県甲府市・昇仙峡",
-      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
-      "post_text": "奇岩と清流がつくる渓谷美に、秋の紅葉が重なる昇仙峡。遊歩道を歩き、覚円峰や仙娥滝をめぐったら、甲府名物ほうとうでひと休み。秋の山梨を五感で味わう日帰り旅におすすめです。#山梨観光 #昇仙峡",
-      "source_url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4534.html",
-      "source_title": "もみじ回廊｜富士の国やまなし観光ネット 公式",
+      "title": "耶馬溪の紅葉と渓谷ドライブ",
+      "area": "大分県中津市・耶馬溪町、深耶馬溪周辺",
+      "date_info": "紅葉の見頃は例年11月上旬〜中旬",
+      "post_text": "岩峰と清流がつくる景観を、秋色の木々が彩る大分・耶馬溪。深耶馬溪の一目八景をはじめ、渓谷沿いを車で巡れば、九州らしい晩秋の絶景に出会えます。温泉や郷土料理と合わせてどうぞ。#大分旅行 #紅葉",
+      "source_url": "https://www.visit-oita.jp/topics/detail/416",
+      "source_title": "紅葉スポット｜大分県の観光情報公式サイト",
       "pexels_queries": [
-        "Shosenkyo Gorge Kofu Yamanashi Japan autumn maple foliage waterfall"
+        "Yabakei Nakatsu Oita Japan autumn gorge cliffs foliage"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-22/destination_2_1.png"
+        "generated_media/2026-10-23/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-22/destination_2_1.png"
+          "path": "generated_media/2026-10-23/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-22/destination_2_1.png",
-      "generated_date": "2026-10-22"
+      "image_path": "generated_media/2026-10-23/destination_2_1.png",
+      "generated_date": "2026-10-23"
     }
   ]
 }
