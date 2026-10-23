@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "嵐山渓谷紅葉まつり2026",
-      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場",
-      "date_info": "2026年11月14日（土）〜12月6日（日）※イベント日は11月28日（土）・29日（日）",
-      "post_text": "紅葉の嵐山渓谷で秋の味覚を楽しむ「嵐山渓谷紅葉まつり」。2026年11月14日〜12月6日に開催され、11月28・29日は紅葉グルメマルシェも登場。渓谷散策と地元の味を満喫しよう。#埼玉旅行 #紅葉",
-      "source_url": "https://www.ranzan-kanko.jp/autumnleavesevent",
-      "source_title": "嵐山渓谷紅葉まつり｜一般社団法人嵐山町観光協会",
+      "title": "紅葉まつり",
+      "area": "大阪府吹田市・万博記念公園 日本庭園、自然文化園「紅葉渓」ほか",
+      "date_info": "2026年11月7日（土）〜11月29日（日）",
+      "post_text": "万博記念公園が秋色に染まる「紅葉まつり」。日本庭園の紅葉を眺めながら、茶室の特別公開や秋の風情を楽しめます。開催は2026年11月7日〜11月29日。休日の散策先にぜひ。#大阪観光 #紅葉狩り",
+      "source_url": "https://www.expo70-park.jp/event/77753/",
+      "source_title": "紅葉まつり｜万博記念公園",
       "pexels_queries": [
-        "Ranzan Gorge Saitama Japan autumn foliage river valley"
+        "Expo 70 Commemorative Park Suita Osaka Japan autumn maple garden"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-23/upcoming_event_1_1.png"
+        "generated_media/2026-10-24/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-23/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-24/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-23/upcoming_event_1_1.png",
-      "generated_date": "2026-10-23"
+      "image_path": "generated_media/2026-10-24/upcoming_event_1_1.png",
+      "generated_date": "2026-10-24"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "奥入瀬渓流の紅葉さんぽ",
-      "area": "青森県十和田市・奥入瀬渓流",
-      "date_info": "紅葉の見頃は例年10月中旬〜下旬。2026年秋の交通規制・混雑対策は現地公式情報を確認",
-      "post_text": "苔むした森を縫う清流と、赤や黄に染まる木々。奥入瀬渓流は秋の青森で歩きたい代表的な景勝地です。滝や渓流沿いの遊歩道をゆっくり歩き、十和田湖まで季節の絶景をつなごう。#青森旅行 #奥入瀬渓流",
-      "source_url": "https://aomori-tourism.com/spot/detail_339.html",
-      "source_title": "奥入瀬渓流｜青森県観光情報サイト Amazing AOMORI",
+      "title": "吉野山の紅葉と山上散策",
+      "area": "奈良県吉野郡吉野町・吉野山",
+      "date_info": "紅葉の見頃目安：2026年10月中旬〜11月下旬",
+      "post_text": "桜の名所として知られる吉野山は、秋になると山全体が赤や黄に染まる絶景へ。花矢倉展望台からの眺めや寺社めぐり、紅葉ライトアップを楽しめます。秋の吉野は、歩いてこそ味わいたい山旅です。#奈良旅行 #吉野山",
+      "source_url": "https://www.yoshino-kankou.jp/autumn-foliage/",
+      "source_title": "紅葉情報｜吉野ビジターズビューロー",
       "pexels_queries": [
-        "Oirase Gorge Towada Aomori Japan autumn stream waterfall"
+        "Yoshinoyama Nara Japan autumn mountain temple maple foliage"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-23/destination_1_1.png"
+        "generated_media/2026-10-24/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-23/destination_1_1.png"
+          "path": "generated_media/2026-10-24/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-23/destination_1_1.png",
-      "generated_date": "2026-10-23"
+      "image_path": "generated_media/2026-10-24/destination_1_1.png",
+      "generated_date": "2026-10-24"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "ヨルノヨ2026",
-      "area": "神奈川県横浜市・横浜都心臨海部",
-      "date_info": "2026年12月4日（金）〜12月30日（水）",
-      "post_text": "冬の横浜が光に包まれる「ヨルノヨ2026」。2026年12月4日〜30日、みなとみらい周辺の夜景とイルミネーションを楽しめます。海辺の街並みを歩きながら、横浜ならではの光の演出を満喫しよう。#横浜夜景 #イルミネーション",
-      "source_url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw9092",
-      "source_title": "国内最大級のイルミネーションイベント「ヨルノヨ2026」｜横浜市観光情報サイト",
+      "title": "未来に繋げる 光と音のページェント2026",
+      "area": "山口県防府市・アスピラート、ルルサス防府ほか",
+      "date_info": "2026年12月5日（土）〜2027年1月11日（月・祝）17:00〜22:00",
+      "post_text": "防府の街が光に包まれる「未来に繋げる 光と音のページェント2026」。駅周辺や表参道、アスピラート周辺を彩るイルミネーションは、冬の夜さんぽにぴったりです。開催は2026年12月5日〜2027年1月11日。#山口観光 #イルミネーション",
+      "source_url": "https://yamaguchi-tourism.jp/event/detail_18870.html",
+      "source_title": "未来に繋げる 光と音のページェント2026｜おいでませ山口へ",
       "pexels_queries": [
-        "Yorunoyo Yokohama Kanagawa Japan waterfront illumination night"
+        "Hofu Yamaguchi Japan winter illumination city lights night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-23/upcoming_event_2_1.png"
+        "generated_media/2026-10-24/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-23/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-24/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-23/upcoming_event_2_1.png",
-      "generated_date": "2026-10-23"
+      "image_path": "generated_media/2026-10-24/upcoming_event_2_1.png",
+      "generated_date": "2026-10-24"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "広島かきの土手鍋",
-      "area": "広島県広島市・広島湾沿岸の牡蠣料理店",
-      "date_info": "牡蠣の旬を迎える冬におすすめ",
-      "post_text": "寒い季節の広島で味わいたい郷土料理、かきの土手鍋。鍋のふちに味噌を塗り、広島産牡蠣と野菜を煮込む濃厚な一杯です。牡蠣の旨みが溶けた味噌だしを、最後まで楽しみたい。#広島グルメ #牡蠣",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
-      "source_title": "かきの土手鍋 広島県｜農林水産省「うちの郷土料理」",
+      "title": "鰹のたたき",
+      "area": "高知県土佐清水市・高知県内の鰹料理店",
+      "date_info": "通年。秋冬は藁焼きの香ばしさと地元の旬魚を楽しみたい時期",
+      "post_text": "高知を訪れたら、香ばしい藁焼きの鰹のたたきを。土佐清水では、発祥の地ならではの厚切りや塩たたきにも出会えます。表面は香ばしく、中はしっとり。旅先で食べたい高知の代表名物です。#高知グルメ #鰹のたたき",
+      "source_url": "https://www.shimizu-kankou.com/gourmet/tataki/",
+      "source_title": "鰹のたたき｜土佐清水市観光協会",
       "pexels_queries": [
-        "Hiroshima oyster dotenabe hot pot Hiroshima Japan"
+        "Katsuo no tataki straw grilled bonito Tosa Shimizu Kochi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-23/local_food_1_1.png"
+        "generated_media/2026-10-24/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-23/local_food_1_1.png"
+          "path": "generated_media/2026-10-24/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-23/local_food_1_1.png",
-      "generated_date": "2026-10-23"
+      "image_path": "generated_media/2026-10-24/local_food_1_1.png",
+      "generated_date": "2026-10-24"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "耶馬溪の紅葉と渓谷ドライブ",
-      "area": "大分県中津市・耶馬溪町、深耶馬溪周辺",
-      "date_info": "紅葉の見頃は例年11月上旬〜中旬",
-      "post_text": "岩峰と清流がつくる景観を、秋色の木々が彩る大分・耶馬溪。深耶馬溪の一目八景をはじめ、渓谷沿いを車で巡れば、九州らしい晩秋の絶景に出会えます。温泉や郷土料理と合わせてどうぞ。#大分旅行 #紅葉",
-      "source_url": "https://www.visit-oita.jp/topics/detail/416",
-      "source_title": "紅葉スポット｜大分県の観光情報公式サイト",
+      "title": "レインボーライン山頂公園と三方五湖の秋景色",
+      "area": "福井県三方郡美浜町・レインボーライン山頂公園、三方五湖",
+      "date_info": "紅葉の見頃予測：2026年11月中旬〜11月下旬",
+      "post_text": "五つの湖を見渡すレインボーライン山頂公園へ。秋は山肌の紅葉と、青く輝く三方五湖のコントラストが見どころです。天空のテラスで景色を眺めた後は、若狭の海の幸を味わうドライブ旅に。#福井旅行 #三方五湖",
+      "source_url": "https://www.fuku-e.com/spot/detail_1330.html",
+      "source_title": "レインボーライン山頂公園｜ふくいドットコム",
       "pexels_queries": [
-        "Yabakei Nakatsu Oita Japan autumn gorge cliffs foliage"
+        "Rainbow Line Summit Park Mikata Five Lakes Fukui Japan autumn landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-23/destination_2_1.png"
+        "generated_media/2026-10-24/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-23/destination_2_1.png"
+          "path": "generated_media/2026-10-24/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-23/destination_2_1.png",
-      "generated_date": "2026-10-23"
+      "image_path": "generated_media/2026-10-24/destination_2_1.png",
+      "generated_date": "2026-10-24"
     }
   ]
 }
