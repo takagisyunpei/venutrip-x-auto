@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "円通院 紅葉ライトアップ2026",
-      "area": "宮城県宮城郡松島町・円通院",
-      "date_info": "2026年10月24日（土）〜11月23日（月・祝）17:30〜21:00",
-      "post_text": "松島・円通院の庭園が、紅葉と光に包まれる夜。石庭や心字の池に浮かぶモミジを眺めながら、秋の夜長を過ごせます。開催は2026年10月24日〜11月23日。#松島 #紅葉ライトアップ",
-      "source_url": "https://www.entuuin.or.jp/lightup/2026/",
-      "source_title": "円通院 紅葉ライトアップ2026",
+      "title": "大阪・光の饗宴2026",
+      "area": "大阪府大阪市・御堂筋、中之島周辺ほか",
+      "date_info": "2026年11月3日（火・祝）〜2027年1月31日（日）※御堂筋イルミネーションは12月31日（木）まで",
+      "post_text": "大阪の街が光に包まれる「大阪・光の饗宴2026」。御堂筋のイルミネーションや中之島の水辺演出を歩きながら、冬の夜さんぽを楽しみませんか？開催は11月3日〜2027年1月31日。#大阪旅行 #イルミネーション",
+      "source_url": "https://hikari-kyoen.com/information/235/",
+      "source_title": "大阪・光の饗宴2026「コアプログラムが決定しました！」",
       "pexels_queries": [
-        "Entsuin Temple Matsushima Miyagi Japan autumn maple garden night"
+        "Osaka Midosuji illumination Osaka Japan winter city lights"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-25/upcoming_event_1_1.png"
+        "generated_media/2026-10-26/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-25/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-26/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-25/upcoming_event_1_1.png",
-      "generated_date": "2026-10-25"
+      "image_path": "generated_media/2026-10-26/upcoming_event_1_1.png",
+      "generated_date": "2026-10-26"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "奥津渓の紅葉と奥津温泉",
-      "area": "岡山県苫田郡鏡野町・奥津渓、奥津温泉",
-      "date_info": "紅葉の見頃は例年11月上旬〜中旬",
-      "post_text": "川沿いに広がる渓谷美と、赤く染まるモミジのトンネル。奥津渓を歩いた後は、奥津温泉でゆっくり温まる秋旅へ。見頃は例年11月上旬〜中旬です。#岡山観光 #紅葉旅",
-      "source_url": "https://www.kagamino.holiday/special/season/entry-1118.html",
-      "source_title": "紅葉特集2026〜絵になる町かがみの紅葉見頃情報〜",
+      "title": "日光の社寺と紅葉めぐり",
+      "area": "栃木県日光市・日光山内、いろは坂、中禅寺湖周辺",
+      "date_info": "紅葉の見頃目安：日光市街は10月下旬〜11月中旬、鬼怒川・川治温泉周辺は10月中旬〜11月下旬",
+      "post_text": "朱塗りの社寺と錦色の山々を一度に楽しめる、秋の日光へ。世界遺産の日光山内から中禅寺湖まで、紅葉の進み具合に合わせてめぐる旅がおすすめです。#日光 #紅葉旅",
+      "source_url": "https://visitnikko.jp/en/plan-your-trip/faqs/",
+      "source_title": "Nikko Official Guide｜FAQs",
       "pexels_queries": [
-        "Okutsu Gorge Kagamino Okayama Japan autumn red maple valley river"
+        "Nikko Toshogu Shrine autumn leaves Tochigi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-25/destination_1_1.png"
+        "generated_media/2026-10-26/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-25/destination_1_1.png"
+          "path": "generated_media/2026-10-26/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-25/destination_1_1.png",
-      "generated_date": "2026-10-25"
+      "image_path": "generated_media/2026-10-26/destination_1_1.png",
+      "generated_date": "2026-10-26"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "九年庵 秋の一般公開2026",
-      "area": "佐賀県神埼市・九年庵",
-      "date_info": "2026年11月14日（土）〜11月29日（日）",
-      "post_text": "苔むす庭と紅葉が美しい、佐賀・九年庵の秋の一般公開。限られた期間だけ楽しめる名園を、静かな秋の空気とともに訪ねてみませんか。期間は2026年11月14日〜29日。#佐賀旅行 #九年庵",
-      "source_url": "https://www.asobo-saga.jp/events/",
-      "source_title": "九年庵 秋の一般公開（2026）｜あそぼーさが",
+      "title": "クリスマスアドベント2026",
+      "area": "福岡県福岡市・博多、天神、旧福岡県公会堂貴賓館前ほか",
+      "date_info": "2026年11月2日（月）開幕。会場により開催期間が異なり、博多会場は11月7日（土）〜12月25日（金）",
+      "post_text": "福岡の冬を彩る「クリスマスアドベント」が11月2日に開幕。光のアーチやマーケットを巡りながら、ホットワインや冬グルメを味わえる夜の街歩きへ。#福岡旅行 #クリスマス",
+      "source_url": "https://www.crossroadfukuoka.jp/feature/advent",
+      "source_title": "2026 イルミネーションが彩る街へ！クリスマスアドベントに行こう",
       "pexels_queries": [
-        "Kunenan Garden Kanzaki Saga Japan autumn maple moss Japanese garden"
+        "Fukuoka Christmas market illumination Hakata Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-25/upcoming_event_2_1.png"
+        "generated_media/2026-10-26/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-25/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-26/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-25/upcoming_event_2_1.png",
-      "generated_date": "2026-10-25"
+      "image_path": "generated_media/2026-10-26/upcoming_event_2_1.png",
+      "generated_date": "2026-10-26"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "鮭の焼漬け",
-      "area": "新潟県村上市・新潟県北部",
-      "date_info": "鮭漁が盛んな10月〜11月に味わいたい郷土料理",
-      "post_text": "焼いた鮭を、酒・みりん・醤油のたれに漬け込む村上の保存食「鮭の焼漬け」。ふっくらした身に甘辛いたれが染みた、秋の新潟で食べたい一品です。#新潟グルメ #村上市",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sakeno_yakizuke_niigata.html",
-      "source_title": "鮭の焼漬け 新潟県｜うちの郷土料理",
+      "title": "越前がに",
+      "area": "福井県福井市・越前海岸、越前港周辺",
+      "date_info": "提供時期の目安：2026年11月7日〜2027年3月頃",
+      "post_text": "冬の福井で味わいたい、越前がに。茹でがに、焼きがに、かに刺しなど、港町ならではの食べ方で旬の甘みを堪能できます。解禁直後の11月は特に注目です。#福井グルメ #越前がに",
+      "source_url": "https://www.echizenkani.jp/cuisine-kani/",
+      "source_title": "越前がに・活魚料理 樽海｜かに料理",
       "pexels_queries": [
-        "Murakami Niigata Japan grilled salmon soy sauce local cuisine"
+        "Echizen crab seafood dish Fukui Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-25/local_food_1_1.png"
+        "generated_media/2026-10-26/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-25/local_food_1_1.png"
+          "path": "generated_media/2026-10-26/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-25/local_food_1_1.png",
-      "generated_date": "2026-10-25"
+      "image_path": "generated_media/2026-10-26/local_food_1_1.png",
+      "generated_date": "2026-10-26"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "兼六園と金沢城公園の秋景色",
-      "area": "石川県金沢市・兼六園、金沢城公園",
-      "date_info": "紅葉の見頃は例年11月中旬〜下旬",
-      "post_text": "紅葉の名園・兼六園と金沢城公園を歩く秋の金沢。11月は色づく木々に加え、冬の風物詩「雪吊り」の準備も始まり、季節の移ろいを感じられます。#金沢旅行 #兼六園",
-      "source_url": "https://visitkanazawa.jp/en/feature/detail_152.html",
-      "source_title": "The Best Autumn Foliage Scenery in Kanazawa",
+      "title": "耶馬溪の一目八景と紅葉ドライブ",
+      "area": "大分県中津市・深耶馬溪、一目八景、耶馬溪ダム周辺",
+      "date_info": "紅葉の見頃目安：2026年10月下旬〜11月中旬",
+      "post_text": "奇岩と渓谷が織りなす大分・耶馬溪へ。名勝「一目八景」では、秋色に染まる岩峰を一望できます。そばや土産店に立ち寄りながら、晩秋のドライブを楽しみたい destination です。#大分旅行 #紅葉",
+      "source_url": "https://www.visit-oita.jp/topics/detail/416",
+      "source_title": "紅葉スポット｜美しく色づいた木々に感動！大分県の紅葉スポット：2026年度版",
       "pexels_queries": [
-        "Kenrokuen Garden Kanazawa Ishikawa Japan autumn maple pond"
+        "Yabakei gorge autumn leaves Nakatsu Oita Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-25/destination_2_1.png"
+        "generated_media/2026-10-26/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-25/destination_2_1.png"
+          "path": "generated_media/2026-10-26/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-25/destination_2_1.png",
-      "generated_date": "2026-10-25"
+      "image_path": "generated_media/2026-10-26/destination_2_1.png",
+      "generated_date": "2026-10-26"
     }
   ]
 }
