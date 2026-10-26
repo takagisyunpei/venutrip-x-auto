@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "大阪・光の饗宴2026",
-      "area": "大阪府大阪市・御堂筋、中之島周辺ほか",
-      "date_info": "2026年11月3日（火・祝）〜2027年1月31日（日）※御堂筋イルミネーションは12月31日（木）まで",
-      "post_text": "大阪の街が光に包まれる「大阪・光の饗宴2026」。御堂筋のイルミネーションや中之島の水辺演出を歩きながら、冬の夜さんぽを楽しみませんか？開催は11月3日〜2027年1月31日。#大阪旅行 #イルミネーション",
-      "source_url": "https://hikari-kyoen.com/information/235/",
-      "source_title": "大阪・光の饗宴2026「コアプログラムが決定しました！」",
+      "title": "成相寺紅葉祭ライトアップ",
+      "area": "京都府宮津市・成相寺",
+      "date_info": "2026年11月14日（土）・15日（日）17:00〜21:00",
+      "post_text": "天橋立を望む成相寺が、紅葉とライトアップで幻想的な夜に。五重塔を彩る秋の山寺を歩きながら、昼とは違う静かな美しさを楽しめます。開催は2026年11月14日・15日。#京都旅行 #紅葉ライトアップ",
+      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=15718",
+      "source_title": "成相寺紅葉祭ライトアップ｜京都市公式 京都観光Navi",
       "pexels_queries": [
-        "Osaka Midosuji illumination Osaka Japan winter city lights"
+        "Nariaiji Temple autumn foliage night illumination Miyazu Kyoto Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-26/upcoming_event_1_1.png"
+        "generated_media/2026-10-27/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-26/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-27/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-26/upcoming_event_1_1.png",
-      "generated_date": "2026-10-26"
+      "image_path": "generated_media/2026-10-27/upcoming_event_1_1.png",
+      "generated_date": "2026-10-27"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "日光の社寺と紅葉めぐり",
-      "area": "栃木県日光市・日光山内、いろは坂、中禅寺湖周辺",
-      "date_info": "紅葉の見頃目安：日光市街は10月下旬〜11月中旬、鬼怒川・川治温泉周辺は10月中旬〜11月下旬",
-      "post_text": "朱塗りの社寺と錦色の山々を一度に楽しめる、秋の日光へ。世界遺産の日光山内から中禅寺湖まで、紅葉の進み具合に合わせてめぐる旅がおすすめです。#日光 #紅葉旅",
-      "source_url": "https://visitnikko.jp/en/plan-your-trip/faqs/",
-      "source_title": "Nikko Official Guide｜FAQs",
+      "title": "黒部峡谷の紅葉とトロッコ列車",
+      "area": "富山県黒部市・黒部峡谷鉄道沿線",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
+      "post_text": "深いV字谷を走るトロッコ列車から、黒部川のエメラルドグリーンと赤や黄に染まる山々を一望。短い秋だけ出会える、富山の秘境旅です。防寒着を持って、車窓いっぱいの紅葉へ。#富山旅行 #黒部峡谷",
+      "source_url": "https://visit-toyama-japan.com/en/travel-inspiration/Koyou",
+      "source_title": "Must-visit: Toyama's Best Autumn Foliage Spots!｜Visit Toyama",
       "pexels_queries": [
-        "Nikko Toshogu Shrine autumn leaves Tochigi Japan"
+        "Kurobe Gorge trolley train autumn foliage Kurobe Toyama Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-26/destination_1_1.png"
+        "generated_media/2026-10-27/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-26/destination_1_1.png"
+          "path": "generated_media/2026-10-27/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-26/destination_1_1.png",
-      "generated_date": "2026-10-26"
+      "image_path": "generated_media/2026-10-27/destination_1_1.png",
+      "generated_date": "2026-10-27"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "クリスマスアドベント2026",
-      "area": "福岡県福岡市・博多、天神、旧福岡県公会堂貴賓館前ほか",
-      "date_info": "2026年11月2日（月）開幕。会場により開催期間が異なり、博多会場は11月7日（土）〜12月25日（金）",
-      "post_text": "福岡の冬を彩る「クリスマスアドベント」が11月2日に開幕。光のアーチやマーケットを巡りながら、ホットワインや冬グルメを味わえる夜の街歩きへ。#福岡旅行 #クリスマス",
-      "source_url": "https://www.crossroadfukuoka.jp/feature/advent",
-      "source_title": "2026 イルミネーションが彩る街へ！クリスマスアドベントに行こう",
+      "title": "志摩スペイン村 スパークリング・クリスマス",
+      "area": "三重県志摩市・志摩スペイン村",
+      "date_info": "2026年11月21日（土）〜12月25日（金）",
+      "post_text": "志摩スペイン村がクリスマス仕様に変わる季節。夕暮れから街並みやアトラクションが光に包まれ、限定グルメや華やかな演出も楽しめます。開催期間は2026年11月21日〜12月25日。#三重旅行 #クリスマスイベント",
+      "source_url": "https://www.kanko-shima.com/event/20535/",
+      "source_title": "志摩スペイン村「スパークリング・クリスマス」｜志摩市観光協会",
       "pexels_queries": [
-        "Fukuoka Christmas market illumination Hakata Japan"
+        "Shima Spain Village Christmas illumination Shima Mie Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-26/upcoming_event_2_1.png"
+        "generated_media/2026-10-27/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-26/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-27/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-26/upcoming_event_2_1.png",
-      "generated_date": "2026-10-26"
+      "image_path": "generated_media/2026-10-27/upcoming_event_2_1.png",
+      "generated_date": "2026-10-27"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "越前がに",
-      "area": "福井県福井市・越前海岸、越前港周辺",
-      "date_info": "提供時期の目安：2026年11月7日〜2027年3月頃",
-      "post_text": "冬の福井で味わいたい、越前がに。茹でがに、焼きがに、かに刺しなど、港町ならではの食べ方で旬の甘みを堪能できます。解禁直後の11月は特に注目です。#福井グルメ #越前がに",
-      "source_url": "https://www.echizenkani.jp/cuisine-kani/",
-      "source_title": "越前がに・活魚料理 樽海｜かに料理",
+      "title": "越前おろしそば",
+      "area": "福井県・越前市、福井市など県内各地",
+      "date_info": "通年。新そばの季節は秋〜冬",
+      "post_text": "香り豊かな福井県産そばに、たっぷりの大根おろしを添える越前おろしそば。さっぱりした辛みとそばの風味が心地よく、紅葉旅や冬の町歩きの昼食にもぴったりです。#福井グルメ #越前そば",
+      "source_url": "https://www.pref.fukui.lg.jp/doc/fukuimai/sobanohi.html",
+      "source_title": "毎月18日はそばの日！｜福井県ホームページ",
       "pexels_queries": [
-        "Echizen crab seafood dish Fukui Japan"
+        "Echizen oroshi soba grated daikon Fukui Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-26/local_food_1_1.png"
+        "generated_media/2026-10-27/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-26/local_food_1_1.png"
+          "path": "generated_media/2026-10-27/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-26/local_food_1_1.png",
-      "generated_date": "2026-10-26"
+      "image_path": "generated_media/2026-10-27/local_food_1_1.png",
+      "generated_date": "2026-10-27"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "耶馬溪の一目八景と紅葉ドライブ",
-      "area": "大分県中津市・深耶馬溪、一目八景、耶馬溪ダム周辺",
-      "date_info": "紅葉の見頃目安：2026年10月下旬〜11月中旬",
-      "post_text": "奇岩と渓谷が織りなす大分・耶馬溪へ。名勝「一目八景」では、秋色に染まる岩峰を一望できます。そばや土産店に立ち寄りながら、晩秋のドライブを楽しみたい destination です。#大分旅行 #紅葉",
-      "source_url": "https://www.visit-oita.jp/topics/detail/416",
-      "source_title": "紅葉スポット｜美しく色づいた木々に感動！大分県の紅葉スポット：2026年度版",
+      "title": "富士河口湖もみじ回廊の晩秋散策",
+      "area": "山梨県南都留郡富士河口湖町・河口湖畔",
+      "date_info": "紅葉の見頃：例年11月上旬〜中旬。晩秋は11月中旬以降",
+      "post_text": "河口湖畔を彩るもみじ回廊は、富士山と紅葉を一緒に楽しめる秋の定番。見頃の後半には遊歩道や川沿いが落ち葉の絨毯になり、しっとりした晩秋の景色に出会えます。#山梨旅行 #河口湖",
+      "source_url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4534.html",
+      "source_title": "もみじ回廊｜富士の国やまなし観光ネット",
       "pexels_queries": [
-        "Yabakei gorge autumn leaves Nakatsu Oita Japan"
+        "Kawaguchiko maple corridor autumn Mount Fuji Yamanashi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-26/destination_2_1.png"
+        "generated_media/2026-10-27/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-26/destination_2_1.png"
+          "path": "generated_media/2026-10-27/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-26/destination_2_1.png",
-      "generated_date": "2026-10-26"
+      "image_path": "generated_media/2026-10-27/destination_2_1.png",
+      "generated_date": "2026-10-27"
     }
   ]
 }
