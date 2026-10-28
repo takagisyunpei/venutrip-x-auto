@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "東山動植物園 もみじ狩り・紅葉ライトアップ",
-      "area": "愛知県名古屋市・東山動植物園 植物園エリア",
-      "date_info": "もみじ狩り：2026年11月14日（土）〜12月6日（日）／紅葉ライトアップ：11月21日（土）・22日（日）・23日（月・祝）・28日（土）・29日（日）、12月5日（土）・6日（日）",
-      "post_text": "500本以上の紅葉が彩る名古屋・東山動植物園。昼はもみじ狩り、夜は植物園を包むライトアップを楽しめます。開催は11月14日〜12月6日。秋の週末は幻想的な紅葉散策へ🍁 #名古屋観光 #紅葉ライトアップ",
-      "source_url": "https://www.higashiyama.city.nagoya.jp/koyo_momiji/",
-      "source_title": "名古屋・東山動植物園 紅葉ライトアップ・もみじ狩り",
+      "title": "万博記念公園 紅葉まつり",
+      "area": "大阪府吹田市・万博記念公園 日本庭園、自然文化園「紅葉渓」ほか",
+      "date_info": "2026年11月7日（土）〜11月29日（日）",
+      "post_text": "秋色に染まる万博記念公園へ。日本庭園や紅葉渓を歩き、茶室の特別公開や抹茶も楽しめます。開催は2026年11月7日〜11月29日。深まる秋を五感で味わう一日旅に。#大阪観光 #紅葉狩り",
+      "source_url": "https://www.expo70-park.jp/event/77753/",
+      "source_title": "紅葉まつり｜万博記念公園",
       "pexels_queries": [
-        "Higashiyama Zoo and Botanical Gardens Nagoya Aichi Japan autumn maple illumination"
+        "Expo Commemoration Park Suita Osaka Japan autumn maple garden landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-28/upcoming_event_1_1.png"
+        "generated_media/2026-10-29/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-28/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-29/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-28/upcoming_event_1_1.png",
-      "generated_date": "2026-10-28"
+      "image_path": "generated_media/2026-10-29/upcoming_event_1_1.png",
+      "generated_date": "2026-10-29"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "高千穂峡の紅葉と秋の雲海",
-      "area": "宮崎県西臼杵郡高千穂町・高千穂峡、国見ヶ丘周辺",
-      "date_info": "紅葉の見頃：例年11月中旬〜11月下旬／雲海：例年10月初旬〜12月初旬の早朝",
-      "post_text": "柱状節理の渓谷を彩る高千穂峡の紅葉は、11月中旬〜下旬が見頃。早起きできる日は国見ヶ丘の雲海も狙えます。真名井の滝と秋色の渓谷をめぐる、宮崎の絶景旅へ。 #宮崎旅行 #高千穂",
-      "source_url": "https://takachiho-kanko.info/faq/",
-      "source_title": "高千穂町観光協会 公式FAQ",
+      "title": "大洲・稲荷山公園の紅葉",
+      "area": "愛媛県大洲市・稲荷山公園",
+      "date_info": "紅葉の見ごろ：例年11月中旬〜11月下旬",
+      "post_text": "愛媛・大洲の稲荷山公園は、約3,000本のカエデが真っ赤に染まる晩秋の名所。11月中旬〜下旬は、深紅の森を歩く紅葉さんぽがおすすめです。大洲の城下町と合わせて訪れたい静かな秋旅。#愛媛旅行 #紅葉",
+      "source_url": "https://shikoku-tourism.com/spot/13106",
+      "source_title": "稲荷山公園｜ツーリズム四国",
       "pexels_queries": [
-        "Takachiho Gorge Miyazaki Japan autumn foliage waterfall"
+        "Inariyama Park Ozu Ehime Japan autumn red maple forest"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-28/destination_1_1.png"
+        "generated_media/2026-10-29/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-28/destination_1_1.png"
+          "path": "generated_media/2026-10-29/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-28/destination_1_1.png",
-      "generated_date": "2026-10-28"
+      "image_path": "generated_media/2026-10-29/destination_1_1.png",
+      "generated_date": "2026-10-29"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "梅小路公園 紅葉まつり2026",
-      "area": "京都府京都市下京区・梅小路公園 朱雀の庭",
-      "date_info": "2026年11月13日（金）〜11月29日（日）※11月16日（月）・24日（火）は休園",
-      "post_text": "梅小路公園・朱雀の庭で、11月13日〜29日に紅葉まつりを開催。約150本のモミジがライトアップされ、水鏡に映る“逆さ紅葉”は必見です。京都駅から歩いて行ける秋の夜へ。 #京都観光 #紅葉",
-      "source_url": "https://www.kyoto-ga.jp/special/momiji2026/",
-      "source_title": "梅小路公園紅葉まつり2026",
+      "title": "さっぽろホワイトイルミネーション",
+      "area": "北海道札幌市・大通公園、駅前通会場ほか",
+      "date_info": "大通会場：2026年11月20日（金）〜12月25日（金）／駅前通会場：2026年11月20日（金）〜2027年2月11日（木）",
+      "post_text": "札幌の冬を彩る、さっぽろホワイトイルミネーション。大通公園を中心に街が光に包まれます。大通会場は2026年11月20日〜12月25日。雪の季節ならではの夜景を歩きに出かけませんか。#札幌旅行 #イルミネーション",
+      "source_url": "https://www.sapporo.travel/white-illumination/",
+      "source_title": "さっぽろホワイトイルミネーション公式ウェブサイト",
       "pexels_queries": [
-        "Umekoji Park Suzaku Garden Kyoto Japan illuminated autumn maple reflection"
+        "Sapporo Odori Park Hokkaido Japan winter illumination lights"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-28/upcoming_event_2_1.png"
+        "generated_media/2026-10-29/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-28/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-29/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-28/upcoming_event_2_1.png",
-      "generated_date": "2026-10-28"
+      "image_path": "generated_media/2026-10-29/upcoming_event_2_1.png",
+      "generated_date": "2026-10-29"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "からいもごはん",
-      "area": "鹿児島県・県内各地",
-      "date_info": "秋の味覚・さつまいもを使う郷土料理",
-      "post_text": "鹿児島の秋に食べたい郷土の味、からいもごはん。ほくほく甘いさつまいもを米と一緒に炊き込む素朴な一膳は、旅先の食卓にぴったりです。地元の食堂や家庭料理店で味わいたい鹿児島の味。 #鹿児島グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html",
-      "source_title": "農林水産省「うちの郷土料理」秋の郷土料理",
+      "title": "きりたんぽ鍋",
+      "area": "秋田県大館市・鹿角市など県北地域",
+      "date_info": "旬：秋〜冬",
+      "post_text": "新米をつぶして焼いたきりたんぽを、比内地鶏やごぼう、きのこと煮込む秋田の郷土鍋。香ばしい米のうまみと鶏だしが体にしみます。寒くなるほど恋しくなる、秋田県北の味を旅先で。#秋田グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_6_akita.html",
+      "source_title": "きりたんぽ鍋 秋田県｜農林水産省",
       "pexels_queries": [
-        "Karai mo gohan sweet potato rice Kagoshima Japan traditional food"
+        "Kiritanpo hot pot Odate Akita Japan traditional local food"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-28/local_food_1_1.png"
+        "generated_media/2026-10-29/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-28/local_food_1_1.png"
+          "path": "generated_media/2026-10-29/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-28/local_food_1_1.png",
-      "generated_date": "2026-10-28"
+      "image_path": "generated_media/2026-10-29/local_food_1_1.png",
+      "generated_date": "2026-10-29"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "祖谷渓の紅葉とかずら橋めぐり",
-      "area": "徳島県三好市・祖谷渓、かずら橋周辺",
-      "date_info": "紅葉の見頃：例年11月上旬〜下旬",
-      "post_text": "深いV字谷に紅葉が流れ込む徳島・祖谷渓。かずら橋を渡り、渓谷沿いの展望台や温泉をめぐれば、秋の秘境旅を満喫できます。山あいの道は時間に余裕を持って、ゆっくり訪れたい場所です。 #徳島旅行 #祖谷渓",
-      "source_url": "https://www.awanavi.jp/spot/iyakei/",
-      "source_title": "阿波ナビ 祖谷渓・かずら橋",
+      "title": "大歩危・小歩危の紅葉と舟下り",
+      "area": "徳島県三好市・大歩危峡、小歩危峡",
+      "date_info": "紅葉の見ごろ：例年11月中旬〜11月下旬",
+      "post_text": "奇岩と清流が続く徳島・大歩危小歩危は、11月中旬〜下旬に山々が鮮やかに色づきます。渓谷沿いを歩くもよし、舟下りで水上から眺めるもよし。紅葉と峡谷美を一度に楽しむ秘境旅へ。#徳島旅行 #紅葉",
+      "source_url": "https://shikoku-tourism.com/spot/22119",
+      "source_title": "大歩危・小歩危の紅葉｜ツーリズム四国",
       "pexels_queries": [
-        "Iya Valley vine bridge Tokushima Japan autumn mountains"
+        "Oboke Koboke Gorge Miyoshi Tokushima Japan autumn river valley boat"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-28/destination_2_1.png"
+        "generated_media/2026-10-29/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-28/destination_2_1.png"
+          "path": "generated_media/2026-10-29/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-28/destination_2_1.png",
-      "generated_date": "2026-10-28"
+      "image_path": "generated_media/2026-10-29/destination_2_1.png",
+      "generated_date": "2026-10-29"
     }
   ]
 }
