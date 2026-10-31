@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "さっぽろホワイトイルミネーション2026",
-      "area": "北海道札幌市・大通公園、駅前通、南一条通ほか",
-      "date_info": "2026年11月20日（金）〜2027年3月14日（日）※会場により異なる",
-      "post_text": "札幌の街が光で包まれる冬の風物詩。大通公園では11月20日から、駅前通や南一条通でも幻想的なイルミネーションが始まります。雪の季節ならではの夜さんぽを楽しんで。 #札幌 #イルミネーション",
+      "title": "ミュンヘン・クリスマス市 in Sapporo",
+      "area": "北海道札幌市・大通公園2丁目",
+      "date_info": "2026年11月20日（金）〜12月25日（金）",
+      "post_text": "札幌の冬を彩る「ミュンヘン・クリスマス市 in Sapporo」。大通公園に屋台やツリーが並び、ホットワインやドイツの味覚を楽しめます。開催は2026年11月20日〜12月25日。イルミネーションと一緒に冬の札幌を満喫しよう。 #札幌 #クリスマス市",
       "source_url": "https://www.city.sapporo.jp/keizai/kanko/event/documents/r8event-calender-ver-done.pdf",
-      "source_title": "令和8年度 観光イベントカレンダー｜札幌市",
+      "source_title": "札幌市 令和8年度イベントカレンダー",
       "pexels_queries": [
-        "Sapporo Odori Park winter illumination Japan"
+        "Munich Christmas Market Sapporo Hokkaido Japan winter lights"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-30/upcoming_event_1_1.png"
+        "generated_media/2026-10-31/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-30/upcoming_event_1_1.png"
+          "path": "generated_media/2026-10-31/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-30/upcoming_event_1_1.png",
-      "generated_date": "2026-10-30"
+      "image_path": "generated_media/2026-10-31/upcoming_event_1_1.png",
+      "generated_date": "2026-10-31"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "白川郷の合掌造り集落と晩秋の山里",
-      "area": "岐阜県大野郡白川村・白川郷合掌造り集落",
-      "date_info": "2026年11月〜12月上旬",
-      "post_text": "紅葉の余韻と冬の気配が重なる晩秋の白川郷へ。合掌造りの家々と山里の景色は、雪景色とは違う静かな美しさ。夕暮れの集落を歩けば、旅情がいっそう深まります。 #白川郷 #岐阜旅行",
-      "source_url": "https://www.vill.shirakawa.lg.jp/kankou/",
-      "source_title": "白川村公式観光サイト",
+      "title": "べふ峡の紅葉と手打ちそば",
+      "area": "高知県香美市・べふ峡",
+      "date_info": "紅葉の見頃：例年11月中旬ごろ",
+      "post_text": "山肌を赤や黄に染める高知・べふ峡へ。遊歩道を歩けば、滝や石灰岩を望む秋の渓谷美に出会えます。散策の後は、紅葉シーズン限定の茶屋で手打ちそばを味わうのも楽しみ。深まる秋の山旅におすすめです。 #高知旅行 #紅葉",
+      "source_url": "https://visitkochijapan.com/en/see-and-do/10054",
+      "source_title": "VISIT KOCHI JAPAN べふ峡",
       "pexels_queries": [
-        "Shirakawa-go traditional houses late autumn Japan"
+        "Befu Gorge Kami Kochi Japan autumn foliage hiking"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-30/destination_1_1.png"
+        "generated_media/2026-10-31/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-30/destination_1_1.png"
+          "path": "generated_media/2026-10-31/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-30/destination_1_1.png",
-      "generated_date": "2026-10-30"
+      "image_path": "generated_media/2026-10-31/destination_1_1.png",
+      "generated_date": "2026-10-31"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "第20回 上田城紅葉まつり",
-      "area": "長野県上田市・上田城跡公園",
-      "date_info": "2026年11月7日（土）〜11月8日（日）",
-      "post_text": "真田ゆかりの上田城跡が、紅葉と武将隊の熱気に包まれる2日間。迫力のステージや郷土色豊かな催しを楽しみながら、秋色の城跡を散策できます。 #上田城 #紅葉まつり",
-      "source_url": "https://db.go-nagano.net/topics_detail11/id%3D19632",
-      "source_title": "第20回 上田城紅葉まつり｜Go NAGANO",
+      "title": "神戸メリケンクリスマス ～未来への灯と港の光～",
+      "area": "兵庫県神戸市・メリケンパーク",
+      "date_info": "2026年12月19日（土）〜12月25日（金）",
+      "post_text": "神戸港の夜景と光を楽しむクリスマスイベント。メリケンパークを舞台に、港の光の演出やドローンショーが予定されています。開催は2026年12月19日〜25日。冬の神戸で、海辺ならではの華やかな夜を過ごしませんか。 #神戸 #クリスマス",
+      "source_url": "https://www.feel-kobe.jp/event/area/%E6%96%87%E5%8C%96/?area=%E3%83%A1%E3%83%AA%E3%82%B1%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%8B%E3%83%A5%E3% **",
+      "source_title": "Feel KOBE 神戸公式観光サイト",
       "pexels_queries": [
-        "Ueda Castle autumn foliage Nagano Japan"
+        "Meriken Park Kobe Hyogo Japan Christmas lights harbor night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-30/upcoming_event_2_1.png"
+        "generated_media/2026-10-31/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-30/upcoming_event_2_1.png"
+          "path": "generated_media/2026-10-31/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-30/upcoming_event_2_1.png",
-      "generated_date": "2026-10-30"
+      "image_path": "generated_media/2026-10-31/upcoming_event_2_1.png",
+      "generated_date": "2026-10-31"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "どんがら汁（寒鱈汁）",
-      "area": "山形県庄内地域・鶴岡市、酒田市など",
-      "date_info": "冬季、主に2026年12月〜2027年2月",
-      "post_text": "庄内の冬に食べたい、寒鱈を丸ごと味わう郷土料理。身や白子、肝まで入った味噌仕立てのどんがら汁は、冷えた体にしみる濃厚な一杯です。港町の食堂や旅館でぜひ。 #山形グルメ #寒鱈汁",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/dongarajiru_yamagata.html",
-      "source_title": "どんがら汁／寒鱈汁 山形県｜農林水産省「うちの郷土料理」",
+      "title": "八戸せんべい汁",
+      "area": "青森県八戸市・市内の郷土料理店",
+      "date_info": "秋冬に食べたい八戸の郷土料理",
+      "post_text": "寒い季節の八戸で食べたい、具だくさんの「八戸せんべい汁」。鶏や魚介、野菜のだしがきいた醤油味の汁に、専用の南部せんべいを煮込みます。だしを吸ったせんべいの、もっちりとした独特の食感をぜひ現地で。 #八戸 #郷土料理",
+      "source_url": "https://visithachinohe.com/shopping/senbeijiru/",
+      "source_title": "VISITはちのへ これが八戸の味！「八戸せんべい汁」",
       "pexels_queries": [
-        "Yamagata dongara jiru cod soup traditional Japanese cuisine"
+        "Hachinohe Aomori Japan senbei-jiru hot pot local food"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-30/local_food_1_1.png"
+        "generated_media/2026-10-31/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-30/local_food_1_1.png"
+          "path": "generated_media/2026-10-31/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-30/local_food_1_1.png",
-      "generated_date": "2026-10-30"
+      "image_path": "generated_media/2026-10-31/local_food_1_1.png",
+      "generated_date": "2026-10-31"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "五箇山合掌造り集落の冬支度",
-      "area": "富山県南砺市・相倉合掌造り集落、菅沼合掌造り集落",
-      "date_info": "2026年11月〜12月",
-      "post_text": "山あいの合掌造りが並ぶ五箇山は、晩秋から初冬に訪れたい場所。色づいた山肌や薄雪の景色と、素朴な集落の佇まいが心に残ります。静かな北陸旅におすすめです。 #五箇山 #富山旅行",
-      "source_url": "https://www.tabi-nanto.jp/",
-      "source_title": "南砺市観光協会公式サイト",
+      "title": "函館・香雪園と大沼の晩秋めぐり",
+      "area": "北海道函館市・香雪園、大沼国定公園",
+      "date_info": "香雪園の紅葉：10月下旬〜11月上旬",
+      "post_text": "晩秋の函館は、赤や黄色に染まる香雪園と大沼国定公園をめぐる旅がおすすめ。歴史ある庭園の紅葉を歩き、澄んだ空気の夜は函館山から港町の夜景を眺める。海鮮や新米など、秋の味覚も楽しめます。 #函館 #北海道旅行",
+      "source_url": "https://www.hakodate.travel/en/enjoy-4-seasons/autumn/",
+      "source_title": "Travel Hakodate Autumn",
       "pexels_queries": [
-        "Gokayama Ainokura village autumn traditional houses Japan"
+        "Kosetsuen Garden Hakodate Hokkaido Japan autumn foliage"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-30/destination_2_1.png"
+        "generated_media/2026-10-31/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-30/destination_2_1.png"
+          "path": "generated_media/2026-10-31/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-30/destination_2_1.png",
-      "generated_date": "2026-10-30"
+      "image_path": "generated_media/2026-10-31/destination_2_1.png",
+      "generated_date": "2026-10-31"
     }
   ]
 }

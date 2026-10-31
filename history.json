@@ -3,41 +3,6 @@
     {
       "date": "2026-09-29",
       "category": "event",
-      "title": "長崎くんち",
-      "area": "長崎県長崎市",
-      "source_url": "https://nagasaki-kunchi.com/"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "飛騨高山・郡上八幡の秋旅",
-      "area": "岐阜県高山市・郡上市",
-      "source_url": "https://www.kankou-gifu.jp/article/detail_207.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "event",
-      "title": "第39回東京国際映画祭",
-      "area": "東京都千代田区・中央区・港区周辺",
-      "source_url": "https://2026.tiff-jp.net/ja/"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "food",
-      "title": "柿の葉寿司",
-      "area": "奈良県吉野・奈良市",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "島根・出雲から奥出雲へ",
-      "area": "島根県出雲市・奥出雲町",
-      "source_url": "https://www.kankou-shimane.com/pickup/75278.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "event",
       "title": "越前かにまつり2026",
       "area": "福井県越前町・道の駅「越前」",
       "source_url": "https://www.fuku-e.com/event/detail_5236.html"
@@ -1259,6 +1224,41 @@
       "title": "五箇山合掌造り集落の冬支度",
       "area": "富山県南砺市・相倉合掌造り集落、菅沼合掌造り集落",
       "source_url": "https://www.tabi-nanto.jp/"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "event",
+      "title": "ミュンヘン・クリスマス市 in Sapporo",
+      "area": "北海道札幌市・大通公園2丁目",
+      "source_url": "https://www.city.sapporo.jp/keizai/kanko/event/documents/r8event-calender-ver-done.pdf"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "destination",
+      "title": "べふ峡の紅葉と手打ちそば",
+      "area": "高知県香美市・べふ峡",
+      "source_url": "https://visitkochijapan.com/en/see-and-do/10054"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "event",
+      "title": "神戸メリケンクリスマス ～未来への灯と港の光～",
+      "area": "兵庫県神戸市・メリケンパーク",
+      "source_url": "https://www.feel-kobe.jp/event/area/%E6%96%87%E5%8C%96/?area=%E3%83%A1%E3%83%AA%E3%82%B1%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%8B%E3%83%A5%E3% **"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "food",
+      "title": "八戸せんべい汁",
+      "area": "青森県八戸市・市内の郷土料理店",
+      "source_url": "https://visithachinohe.com/shopping/senbeijiru/"
+    },
+    {
+      "date": "2026-10-31",
+      "category": "destination",
+      "title": "函館・香雪園と大沼の晩秋めぐり",
+      "area": "北海道函館市・香雪園、大沼国定公園",
+      "source_url": "https://www.hakodate.travel/en/enjoy-4-seasons/autumn/"
     }
   ]
 }
