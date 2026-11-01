@@ -1,130 +1,130 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "ミュンヘン・クリスマス市 in Sapporo",
-      "area": "北海道札幌市・大通公園2丁目",
-      "date_info": "2026年11月20日（金）〜12月25日（金）",
-      "post_text": "札幌の冬を彩る「ミュンヘン・クリスマス市 in Sapporo」。大通公園に屋台やツリーが並び、ホットワインやドイツの味覚を楽しめます。開催は2026年11月20日〜12月25日。イルミネーションと一緒に冬の札幌を満喫しよう。 #札幌 #クリスマス市",
-      "source_url": "https://www.city.sapporo.jp/keizai/kanko/event/documents/r8event-calender-ver-done.pdf",
-      "source_title": "札幌市 令和8年度イベントカレンダー",
+      "title": "KOBE UMIAKARI 2026",
+      "area": "兵庫県神戸市・神戸ハーバーランド",
+      "date_info": "2026年11月7日（土）〜12月25日（金）",
+      "post_text": "神戸ハーバーランドが光に包まれる冬のイルミネーション「KOBE UMIAKARI 2026」。海辺の夜景ときらめく街並みを歩きながら、港町ならではのロマンチックな夜を楽しめます。11月7日〜12月25日開催。#神戸 #イルミネーション",
+      "source_url": "https://www.feel-kobe.jp/event/",
+      "source_title": "KOBE UMIAKARI 2026｜Feel KOBE 神戸公式観光サイト",
       "pexels_queries": [
-        "Munich Christmas Market Sapporo Hokkaido Japan winter lights"
+        "Kobe Harborland winter illumination waterfront Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-31/upcoming_event_1_1.png"
+        "generated_media/2026-11-01/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-31/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-01/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-31/upcoming_event_1_1.png",
-      "generated_date": "2026-10-31"
+      "image_path": "generated_media/2026-11-01/upcoming_event_1_1.png",
+      "generated_date": "2026-11-01"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "べふ峡の紅葉と手打ちそば",
-      "area": "高知県香美市・べふ峡",
-      "date_info": "紅葉の見頃：例年11月中旬ごろ",
-      "post_text": "山肌を赤や黄に染める高知・べふ峡へ。遊歩道を歩けば、滝や石灰岩を望む秋の渓谷美に出会えます。散策の後は、紅葉シーズン限定の茶屋で手打ちそばを味わうのも楽しみ。深まる秋の山旅におすすめです。 #高知旅行 #紅葉",
-      "source_url": "https://visitkochijapan.com/en/see-and-do/10054",
-      "source_title": "VISIT KOCHI JAPAN べふ峡",
+      "title": "知床五湖の晩秋と雪化粧の知床連山",
+      "area": "北海道斜里郡斜里町・知床五湖",
+      "date_info": "11月上旬まで晩秋の景色を楽しめる時期。湖畔のカラマツと雪化粧の知床連山が見どころ",
+      "post_text": "晩秋の知床五湖では、黄金色のカラマツと雪をまとった知床連山が織りなす静かな絶景に出会えます。原生林に囲まれた湖畔を歩けば、世界自然遺産・知床の奥深い秋を実感。冬の気配を感じる今こそ訪れたい場所です。#知床 #北海道旅行",
+      "source_url": "https://hokkaido-mustseeanddo.tw.visit-hokkaido.jp/findspot.html",
+      "source_title": "知床五湖紅葉｜Hokkaido MUST SEE＆DO",
       "pexels_queries": [
-        "Befu Gorge Kami Kochi Japan autumn foliage hiking"
+        "Shiretoko Five Lakes autumn landscape Shari Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-31/destination_1_1.png"
+        "generated_media/2026-11-01/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-31/destination_1_1.png"
+          "path": "generated_media/2026-11-01/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-31/destination_1_1.png",
-      "generated_date": "2026-10-31"
+      "image_path": "generated_media/2026-11-01/destination_1_1.png",
+      "generated_date": "2026-11-01"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "神戸メリケンクリスマス ～未来への灯と港の光～",
-      "area": "兵庫県神戸市・メリケンパーク",
-      "date_info": "2026年12月19日（土）〜12月25日（金）",
-      "post_text": "神戸港の夜景と光を楽しむクリスマスイベント。メリケンパークを舞台に、港の光の演出やドローンショーが予定されています。開催は2026年12月19日〜25日。冬の神戸で、海辺ならではの華やかな夜を過ごしませんか。 #神戸 #クリスマス",
-      "source_url": "https://www.feel-kobe.jp/event/area/%E6%96%87%E5%8C%96/?area=%E3%83%A1%E3%83%AA%E3%82%B1%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%83%8B%E3%83%A5%E3% **",
-      "source_title": "Feel KOBE 神戸公式観光サイト",
+      "title": "さっぽろ菊まつり",
+      "area": "北海道札幌市・札幌駅前通地下歩行空間ほか",
+      "date_info": "2026年11月1日（日）〜11月3日（火・祝）",
+      "post_text": "約1,000点の菊が札幌の街を彩る「さっぽろ菊まつり」。丹精込めて育てられた大輪や盆栽仕立ての菊が並び、秋の札幌で日本の花文化に触れられます。開催は11月1日〜3日。街歩きと合わせてどうぞ。#札幌 #菊まつり",
+      "source_url": "https://www.visit-hokkaido.jp/event/index_1_2______.html",
+      "source_title": "さっぽろ菊まつり｜HOKKAIDO LOVE！",
       "pexels_queries": [
-        "Meriken Park Kobe Hyogo Japan Christmas lights harbor night"
+        "Sapporo chrysanthemum festival flowers Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-31/upcoming_event_2_1.png"
+        "generated_media/2026-11-01/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-31/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-01/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-31/upcoming_event_2_1.png",
-      "generated_date": "2026-10-31"
+      "image_path": "generated_media/2026-11-01/upcoming_event_2_1.png",
+      "generated_date": "2026-11-01"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "八戸せんべい汁",
-      "area": "青森県八戸市・市内の郷土料理店",
-      "date_info": "秋冬に食べたい八戸の郷土料理",
-      "post_text": "寒い季節の八戸で食べたい、具だくさんの「八戸せんべい汁」。鶏や魚介、野菜のだしがきいた醤油味の汁に、専用の南部せんべいを煮込みます。だしを吸ったせんべいの、もっちりとした独特の食感をぜひ現地で。 #八戸 #郷土料理",
-      "source_url": "https://visithachinohe.com/shopping/senbeijiru/",
-      "source_title": "VISITはちのへ これが八戸の味！「八戸せんべい汁」",
+      "title": "いものこ汁",
+      "area": "秋田県・県南地域を中心とする郷土料理店",
+      "date_info": "里芋がおいしくなる秋から冬に食べたい郷土料理",
+      "post_text": "秋田の秋冬に食べたい郷土料理、いものこ汁。ねっとりした里芋を主役に、きのこや肉を煮込んだ滋味深い一杯です。寒い日に囲む鍋だからこそ感じられる、山里のぬくもり。秋田を旅したら、ぜひ土地の味で味わってみてください。#秋田グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
+      "source_title": "冬の郷土料理｜農林水産省「うちの郷土料理」",
       "pexels_queries": [
-        "Hachinohe Aomori Japan senbei-jiru hot pot local food"
+        "Imonoko-jiru taro hot pot Akita Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-31/local_food_1_1.png"
+        "generated_media/2026-11-01/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-31/local_food_1_1.png"
+          "path": "generated_media/2026-11-01/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-31/local_food_1_1.png",
-      "generated_date": "2026-10-31"
+      "image_path": "generated_media/2026-11-01/local_food_1_1.png",
+      "generated_date": "2026-11-01"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "函館・香雪園と大沼の晩秋めぐり",
-      "area": "北海道函館市・香雪園、大沼国定公園",
-      "date_info": "香雪園の紅葉：10月下旬〜11月上旬",
-      "post_text": "晩秋の函館は、赤や黄色に染まる香雪園と大沼国定公園をめぐる旅がおすすめ。歴史ある庭園の紅葉を歩き、澄んだ空気の夜は函館山から港町の夜景を眺める。海鮮や新米など、秋の味覚も楽しめます。 #函館 #北海道旅行",
-      "source_url": "https://www.hakodate.travel/en/enjoy-4-seasons/autumn/",
-      "source_title": "Travel Hakodate Autumn",
+      "title": "鳴門の渦潮と秋冬の海景色",
+      "area": "徳島県鳴門市・鳴門海峡、大鳴門橋周辺",
+      "date_info": "秋から冬にかけて澄んだ空気の中で鳴門海峡の渦潮を楽しみたい季節",
+      "post_text": "潮の満ち引きが生み出す迫力の渦潮を、船上や展望施設から楽しめる鳴門海峡。秋冬は空気が澄み、海と大鳴門橋の景色もいっそう鮮やかに見えます。渦潮の見頃を確認して、徳島ならではのダイナミックな海旅へ。#鳴門 #徳島旅行",
+      "source_url": "https://www.awanavi.jp/archives/spot/鳴門の渦潮",
+      "source_title": "鳴門の渦潮｜徳島県観光情報サイト 阿波ナビ",
       "pexels_queries": [
-        "Kosetsuen Garden Hakodate Hokkaido Japan autumn foliage"
+        "Naruto whirlpools Naruto Strait Tokushima Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-10-31/destination_2_1.png"
+        "generated_media/2026-11-01/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-10-31/destination_2_1.png"
+          "path": "generated_media/2026-11-01/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-10-31/destination_2_1.png",
-      "generated_date": "2026-10-31"
+      "image_path": "generated_media/2026-11-01/destination_2_1.png",
+      "generated_date": "2026-11-01"
     }
   ]
 }
