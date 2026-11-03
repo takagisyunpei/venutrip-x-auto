@@ -3,41 +3,6 @@
     {
       "date": "2026-09-29",
       "category": "event",
-      "title": "阿寒アイヌアートウィーク",
-      "area": "北海道釧路市・阿寒湖温泉",
-      "source_url": "https://www.visit-hokkaido.jp/event/detail_13028.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "大雪山旭岳の初紅葉",
-      "area": "北海道東川町・旭岳",
-      "source_url": "https://www.visit-hokkaido.jp/spot/detail_10173.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "event",
-      "title": "乙島祭り",
-      "area": "岡山県倉敷市玉島乙島・戸島神社",
-      "source_url": "https://www.okayama-kanko.jp/event/detail_12700.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "food",
-      "title": "はらこ飯",
-      "area": "宮城県亘理町・荒浜周辺",
-      "source_url": "https://www.maff.go.jp/j/keikaku/shokubunka/k_ryouri/search_menu/menu/harako_meshi_miyagi.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "高野山の紅葉と宿坊の朝",
-      "area": "和歌山県伊都郡高野町・高野山",
-      "source_url": "https://visitwakayama.jp/en/events/detail_41.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "event",
       "title": "菊間祭り（お供馬の走り込み）",
       "area": "愛媛県今治市・菊間町",
       "source_url": "https://www.oideya.gr.jp/"
@@ -1259,6 +1224,41 @@
       "title": "鳴門の渦潮と秋冬の海景色",
       "area": "徳島県鳴門市・鳴門海峡、大鳴門橋周辺",
       "source_url": "https://www.awanavi.jp/archives/spot/鳴門の渦潮"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "event",
+      "title": "小倉クリスマスマーケット2026",
+      "area": "福岡県北九州市・小倉駅周辺",
+      "source_url": "https://kitakyushu-christmasmarket.jp/"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "destination",
+      "title": "奥只見湖の晩秋景色と遊覧船",
+      "area": "新潟県魚沼市・奥只見湖",
+      "source_url": "https://www.iine-uonuma.jp/2026kouyou/"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "event",
+      "title": "水前寺 White Xmas 2026",
+      "area": "熊本県熊本市・水前寺江津湖公園周辺",
+      "source_url": "https://kumamoto-icb.or.jp/kankou/schedule/"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "food",
+      "title": "ふぐ料理",
+      "area": "山口県下関市・唐戸市場周辺、下関市内の料理店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-03",
+      "category": "destination",
+      "title": "飛騨古川の雪景色と冬旅",
+      "area": "岐阜県飛騨市・飛騨古川周辺",
+      "source_url": "https://www.hida-kankou.jp/features/173"
     }
   ]
 }

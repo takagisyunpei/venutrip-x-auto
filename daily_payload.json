@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-03",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "KOBE UMIAKARI 2026",
-      "area": "兵庫県神戸市・神戸ハーバーランド",
-      "date_info": "2026年11月7日（土）〜12月25日（金）",
-      "post_text": "神戸ハーバーランドが光に包まれる冬のイルミネーション「KOBE UMIAKARI 2026」。海辺の夜景ときらめく街並みを歩きながら、港町ならではのロマンチックな夜を楽しめます。11月7日〜12月25日開催。#神戸 #イルミネーション",
-      "source_url": "https://www.feel-kobe.jp/event/",
-      "source_title": "KOBE UMIAKARI 2026｜Feel KOBE 神戸公式観光サイト",
+      "title": "小倉クリスマスマーケット2026",
+      "area": "福岡県北九州市・小倉駅周辺",
+      "date_info": "2026年11月20日〜12月25日",
+      "post_text": "小倉の街が華やぐクリスマスマーケットへ。きらめくイルミネーションの下で、温かいフードやドリンクを楽しむ冬の夜。11月20日〜12月25日開催。 #北九州 #クリスマス",
+      "source_url": "https://kitakyushu-christmasmarket.jp/",
+      "source_title": "小倉クリスマスマーケット｜公式WEBサイト",
       "pexels_queries": [
-        "Kobe Harborland winter illumination waterfront Japan"
+        "Kokura Kitakyushu Fukuoka Christmas market illumination Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-01/upcoming_event_1_1.png"
+        "generated_media/2026-11-03/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-01/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-03/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-01/upcoming_event_1_1.png",
-      "generated_date": "2026-11-01"
+      "image_path": "generated_media/2026-11-03/upcoming_event_1_1.png",
+      "generated_date": "2026-11-03"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "知床五湖の晩秋と雪化粧の知床連山",
-      "area": "北海道斜里郡斜里町・知床五湖",
-      "date_info": "11月上旬まで晩秋の景色を楽しめる時期。湖畔のカラマツと雪化粧の知床連山が見どころ",
-      "post_text": "晩秋の知床五湖では、黄金色のカラマツと雪をまとった知床連山が織りなす静かな絶景に出会えます。原生林に囲まれた湖畔を歩けば、世界自然遺産・知床の奥深い秋を実感。冬の気配を感じる今こそ訪れたい場所です。#知床 #北海道旅行",
-      "source_url": "https://hokkaido-mustseeanddo.tw.visit-hokkaido.jp/findspot.html",
-      "source_title": "知床五湖紅葉｜Hokkaido MUST SEE＆DO",
+      "title": "奥只見湖の晩秋景色と遊覧船",
+      "area": "新潟県魚沼市・奥只見湖",
+      "date_info": "見頃の目安：11月上旬〜中旬／遊覧船営業は2026年11月8日まで",
+      "post_text": "紅葉と雪の気配が重なる、魚沼の晩秋へ。奥只見湖畔を彩る山々を、遊覧船からゆっくり眺める旅。短い季節だからこそ出会える景色です。 #魚沼 #新潟旅行",
+      "source_url": "https://www.iine-uonuma.jp/2026kouyou/",
+      "source_title": "2026年 魚沼市内の紅葉情報｜魚沼市観光協会",
       "pexels_queries": [
-        "Shiretoko Five Lakes autumn landscape Shari Hokkaido Japan"
+        "Okutadami Lake Uonuma Niigata autumn mountains Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-01/destination_1_1.png"
+        "generated_media/2026-11-03/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-01/destination_1_1.png"
+          "path": "generated_media/2026-11-03/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-01/destination_1_1.png",
-      "generated_date": "2026-11-01"
+      "image_path": "generated_media/2026-11-03/destination_1_1.png",
+      "generated_date": "2026-11-03"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "さっぽろ菊まつり",
-      "area": "北海道札幌市・札幌駅前通地下歩行空間ほか",
-      "date_info": "2026年11月1日（日）〜11月3日（火・祝）",
-      "post_text": "約1,000点の菊が札幌の街を彩る「さっぽろ菊まつり」。丹精込めて育てられた大輪や盆栽仕立ての菊が並び、秋の札幌で日本の花文化に触れられます。開催は11月1日〜3日。街歩きと合わせてどうぞ。#札幌 #菊まつり",
-      "source_url": "https://www.visit-hokkaido.jp/event/index_1_2______.html",
-      "source_title": "さっぽろ菊まつり｜HOKKAIDO LOVE！",
+      "title": "水前寺 White Xmas 2026",
+      "area": "熊本県熊本市・水前寺江津湖公園周辺",
+      "date_info": "2026年12月4日〜12月6日",
+      "post_text": "熊本の冬夜を彩る、水前寺のクリスマスイベント。大きなキャンドルが灯る幻想的な風景を見に行きませんか。12月4日〜6日開催。 #熊本 #冬イベント",
+      "source_url": "https://kumamoto-icb.or.jp/kankou/schedule/",
+      "source_title": "イベント｜熊本国際観光コンベンション協会",
       "pexels_queries": [
-        "Sapporo chrysanthemum festival flowers Hokkaido Japan"
+        "Suizenji Kumamoto White Christmas candle illumination Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-01/upcoming_event_2_1.png"
+        "generated_media/2026-11-03/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-01/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-03/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-01/upcoming_event_2_1.png",
-      "generated_date": "2026-11-01"
+      "image_path": "generated_media/2026-11-03/upcoming_event_2_1.png",
+      "generated_date": "2026-11-03"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "いものこ汁",
-      "area": "秋田県・県南地域を中心とする郷土料理店",
-      "date_info": "里芋がおいしくなる秋から冬に食べたい郷土料理",
-      "post_text": "秋田の秋冬に食べたい郷土料理、いものこ汁。ねっとりした里芋を主役に、きのこや肉を煮込んだ滋味深い一杯です。寒い日に囲む鍋だからこそ感じられる、山里のぬくもり。秋田を旅したら、ぜひ土地の味で味わってみてください。#秋田グルメ #郷土料理",
+      "title": "ふぐ料理",
+      "area": "山口県下関市・唐戸市場周辺、下関市内の料理店",
+      "date_info": "旬の目安：秋〜冬",
+      "post_text": "冬の下関で味わいたい、山口を代表するごちそう・ふぐ料理。てっさ、てっちり、ひれ酒まで、海峡の街ならではの食文化をじっくり楽しんで。 #下関 #山口グルメ",
       "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
-      "source_title": "冬の郷土料理｜農林水産省「うちの郷土料理」",
+      "source_title": "冬｜うちの郷土料理：農林水産省",
       "pexels_queries": [
-        "Imonoko-jiru taro hot pot Akita Japan"
+        "Shimonoseki Yamaguchi fugu sashimi Japanese cuisine Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-01/local_food_1_1.png"
+        "generated_media/2026-11-03/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-01/local_food_1_1.png"
+          "path": "generated_media/2026-11-03/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-01/local_food_1_1.png",
-      "generated_date": "2026-11-01"
+      "image_path": "generated_media/2026-11-03/local_food_1_1.png",
+      "generated_date": "2026-11-03"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "鳴門の渦潮と秋冬の海景色",
-      "area": "徳島県鳴門市・鳴門海峡、大鳴門橋周辺",
-      "date_info": "秋から冬にかけて澄んだ空気の中で鳴門海峡の渦潮を楽しみたい季節",
-      "post_text": "潮の満ち引きが生み出す迫力の渦潮を、船上や展望施設から楽しめる鳴門海峡。秋冬は空気が澄み、海と大鳴門橋の景色もいっそう鮮やかに見えます。渦潮の見頃を確認して、徳島ならではのダイナミックな海旅へ。#鳴門 #徳島旅行",
-      "source_url": "https://www.awanavi.jp/archives/spot/鳴門の渦潮",
-      "source_title": "鳴門の渦潮｜徳島県観光情報サイト 阿波ナビ",
+      "title": "飛騨古川の雪景色と冬旅",
+      "area": "岐阜県飛騨市・飛騨古川周辺",
+      "date_info": "冬の見頃：12月下旬〜2月",
+      "post_text": "白い雪に包まれる飛騨古川へ。古い町並みの散策、温泉、冬ならではの郷土料理を一度に楽しめる季節です。静かな山里で、心まで温まる旅を。 #飛騨古川 #岐阜旅行",
+      "source_url": "https://www.hida-kankou.jp/features/173",
+      "source_title": "飛騨の冬旅！観光ガイド2026｜飛騨市公式観光サイト",
       "pexels_queries": [
-        "Naruto whirlpools Naruto Strait Tokushima Japan"
+        "Hida Furukawa Gifu snowy traditional townscape Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-01/destination_2_1.png"
+        "generated_media/2026-11-03/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-01/destination_2_1.png"
+          "path": "generated_media/2026-11-03/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-01/destination_2_1.png",
-      "generated_date": "2026-11-01"
+      "image_path": "generated_media/2026-11-03/destination_2_1.png",
+      "generated_date": "2026-11-03"
     }
   ]
 }
