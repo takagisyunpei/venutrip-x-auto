@@ -3,41 +3,6 @@
     {
       "date": "2026-09-29",
       "category": "event",
-      "title": "菊間祭り（お供馬の走り込み）",
-      "area": "愛媛県今治市・菊間町",
-      "source_url": "https://www.oideya.gr.jp/"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "小樽の紅葉とノスタルジックな港町歩き",
-      "area": "北海道小樽市",
-      "source_url": "https://otaru.gr.jp/fall"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "event",
-      "title": "鎌人（かまんど）いち場",
-      "area": "神奈川県鎌倉市",
-      "source_url": "https://www.trip-kamakura.com/event/"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "food",
-      "title": "瓦そば",
-      "area": "山口県下関市・県内各地",
-      "source_url": "https://yamaguchi-tourism.jp/feature/kawarasoba"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "御岳昇仙峡の紅葉と渓谷散策",
-      "area": "山梨県甲府市・昇仙峡",
-      "source_url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4902.html"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "event",
       "title": "芋煮と地酒の会",
       "area": "島根県津和野町・殿町通り鷺舞モニュメント前広場",
       "source_url": "https://www.kankou-shimane.com/events/32087"
@@ -1259,6 +1224,41 @@
       "title": "飛騨古川の雪景色と冬旅",
       "area": "岐阜県飛騨市・飛騨古川周辺",
       "source_url": "https://www.hida-kankou.jp/features/173"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "event",
+      "title": "長瀞紅葉まつり2026",
+      "area": "埼玉県秩父郡長瀞町・月の石もみじ公園、寶登山神社ほか",
+      "source_url": "https://www.nagatoro.gr.jp/kouyo2026/"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "destination",
+      "title": "大山寺エリアの紅葉とブナ林",
+      "area": "鳥取県西伯郡大山町・大山寺、大神山神社奥宮、鍵掛峠周辺",
+      "source_url": "https://tourismdaisen.com/info/kanko/daisen-kouyou2024-copy-2/"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "event",
+      "title": "第40回熱海梅園もみじまつり",
+      "area": "静岡県熱海市・熱海梅園",
+      "source_url": "https://ataminews.gr.jp/event/148"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "food",
+      "title": "しっぽくうどん",
+      "area": "香川県・県内のうどん店、家庭料理店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html"
+    },
+    {
+      "date": "2026-11-04",
+      "category": "destination",
+      "title": "雲仙の紅葉と温泉街さんぽ",
+      "area": "長崎県雲仙市・仁田峠、妙見岳、雲仙温泉街",
+      "source_url": "https://www.city.unzen.nagasaki.jp/kiji0035589/index.html"
     }
   ]
 }

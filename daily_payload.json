@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "小倉クリスマスマーケット2026",
-      "area": "福岡県北九州市・小倉駅周辺",
-      "date_info": "2026年11月20日〜12月25日",
-      "post_text": "小倉の街が華やぐクリスマスマーケットへ。きらめくイルミネーションの下で、温かいフードやドリンクを楽しむ冬の夜。11月20日〜12月25日開催。 #北九州 #クリスマス",
-      "source_url": "https://kitakyushu-christmasmarket.jp/",
-      "source_title": "小倉クリスマスマーケット｜公式WEBサイト",
+      "title": "長瀞紅葉まつり2026",
+      "area": "埼玉県秩父郡長瀞町・月の石もみじ公園、寶登山神社ほか",
+      "date_info": "2026年11月1日（日）〜11月30日（月）／月の石もみじ公園ライトアップは11月6日（金）〜29日（日）",
+      "post_text": "荒川の岩畳や寶登山神社が秋色に染まる、長瀞紅葉まつり。月の石もみじ公園では11月6日〜29日にライトアップも開催。昼と夜、異なる表情の紅葉を楽しめます。#長瀞 #紅葉狩り",
+      "source_url": "https://www.nagatoro.gr.jp/kouyo2026/",
+      "source_title": "長瀞紅葉まつり2026 | 長瀞町観光協会公式サイト",
       "pexels_queries": [
-        "Kokura Kitakyushu Fukuoka Christmas market illumination Japan"
+        "Nagatoro Saitama Japan autumn foliage river rocks"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-03/upcoming_event_1_1.png"
+        "generated_media/2026-11-04/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-03/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-04/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-03/upcoming_event_1_1.png",
-      "generated_date": "2026-11-03"
+      "image_path": "generated_media/2026-11-04/upcoming_event_1_1.png",
+      "generated_date": "2026-11-04"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "奥只見湖の晩秋景色と遊覧船",
-      "area": "新潟県魚沼市・奥只見湖",
-      "date_info": "見頃の目安：11月上旬〜中旬／遊覧船営業は2026年11月8日まで",
-      "post_text": "紅葉と雪の気配が重なる、魚沼の晩秋へ。奥只見湖畔を彩る山々を、遊覧船からゆっくり眺める旅。短い季節だからこそ出会える景色です。 #魚沼 #新潟旅行",
-      "source_url": "https://www.iine-uonuma.jp/2026kouyou/",
-      "source_title": "2026年 魚沼市内の紅葉情報｜魚沼市観光協会",
+      "title": "大山寺エリアの紅葉とブナ林",
+      "area": "鳥取県西伯郡大山町・大山寺、大神山神社奥宮、鍵掛峠周辺",
+      "date_info": "紅葉の見頃は例年10月下旬〜11月中旬。2026年は11月上旬に見頃を迎えています",
+      "post_text": "西日本屈指の紅葉名所、大山へ。大山寺の歴史ある町並み、大神山神社奥宮の石畳、鍵掛峠のブナ林まで、山全体が秋色に包まれます。今週末の深まる紅葉旅に。#鳥取 #大山",
+      "source_url": "https://tourismdaisen.com/info/kanko/daisen-kouyou2024-copy-2/",
+      "source_title": "大山の紅葉情報【見頃・色付き状況】2026年版 | 鳥取大山観光ガイド",
       "pexels_queries": [
-        "Okutadami Lake Uonuma Niigata autumn mountains Japan"
+        "Mount Daisen Tottori Japan autumn foliage beech forest"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-03/destination_1_1.png"
+        "generated_media/2026-11-04/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-03/destination_1_1.png"
+          "path": "generated_media/2026-11-04/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-03/destination_1_1.png",
-      "generated_date": "2026-11-03"
+      "image_path": "generated_media/2026-11-04/destination_1_1.png",
+      "generated_date": "2026-11-04"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "水前寺 White Xmas 2026",
-      "area": "熊本県熊本市・水前寺江津湖公園周辺",
-      "date_info": "2026年12月4日〜12月6日",
-      "post_text": "熊本の冬夜を彩る、水前寺のクリスマスイベント。大きなキャンドルが灯る幻想的な風景を見に行きませんか。12月4日〜6日開催。 #熊本 #冬イベント",
-      "source_url": "https://kumamoto-icb.or.jp/kankou/schedule/",
-      "source_title": "イベント｜熊本国際観光コンベンション協会",
+      "title": "第40回熱海梅園もみじまつり",
+      "area": "静岡県熱海市・熱海梅園",
+      "date_info": "2026年11月14日（土）〜12月6日（日）／ライトアップは期間中毎日16:30〜21:00",
+      "post_text": "日本一遅い紅葉を楽しむ熱海梅園もみじまつり。2026年11月14日〜12月6日は足湯や甘酒、ジャズ演奏に加え、毎晩ライトアップも実施。温泉と一緒に晩秋の熱海へ。#熱海 #紅葉",
+      "source_url": "https://ataminews.gr.jp/event/148",
+      "source_title": "第40回熱海梅園もみじまつり（2026）| イベント | あたみニュース",
       "pexels_queries": [
-        "Suizenji Kumamoto White Christmas candle illumination Japan"
+        "Atami Baien Shizuoka Japan autumn maple garden night illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-03/upcoming_event_2_1.png"
+        "generated_media/2026-11-04/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-03/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-04/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-03/upcoming_event_2_1.png",
-      "generated_date": "2026-11-03"
+      "image_path": "generated_media/2026-11-04/upcoming_event_2_1.png",
+      "generated_date": "2026-11-04"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "ふぐ料理",
-      "area": "山口県下関市・唐戸市場周辺、下関市内の料理店",
-      "date_info": "旬の目安：秋〜冬",
-      "post_text": "冬の下関で味わいたい、山口を代表するごちそう・ふぐ料理。てっさ、てっちり、ひれ酒まで、海峡の街ならではの食文化をじっくり楽しんで。 #下関 #山口グルメ",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
-      "source_title": "冬｜うちの郷土料理：農林水産省",
+      "title": "しっぽくうどん",
+      "area": "香川県・県内のうどん店、家庭料理店",
+      "date_info": "秋〜冬が食べ頃。冬野菜が出回る時期に季節限定で提供されることが多い",
+      "post_text": "香川の秋冬に食べたい、しっぽくうどん。大根やにんじん、里芋などの冬野菜を煮干しだしで煮込み、讃岐うどんにたっぷりかけた一杯です。冷える旅先で、ほっと温まろう。#香川 #讃岐うどん",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html",
+      "source_title": "しっぽくうどん 香川県 | うちの郷土料理 | 農林水産省",
       "pexels_queries": [
-        "Shimonoseki Yamaguchi fugu sashimi Japanese cuisine Japan"
+        "Shippoku udon Kagawa Japan winter vegetable noodle soup"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-03/local_food_1_1.png"
+        "generated_media/2026-11-04/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-03/local_food_1_1.png"
+          "path": "generated_media/2026-11-04/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-03/local_food_1_1.png",
-      "generated_date": "2026-11-03"
+      "image_path": "generated_media/2026-11-04/local_food_1_1.png",
+      "generated_date": "2026-11-04"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "飛騨古川の雪景色と冬旅",
-      "area": "岐阜県飛騨市・飛騨古川周辺",
-      "date_info": "冬の見頃：12月下旬〜2月",
-      "post_text": "白い雪に包まれる飛騨古川へ。古い町並みの散策、温泉、冬ならではの郷土料理を一度に楽しめる季節です。静かな山里で、心まで温まる旅を。 #飛騨古川 #岐阜旅行",
-      "source_url": "https://www.hida-kankou.jp/features/173",
-      "source_title": "飛騨の冬旅！観光ガイド2026｜飛騨市公式観光サイト",
+      "title": "雲仙の紅葉と温泉街さんぽ",
+      "area": "長崎県雲仙市・仁田峠、妙見岳、雲仙温泉街",
+      "date_info": "紅葉は標高の高い普賢岳・妙見岳周辺から進み、雲仙温泉街では11月中旬〜下旬まで楽しめる見込み",
+      "post_text": "火山の大地と紅葉を一度に味わう雲仙へ。仁田峠や妙見岳の秋景色を歩いたあとは、湯けむり漂う温泉街でひと休み。標高差で色づきが移るため、11月は長く紅葉旅を楽しめます。#雲仙 #長崎旅行",
+      "source_url": "https://www.city.unzen.nagasaki.jp/kiji0035589/index.html",
+      "source_title": "国立公園雲仙紅葉情報（第2号）10月28日現在 | 雲仙市",
       "pexels_queries": [
-        "Hida Furukawa Gifu snowy traditional townscape Japan"
+        "Unzen Nagasaki Japan autumn foliage hot spring town"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-03/destination_2_1.png"
+        "generated_media/2026-11-04/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-03/destination_2_1.png"
+          "path": "generated_media/2026-11-04/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-03/destination_2_1.png",
-      "generated_date": "2026-11-03"
+      "image_path": "generated_media/2026-11-04/destination_2_1.png",
+      "generated_date": "2026-11-04"
     }
   ]
 }
