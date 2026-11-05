@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "長瀞紅葉まつり2026",
-      "area": "埼玉県秩父郡長瀞町・月の石もみじ公園、寶登山神社ほか",
-      "date_info": "2026年11月1日（日）〜11月30日（月）／月の石もみじ公園ライトアップは11月6日（金）〜29日（日）",
-      "post_text": "荒川の岩畳や寶登山神社が秋色に染まる、長瀞紅葉まつり。月の石もみじ公園では11月6日〜29日にライトアップも開催。昼と夜、異なる表情の紅葉を楽しめます。#長瀞 #紅葉狩り",
-      "source_url": "https://www.nagatoro.gr.jp/kouyo2026/",
-      "source_title": "長瀞紅葉まつり2026 | 長瀞町観光協会公式サイト",
+      "title": "ひろしまドリミネーション2026",
+      "area": "広島県広島市・平和大通り、市内中心部",
+      "date_info": "2026年12月4日（金）〜2027年1月24日（日）",
+      "post_text": "広島の冬を彩る「ひろしまドリミネーション2026」が12月4日から開催。平和大通りを中心に街が光に包まれます。夕食後の夜さんぽにもおすすめです。#広島旅行 #イルミネーション",
+      "source_url": "https://www.dreamination.com/summary/",
+      "source_title": "開催概要　広島イルミネーション｜ひろしまドリミネーション公式",
       "pexels_queries": [
-        "Nagatoro Saitama Japan autumn foliage river rocks"
+        "Hiroshima Peace Boulevard winter illumination Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-04/upcoming_event_1_1.png"
+        "generated_media/2026-11-05/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-04/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-05/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-04/upcoming_event_1_1.png",
-      "generated_date": "2026-11-04"
+      "image_path": "generated_media/2026-11-05/upcoming_event_1_1.png",
+      "generated_date": "2026-11-05"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "大山寺エリアの紅葉とブナ林",
-      "area": "鳥取県西伯郡大山町・大山寺、大神山神社奥宮、鍵掛峠周辺",
-      "date_info": "紅葉の見頃は例年10月下旬〜11月中旬。2026年は11月上旬に見頃を迎えています",
-      "post_text": "西日本屈指の紅葉名所、大山へ。大山寺の歴史ある町並み、大神山神社奥宮の石畳、鍵掛峠のブナ林まで、山全体が秋色に包まれます。今週末の深まる紅葉旅に。#鳥取 #大山",
-      "source_url": "https://tourismdaisen.com/info/kanko/daisen-kouyou2024-copy-2/",
-      "source_title": "大山の紅葉情報【見頃・色付き状況】2026年版 | 鳥取大山観光ガイド",
+      "title": "秋月城跡の紅葉と城下町さんぽ",
+      "area": "福岡県朝倉市・秋月城跡、秋月城下町",
+      "date_info": "2026年11月中旬〜下旬（例年の紅葉見頃）",
+      "post_text": "黒門と紅葉が絵になる、福岡・秋月へ。城跡から城下町まで歩けば、歴史ある町並みと秋色の山里を一度に楽しめます。晩秋の日帰り旅にぴったり。#福岡旅行 #紅葉",
+      "source_url": "https://www.crossroadfukuoka.jp/feature/autumn",
+      "source_title": "2026年 福岡県内の紅葉情報｜クロスロードふくおか",
       "pexels_queries": [
-        "Mount Daisen Tottori Japan autumn foliage beech forest"
+        "Akizuki Castle ruins autumn foliage Asakura Fukuoka Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-04/destination_1_1.png"
+        "generated_media/2026-11-05/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-04/destination_1_1.png"
+          "path": "generated_media/2026-11-05/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-04/destination_1_1.png",
-      "generated_date": "2026-11-04"
+      "image_path": "generated_media/2026-11-05/destination_1_1.png",
+      "generated_date": "2026-11-05"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "第40回熱海梅園もみじまつり",
-      "area": "静岡県熱海市・熱海梅園",
-      "date_info": "2026年11月14日（土）〜12月6日（日）／ライトアップは期間中毎日16:30〜21:00",
-      "post_text": "日本一遅い紅葉を楽しむ熱海梅園もみじまつり。2026年11月14日〜12月6日は足湯や甘酒、ジャズ演奏に加え、毎晩ライトアップも実施。温泉と一緒に晩秋の熱海へ。#熱海 #紅葉",
-      "source_url": "https://ataminews.gr.jp/event/148",
-      "source_title": "第40回熱海梅園もみじまつり（2026）| イベント | あたみニュース",
+      "title": "KIRI-NoËL KAMEOKA 2026",
+      "area": "京都府亀岡市・亀岡駅周辺",
+      "date_info": "2026年12月5日（土）〜12月6日（日）",
+      "post_text": "亀岡の冬を楽しむ新イベント「KIRI-NoËL KAMEOKA 2026」。12月5日・6日はクリスマスマーケットや体験イベント、イルミネーションが登場します。#亀岡 #京都旅行",
+      "source_url": "https://www.city.kameoka.kyoto.jp/soshiki/29/93024.html",
+      "source_title": "後援事業『KIRI-NoËL KAMEOKA』開催！｜亀岡市公式ホームページ",
       "pexels_queries": [
-        "Atami Baien Shizuoka Japan autumn maple garden night illumination"
+        "Kameoka Kyoto Christmas market illumination Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-04/upcoming_event_2_1.png"
+        "generated_media/2026-11-05/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-04/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-05/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-04/upcoming_event_2_1.png",
-      "generated_date": "2026-11-04"
+      "image_path": "generated_media/2026-11-05/upcoming_event_2_1.png",
+      "generated_date": "2026-11-05"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "しっぽくうどん",
-      "area": "香川県・県内のうどん店、家庭料理店",
-      "date_info": "秋〜冬が食べ頃。冬野菜が出回る時期に季節限定で提供されることが多い",
-      "post_text": "香川の秋冬に食べたい、しっぽくうどん。大根やにんじん、里芋などの冬野菜を煮干しだしで煮込み、讃岐うどんにたっぷりかけた一杯です。冷える旅先で、ほっと温まろう。#香川 #讃岐うどん",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html",
-      "source_title": "しっぽくうどん 香川県 | うちの郷土料理 | 農林水産省",
+      "title": "けの汁",
+      "area": "青森県津軽地方・弘前市、五所川原市など",
+      "date_info": "冬〜小正月の郷土料理",
+      "post_text": "青森・津軽の冬に食べたい「けの汁」。大根や山菜、凍み豆腐、大豆などを細かく刻んだ具だくさんの汁物です。旅先の食堂や郷土料理店で、土地の暮らしを味わって。#青森グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kenojiru_aomori.html",
+      "source_title": "けの汁 青森県｜農林水産省「うちの郷土料理」",
       "pexels_queries": [
-        "Shippoku udon Kagawa Japan winter vegetable noodle soup"
+        "Kenojiru soup traditional Tsugaru Aomori Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-04/local_food_1_1.png"
+        "generated_media/2026-11-05/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-04/local_food_1_1.png"
+          "path": "generated_media/2026-11-05/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-04/local_food_1_1.png",
-      "generated_date": "2026-11-04"
+      "image_path": "generated_media/2026-11-05/local_food_1_1.png",
+      "generated_date": "2026-11-05"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "雲仙の紅葉と温泉街さんぽ",
-      "area": "長崎県雲仙市・仁田峠、妙見岳、雲仙温泉街",
-      "date_info": "紅葉は標高の高い普賢岳・妙見岳周辺から進み、雲仙温泉街では11月中旬〜下旬まで楽しめる見込み",
-      "post_text": "火山の大地と紅葉を一度に味わう雲仙へ。仁田峠や妙見岳の秋景色を歩いたあとは、湯けむり漂う温泉街でひと休み。標高差で色づきが移るため、11月は長く紅葉旅を楽しめます。#雲仙 #長崎旅行",
-      "source_url": "https://www.city.unzen.nagasaki.jp/kiji0035589/index.html",
-      "source_title": "国立公園雲仙紅葉情報（第2号）10月28日現在 | 雲仙市",
+      "title": "箱根・芦ノ湖の紅葉と湖畔めぐり",
+      "area": "神奈川県足柄下郡箱根町・芦ノ湖、箱根登山電車沿線",
+      "date_info": "2026年11月上旬〜下旬（場所により見頃が変化）",
+      "post_text": "秋の箱根は、芦ノ湖の湖畔から登山電車沿線まで紅葉リレー。遊覧船やケーブルカーを組み合わせれば、車なしでも秋景色を満喫できます。温泉と一緒にどうぞ。#箱根旅行 #紅葉",
+      "source_url": "https://www.kanagawa-kankou.or.jp/features/flower116",
+      "source_title": "車窓・空中・湖上から楽しむ！乗り物でめぐる神奈川の紅葉旅｜観光かながわNOW",
       "pexels_queries": [
-        "Unzen Nagasaki Japan autumn foliage hot spring town"
+        "Lake Ashi Hakone autumn foliage Kanagawa Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-04/destination_2_1.png"
+        "generated_media/2026-11-05/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-04/destination_2_1.png"
+          "path": "generated_media/2026-11-05/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-04/destination_2_1.png",
-      "generated_date": "2026-11-04"
+      "image_path": "generated_media/2026-11-05/destination_2_1.png",
+      "generated_date": "2026-11-05"
     }
   ]
 }

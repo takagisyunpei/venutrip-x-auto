@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-09-29",
-      "category": "event",
-      "title": "芋煮と地酒の会",
-      "area": "島根県津和野町・殿町通り鷺舞モニュメント前広場",
-      "source_url": "https://www.kankou-shimane.com/events/32087"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "八幡平の初秋トレッキング",
-      "area": "岩手県八幡平市・八幡平山頂遊歩道周辺",
-      "source_url": "https://iwatetabi.jp/flower/autumnleaves/"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "event",
-      "title": "すみだストリートジャズフェスティバル2026",
-      "area": "東京都墨田区・錦糸公園、すみだトリフォニーホールほか約30会場",
-      "source_url": "https://visit-sumida.jp/event/"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "food",
-      "title": "伊勢うどん",
-      "area": "三重県伊勢市・伊勢神宮周辺",
-      "source_url": "https://www.bunka.go.jp/koho_hodo_oshirase/hodohappyo/pdf/94334601_01.pdf"
-    },
-    {
-      "date": "2026-09-29",
-      "category": "destination",
-      "title": "定山渓の五大紅葉",
-      "area": "北海道札幌市南区・定山渓温泉",
-      "source_url": "https://jozankei.jp/godaikoyo/page/2/"
-    },
-    {
       "date": "2026-09-30",
       "category": "event",
       "title": "西条まつり",
@@ -1259,6 +1224,41 @@
       "title": "雲仙の紅葉と温泉街さんぽ",
       "area": "長崎県雲仙市・仁田峠、妙見岳、雲仙温泉街",
       "source_url": "https://www.city.unzen.nagasaki.jp/kiji0035589/index.html"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "event",
+      "title": "ひろしまドリミネーション2026",
+      "area": "広島県広島市・平和大通り、市内中心部",
+      "source_url": "https://www.dreamination.com/summary/"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "destination",
+      "title": "秋月城跡の紅葉と城下町さんぽ",
+      "area": "福岡県朝倉市・秋月城跡、秋月城下町",
+      "source_url": "https://www.crossroadfukuoka.jp/feature/autumn"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "event",
+      "title": "KIRI-NoËL KAMEOKA 2026",
+      "area": "京都府亀岡市・亀岡駅周辺",
+      "source_url": "https://www.city.kameoka.kyoto.jp/soshiki/29/93024.html"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "food",
+      "title": "けの汁",
+      "area": "青森県津軽地方・弘前市、五所川原市など",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kenojiru_aomori.html"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "destination",
+      "title": "箱根・芦ノ湖の紅葉と湖畔めぐり",
+      "area": "神奈川県足柄下郡箱根町・芦ノ湖、箱根登山電車沿線",
+      "source_url": "https://www.kanagawa-kankou.or.jp/features/flower116"
     }
   ]
 }
