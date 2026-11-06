@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "ひろしまドリミネーション2026",
-      "area": "広島県広島市・平和大通り、市内中心部",
-      "date_info": "2026年12月4日（金）〜2027年1月24日（日）",
-      "post_text": "広島の冬を彩る「ひろしまドリミネーション2026」が12月4日から開催。平和大通りを中心に街が光に包まれます。夕食後の夜さんぽにもおすすめです。#広島旅行 #イルミネーション",
-      "source_url": "https://www.dreamination.com/summary/",
-      "source_title": "開催概要　広島イルミネーション｜ひろしまドリミネーション公式",
+      "title": "富山地方鉄道立山線貸切列車 × 体験型謎解きイベント",
+      "area": "富山県富山市・富山地方鉄道立山線 電鉄富山駅〜立山駅",
+      "date_info": "2026年12月5日（土）・6日（日）",
+      "post_text": "冬の立山線を舞台に、貸切列車で挑む体験型謎解き。車内や立山駅周辺の手掛かりを集めながら、冬景色の中で物語を解き明かそう。開催は2026年12月5日・6日。#富山旅行 #謎解き",
+      "source_url": "https://www.info-toyama.com/events/103691",
+      "source_title": "富山地方鉄道立山線貸切列車 × 体験型謎解きイベント｜とやま観光ナビ",
       "pexels_queries": [
-        "Hiroshima Peace Boulevard winter illumination Japan"
+        "Tateyama Railway Toyama Japan winter train mountain landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-05/upcoming_event_1_1.png"
+        "generated_media/2026-11-06/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-05/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-06/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-05/upcoming_event_1_1.png",
-      "generated_date": "2026-11-05"
+      "image_path": "generated_media/2026-11-06/upcoming_event_1_1.png",
+      "generated_date": "2026-11-06"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "秋月城跡の紅葉と城下町さんぽ",
-      "area": "福岡県朝倉市・秋月城跡、秋月城下町",
-      "date_info": "2026年11月中旬〜下旬（例年の紅葉見頃）",
-      "post_text": "黒門と紅葉が絵になる、福岡・秋月へ。城跡から城下町まで歩けば、歴史ある町並みと秋色の山里を一度に楽しめます。晩秋の日帰り旅にぴったり。#福岡旅行 #紅葉",
-      "source_url": "https://www.crossroadfukuoka.jp/feature/autumn",
-      "source_title": "2026年 福岡県内の紅葉情報｜クロスロードふくおか",
+      "title": "清津峡の渓谷美と冬のアート",
+      "area": "新潟県十日町市・清津峡渓谷トンネル",
+      "date_info": "冬景色の見頃：例年12月中旬〜4月上旬",
+      "post_text": "岩壁が迫る清津峡渓谷トンネルへ。水鏡に映るパノラマと、12月中旬頃から広がる雪のモノトーンが、季節限定の絶景をつくります。防寒して、冬のアート旅へ。#新潟旅行 #清津峡",
+      "source_url": "https://niigata-kankou.or.jp/spot/detail_6950.html",
+      "source_title": "清津峡／Tunnel of Light｜にいがた観光ナビ",
       "pexels_queries": [
-        "Akizuki Castle ruins autumn foliage Asakura Fukuoka Japan"
+        "Kiyotsu Gorge Tunnel of Light Tokamachi Niigata Japan winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-05/destination_1_1.png"
+        "generated_media/2026-11-06/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-05/destination_1_1.png"
+          "path": "generated_media/2026-11-06/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-05/destination_1_1.png",
-      "generated_date": "2026-11-05"
+      "image_path": "generated_media/2026-11-06/destination_1_1.png",
+      "generated_date": "2026-11-06"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "KIRI-NoËL KAMEOKA 2026",
-      "area": "京都府亀岡市・亀岡駅周辺",
-      "date_info": "2026年12月5日（土）〜12月6日（日）",
-      "post_text": "亀岡の冬を楽しむ新イベント「KIRI-NoËL KAMEOKA 2026」。12月5日・6日はクリスマスマーケットや体験イベント、イルミネーションが登場します。#亀岡 #京都旅行",
-      "source_url": "https://www.city.kameoka.kyoto.jp/soshiki/29/93024.html",
-      "source_title": "後援事業『KIRI-NoËL KAMEOKA』開催！｜亀岡市公式ホームページ",
+      "title": "須磨離宮公園 もみじ観賞会＆ルミエール2026",
+      "area": "兵庫県神戸市須磨区・須磨離宮公園",
+      "date_info": "2026年11月7日（土）〜12月6日（日）",
+      "post_text": "約600本のイロハモミジが彩る須磨離宮公園。土日祝は夜間開園し、紅葉ライトアップとイルミネーションも楽しめます。開催は2026年11月7日〜12月6日。#神戸旅行 #紅葉ライトアップ",
+      "source_url": "https://event.city.kobe.lg.jp/event/uehx1kHoscTCseWXY1hb",
+      "source_title": "須磨離宮公園 もみじ観賞会＆ルミエール2026｜おでかけKOBE",
       "pexels_queries": [
-        "Kameoka Kyoto Christmas market illumination Japan"
+        "Suma Rikyu Park Kobe Hyogo Japan autumn maple illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-05/upcoming_event_2_1.png"
+        "generated_media/2026-11-06/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-05/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-06/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-05/upcoming_event_2_1.png",
-      "generated_date": "2026-11-05"
+      "image_path": "generated_media/2026-11-06/upcoming_event_2_1.png",
+      "generated_date": "2026-11-06"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "けの汁",
-      "area": "青森県津軽地方・弘前市、五所川原市など",
-      "date_info": "冬〜小正月の郷土料理",
-      "post_text": "青森・津軽の冬に食べたい「けの汁」。大根や山菜、凍み豆腐、大豆などを細かく刻んだ具だくさんの汁物です。旅先の食堂や郷土料理店で、土地の暮らしを味わって。#青森グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/kenojiru_aomori.html",
-      "source_title": "けの汁 青森県｜農林水産省「うちの郷土料理」",
+      "title": "ゆず巻き",
+      "area": "栃木県宇都宮市北部",
+      "date_info": "ゆずの収穫期：10月〜12月",
+      "post_text": "宇都宮市北部に伝わる「ゆず巻き」は、大根でゆずの皮を巻き、甘酢に漬けた郷土料理。香り高い寒冷ゆずと冬大根の清々しさを味わう、秋冬ならではの一品です。#栃木グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_12_tochigi.html",
+      "source_title": "ゆず巻き 栃木県｜うちの郷土料理：農林水産省",
       "pexels_queries": [
-        "Kenojiru soup traditional Tsugaru Aomori Japan"
+        "Yuzumaki daikon yuzu Japanese regional food Utsunomiya Tochigi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-05/local_food_1_1.png"
+        "generated_media/2026-11-06/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-05/local_food_1_1.png"
+          "path": "generated_media/2026-11-06/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-05/local_food_1_1.png",
-      "generated_date": "2026-11-05"
+      "image_path": "generated_media/2026-11-06/local_food_1_1.png",
+      "generated_date": "2026-11-06"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "箱根・芦ノ湖の紅葉と湖畔めぐり",
-      "area": "神奈川県足柄下郡箱根町・芦ノ湖、箱根登山電車沿線",
-      "date_info": "2026年11月上旬〜下旬（場所により見頃が変化）",
-      "post_text": "秋の箱根は、芦ノ湖の湖畔から登山電車沿線まで紅葉リレー。遊覧船やケーブルカーを組み合わせれば、車なしでも秋景色を満喫できます。温泉と一緒にどうぞ。#箱根旅行 #紅葉",
-      "source_url": "https://www.kanagawa-kankou.or.jp/features/flower116",
-      "source_title": "車窓・空中・湖上から楽しむ！乗り物でめぐる神奈川の紅葉旅｜観光かながわNOW",
+      "title": "高野山の紅葉と聖地散策",
+      "area": "和歌山県伊都郡高野町・高野山",
+      "date_info": "紅葉の見頃：例年10月下旬〜11月中旬",
+      "post_text": "伽藍や石垣を彩る高野山の紅葉。壇上伽藍の蛇腹路や奥之院を歩けば、聖地ならではの静けさと秋色のグラデーションに出会えます。日没後のライトアップも必見。#和歌山旅行 #高野山",
+      "source_url": "https://www.wakayama-kanko.or.jp/events/detail_3936.html",
+      "source_title": "高野山の紅葉｜和歌山県公式観光サイト",
       "pexels_queries": [
-        "Lake Ashi Hakone autumn foliage Kanagawa Japan"
+        "Koyasan Mount Koya Wakayama Japan autumn foliage temple"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-05/destination_2_1.png"
+        "generated_media/2026-11-06/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-05/destination_2_1.png"
+          "path": "generated_media/2026-11-06/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-05/destination_2_1.png",
-      "generated_date": "2026-11-05"
+      "image_path": "generated_media/2026-11-06/destination_2_1.png",
+      "generated_date": "2026-11-06"
     }
   ]
 }

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-09-30",
-      "category": "event",
-      "title": "西条まつり",
-      "area": "愛媛県西条市・伊曽乃神社周辺",
-      "source_url": "https://www.iyokannet.jp/event/"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "destination",
-      "title": "熊野古道と那智の滝の秋旅",
-      "area": "和歌山県田辺市・那智勝浦町周辺",
-      "source_url": "https://visitwakayama.jp/en/stories/detail_539.html"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "event",
-      "title": "牛窓オリーブ収穫祭2026",
-      "area": "岡山県瀬戸内市・牛窓オリーブ園",
-      "source_url": "https://www.okayama-kanko.jp/setouchi/event/detail_13134.html"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "food",
-      "title": "福井のおろしそば",
-      "area": "福井県福井市・越前市・県内各地",
-      "source_url": "https://wester.jr-odekake.net/assets/pdf/campaign/hokuriku_season/hokuriku_season_A4.pdf"
-    },
-    {
-      "date": "2026-09-30",
-      "category": "destination",
-      "title": "丹波篠山の黒枝豆と城下町の秋",
-      "area": "兵庫県丹波篠山市・篠山城下町周辺",
-      "source_url": "https://www.hyogo-tourism.jp/course/detail_74.html"
-    },
-    {
       "date": "2026-10-01",
       "category": "event",
       "title": "第14回湯涌ぼんぼり祭り",
@@ -1259,6 +1224,41 @@
       "title": "箱根・芦ノ湖の紅葉と湖畔めぐり",
       "area": "神奈川県足柄下郡箱根町・芦ノ湖、箱根登山電車沿線",
       "source_url": "https://www.kanagawa-kankou.or.jp/features/flower116"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "event",
+      "title": "富山地方鉄道立山線貸切列車 × 体験型謎解きイベント",
+      "area": "富山県富山市・富山地方鉄道立山線 電鉄富山駅〜立山駅",
+      "source_url": "https://www.info-toyama.com/events/103691"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "destination",
+      "title": "清津峡の渓谷美と冬のアート",
+      "area": "新潟県十日町市・清津峡渓谷トンネル",
+      "source_url": "https://niigata-kankou.or.jp/spot/detail_6950.html"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "event",
+      "title": "須磨離宮公園 もみじ観賞会＆ルミエール2026",
+      "area": "兵庫県神戸市須磨区・須磨離宮公園",
+      "source_url": "https://event.city.kobe.lg.jp/event/uehx1kHoscTCseWXY1hb"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "food",
+      "title": "ゆず巻き",
+      "area": "栃木県宇都宮市北部",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/31_12_tochigi.html"
+    },
+    {
+      "date": "2026-11-06",
+      "category": "destination",
+      "title": "高野山の紅葉と聖地散策",
+      "area": "和歌山県伊都郡高野町・高野山",
+      "source_url": "https://www.wakayama-kanko.or.jp/events/detail_3936.html"
     }
   ]
 }
