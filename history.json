@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-01",
-      "category": "event",
-      "title": "第14回湯涌ぼんぼり祭り",
-      "area": "石川県金沢市・湯涌温泉街",
-      "source_url": "https://yuwaku.gr.jp/bonbori/"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "destination",
-      "title": "黒部峡谷・宇奈月温泉の紅葉旅",
-      "area": "富山県黒部市・宇奈月温泉",
-      "source_url": "https://www.kurobe-unazuki.jp/event/2021/09/23/7039/"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "event",
-      "title": "2026佐賀インターナショナルバルーンフェスタ",
-      "area": "佐賀県佐賀市・嘉瀬川河川敷周辺",
-      "source_url": "https://www.sibf.jp/2026/schedule/"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "food",
-      "title": "いものこ汁",
-      "area": "秋田県横手市・県南地域",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_7_akita.html"
-    },
-    {
-      "date": "2026-10-01",
-      "category": "destination",
-      "title": "鳴子峡の紅葉と温泉めぐり",
-      "area": "宮城県大崎市・鳴子温泉郷",
-      "source_url": "https://www.city.osaki.miyagi.jp/shisei/soshikikarasagasu/narukosogoushisho/chiikishinkoka/5/3/3087.html"
-    },
-    {
       "date": "2026-10-02",
       "category": "event",
       "title": "嘉穂劇場 再開場記念イベント",
@@ -1259,6 +1224,41 @@
       "title": "高野山の紅葉と聖地散策",
       "area": "和歌山県伊都郡高野町・高野山",
       "source_url": "https://www.wakayama-kanko.or.jp/events/detail_3936.html"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "event",
+      "title": "敦賀港イルミネーション ミライエ2026",
+      "area": "福井県敦賀市・金ヶ崎緑地",
+      "source_url": "https://www.pa.hrr.mlit.go.jp/minato-oasis/point/73/"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "destination",
+      "title": "蔵王温泉と樹氷原の冬旅",
+      "area": "山形県山形市・蔵王温泉、蔵王ロープウェイ",
+      "source_url": "https://zaoropeway.co.jp/winter/juhyo.php"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "event",
+      "title": "光と音のページェント2026",
+      "area": "山口県防府市・表参道、上天神、アスピラート、ルルサス周辺",
+      "source_url": "https://visit-hofu.jp/wp-content/uploads/2026/03/2026eventcalendar-2.pdf"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "food",
+      "title": "もさえびの刺身",
+      "area": "鳥取県・鳥取市、岩美町など山陰東部",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-07",
+      "category": "destination",
+      "title": "修善寺温泉の紅葉と竹林さんぽ",
+      "area": "静岡県伊豆市・修善寺温泉、竹林の小径、桂橋周辺",
+      "source_url": "https://b-izu.com/event/post-27266/"
     }
   ]
 }
