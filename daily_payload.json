@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "敦賀港イルミネーション ミライエ2026",
-      "area": "福井県敦賀市・金ヶ崎緑地",
-      "date_info": "2026年11月3日〜12月25日",
-      "post_text": "港町・敦賀の夜を彩る「ミライエ」。金ヶ崎緑地が約60万球の光に包まれ、海辺ならではのイルミネーションを楽しめます。開催は2026年11月3日〜12月25日。冬の北陸旅にぜひ。#敦賀 #イルミネーション",
-      "source_url": "https://www.pa.hrr.mlit.go.jp/minato-oasis/point/73/",
-      "source_title": "敦賀｜北陸みなとオアシス",
+      "title": "石山寺 あたら夜もみじ2026",
+      "area": "滋賀県大津市・石山寺",
+      "date_info": "2026年11月13日（金）〜11月29日（日）",
+      "post_text": "国宝の本堂や多宝塔を、紅葉と提灯の灯りが包む石山寺へ。夜の境内に広がる幻想的な「あたら夜もみじ」は、秋の滋賀で訪れたい特別な時間です。期間は11月13日〜29日。#滋賀旅行 #紅葉",
+      "source_url": "https://www.ishiyamadera.or.jp/guide/event/atarayo",
+      "source_title": "石山寺 あたら夜もみじ（紅葉ライトアップ）−可惜夜−｜大本山 石山寺 公式ホームページ",
       "pexels_queries": [
-        "Tsuruga Fukui Japan harbor winter illumination waterfront"
+        "Ishiyamadera Temple autumn leaves night illumination Otsu Shiga Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-07/upcoming_event_1_1.png"
+        "generated_media/2026-11-08/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-07/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-08/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-07/upcoming_event_1_1.png",
-      "generated_date": "2026-11-07"
+      "image_path": "generated_media/2026-11-08/upcoming_event_1_1.png",
+      "generated_date": "2026-11-08"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "蔵王温泉と樹氷原の冬旅",
-      "area": "山形県山形市・蔵王温泉、蔵王ロープウェイ",
-      "date_info": "樹氷ライトアップ：2027年1月1日〜2月22日の指定日程",
-      "post_text": "雪と温泉を一度に楽しむなら蔵王へ。山頂に現れる白銀の樹氷原は、冬の蔵王ならではの絶景です。温泉街で湯めぐりを楽しみ、ロープウェイで雲上の雪景色へ。",
-      "source_url": "https://zaoropeway.co.jp/winter/juhyo.php",
-      "source_title": "蔵王ロープウェイ｜樹氷ライトアップ",
+      "title": "白金青い池の冬ライトアップ",
+      "area": "北海道上川郡美瑛町・白金青い池",
+      "date_info": "冬季（例年10月下旬〜翌年4月）",
+      "post_text": "雪に覆われた白金青い池を、夜のライトアップで楽しむ冬の美瑛。立ち枯れのカラマツと白銀の景色が、昼とは違う幻想的な表情を見せます。冷え込む夜は防寒を忘れずに。#美瑛 #北海道旅行",
+      "source_url": "https://www.biei-hokkaido.jp/ja/shirogane-blue-pond?hl=ja-JP",
+      "source_title": "白金青い池｜一般社団法人 美瑛町観光協会",
       "pexels_queries": [
-        "Zao Yamagata Japan snow monsters winter ropeway mountain"
+        "Shirogane Blue Pond winter illumination Biei Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-07/destination_1_1.png"
+        "generated_media/2026-11-08/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-07/destination_1_1.png"
+          "path": "generated_media/2026-11-08/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-07/destination_1_1.png",
-      "generated_date": "2026-11-07"
+      "image_path": "generated_media/2026-11-08/destination_1_1.png",
+      "generated_date": "2026-11-08"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "光と音のページェント2026",
-      "area": "山口県防府市・表参道、上天神、アスピラート、ルルサス周辺",
-      "date_info": "2026年12月5日〜2027年1月11日",
-      "post_text": "防府の街が光と音に包まれる冬の風物詩。表参道や駅周辺など複数エリアを歩きながら、街なかのイルミネーションを楽しめます。開催は2026年12月5日〜2027年1月11日。#防府 #冬旅",
-      "source_url": "https://visit-hofu.jp/wp-content/uploads/2026/03/2026eventcalendar-2.pdf",
-      "source_title": "2026年防府市内観光イベント情報",
+      "title": "Christmas Market in 横浜赤レンガ倉庫2026",
+      "area": "神奈川県横浜市・横浜赤レンガ倉庫イベント広場、赤レンガパーク",
+      "date_info": "2026年11月20日（金）〜12月25日（金）",
+      "post_text": "横浜赤レンガ倉庫が、ドイツの冬市を思わせるクリスマスマーケットに。高さ約11mの生木ツリーや光の演出、季節限定フードが港の夜を彩ります。開催は11月20日〜12月25日。#横浜旅行 #クリスマス",
+      "source_url": "https://www.welcome.city.yokohama.jp/hottopics/illumination/",
+      "source_title": "横浜イルミネーション・クリスマス特集2026-27｜横浜市観光情報サイト",
       "pexels_queries": [
-        "Hofu Yamaguchi Japan winter illumination city street"
+        "Yokohama Red Brick Warehouse Christmas market winter night Yokohama Kanagawa Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-07/upcoming_event_2_1.png"
+        "generated_media/2026-11-08/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-07/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-08/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-07/upcoming_event_2_1.png",
-      "generated_date": "2026-11-07"
+      "image_path": "generated_media/2026-11-08/upcoming_event_2_1.png",
+      "generated_date": "2026-11-08"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "もさえびの刺身",
-      "area": "鳥取県・鳥取市、岩美町など山陰東部",
-      "date_info": "冬が旬の地域食",
-      "post_text": "鳥取の冬に味わいたい「もさえび」は、正式にはクロザコエビ。甘えびにも似た甘みと、濃厚な味わいが魅力です。鮮度がよいものは刺身でぜひ。日本海の冬旅で出会いたい一品。",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
-      "source_title": "農林水産省｜うちの郷土料理 冬",
+      "title": "しょっつる鍋",
+      "area": "秋田県・秋田市、男鹿市など県内の郷土料理店",
+      "date_info": "ハタハタが旬を迎える11〜12月がおすすめ",
+      "post_text": "秋田の魚醤・しょっつるで味わう、冬の郷土鍋。旬のハタハタと野菜を煮込んだ一杯は、魚の旨みと発酵調味料の深い香りが魅力です。寒い季節の秋田旅でぜひ。#秋田グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_23_akita.html",
+      "source_title": "しょっつる鍋 秋田県｜農林水産省「うちの郷土料理」",
       "pexels_queries": [
-        "Mosa shrimp sashimi Tottori Japan local seafood dish"
+        "Shottsuru hot pot with hatahata fish Akita Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-07/local_food_1_1.png"
+        "generated_media/2026-11-08/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-07/local_food_1_1.png"
+          "path": "generated_media/2026-11-08/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-07/local_food_1_1.png",
-      "generated_date": "2026-11-07"
+      "image_path": "generated_media/2026-11-08/local_food_1_1.png",
+      "generated_date": "2026-11-08"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "修善寺温泉の紅葉と竹林さんぽ",
-      "area": "静岡県伊豆市・修善寺温泉、竹林の小径、桂橋周辺",
-      "date_info": "紅葉の見頃：11月中旬〜12月上旬の目安",
-      "post_text": "秋の終わりは修善寺温泉へ。竹林の小径や桂橋、指月殿周辺が色づき、温泉街の散策がいっそう風情豊かになります。昼は紅葉、夕方は湯あがりのそぞろ歩きを楽しみたい季節です。",
-      "source_url": "https://b-izu.com/event/post-27266/",
-      "source_title": "伊豆観光公式サイト 美伊豆｜11月のおすすめイベント情報",
+      "title": "兼六園の雪吊りと冬の金沢散策",
+      "area": "石川県金沢市・兼六園、金沢城公園、ひがし茶屋街",
+      "date_info": "11月上旬〜冬季",
+      "post_text": "冬の金沢を象徴する兼六園の雪吊り。縄が描く幾何学模様と庭園の静けさは、雪が降るといっそう美しくなります。茶屋街や温かい郷土料理と合わせて、季節限定の金沢を歩きたい。#金沢旅行 #冬旅",
+      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/spot/detail_10147.html",
+      "source_title": "兼六園｜金沢市観光協会公式サイト",
       "pexels_queries": [
-        "Shuzenji Izu Shizuoka Japan autumn leaves bamboo forest hot spring town"
+        "Kenrokuen Garden yukitsuri winter Kanazawa Ishikawa Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-07/destination_2_1.png"
+        "generated_media/2026-11-08/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-07/destination_2_1.png"
+          "path": "generated_media/2026-11-08/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-07/destination_2_1.png",
-      "generated_date": "2026-11-07"
+      "image_path": "generated_media/2026-11-08/destination_2_1.png",
+      "generated_date": "2026-11-08"
     }
   ]
 }
