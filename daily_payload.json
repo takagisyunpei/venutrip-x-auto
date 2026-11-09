@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "石山寺 あたら夜もみじ2026",
-      "area": "滋賀県大津市・石山寺",
-      "date_info": "2026年11月13日（金）〜11月29日（日）",
-      "post_text": "国宝の本堂や多宝塔を、紅葉と提灯の灯りが包む石山寺へ。夜の境内に広がる幻想的な「あたら夜もみじ」は、秋の滋賀で訪れたい特別な時間です。期間は11月13日〜29日。#滋賀旅行 #紅葉",
-      "source_url": "https://www.ishiyamadera.or.jp/guide/event/atarayo",
-      "source_title": "石山寺 あたら夜もみじ（紅葉ライトアップ）−可惜夜−｜大本山 石山寺 公式ホームページ",
+      "title": "SENDAI光のページェント2026",
+      "area": "宮城県仙台市・定禅寺通",
+      "date_info": "2026年12月4日（金）〜12月27日（日）",
+      "post_text": "定禅寺通のケヤキ並木が約48万球の光に包まれる、仙台の冬の風物詩。澄んだ夜空の下、黄金色に輝く並木を歩けば、街なかで特別な冬旅を楽しめます。開催は12月4日〜27日。#仙台 #イルミネーション",
+      "source_url": "https://sendaihikape.jp/overview/",
+      "source_title": "2026 SENDAI光のページェント｜概要",
       "pexels_queries": [
-        "Ishiyamadera Temple autumn leaves night illumination Otsu Shiga Japan"
+        "SENDAI Jozenji-dori illumination Miyagi Japan winter street"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-08/upcoming_event_1_1.png"
+        "generated_media/2026-11-09/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-08/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-09/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-08/upcoming_event_1_1.png",
-      "generated_date": "2026-11-08"
+      "image_path": "generated_media/2026-11-09/upcoming_event_1_1.png",
+      "generated_date": "2026-11-09"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "白金青い池の冬ライトアップ",
-      "area": "北海道上川郡美瑛町・白金青い池",
-      "date_info": "冬季（例年10月下旬〜翌年4月）",
-      "post_text": "雪に覆われた白金青い池を、夜のライトアップで楽しむ冬の美瑛。立ち枯れのカラマツと白銀の景色が、昼とは違う幻想的な表情を見せます。冷え込む夜は防寒を忘れずに。#美瑛 #北海道旅行",
-      "source_url": "https://www.biei-hokkaido.jp/ja/shirogane-blue-pond?hl=ja-JP",
-      "source_title": "白金青い池｜一般社団法人 美瑛町観光協会",
+      "title": "銀山温泉の雪景色と温泉街さんぽ",
+      "area": "山形県尾花沢市・銀山温泉",
+      "date_info": "2026年12月下旬〜2027年2月下旬ごろ",
+      "post_text": "雪化粧した木造旅館が連なる銀山温泉は、冬にこそ訪れたい山形の名湯。夕暮れからガス灯がともる温泉街を歩き、雪見風呂で温まるひとときは格別です。防寒と滑りにくい靴を忘れずに。#銀山温泉 #山形旅行",
+      "source_url": "https://yamagatakanko.com/winter",
+      "source_title": "銀山温泉の雪景色や樹氷ライトアップは必見！山形の冬を彩る幻想的な雪景色特集｜やまがたへの旅",
       "pexels_queries": [
-        "Shirogane Blue Pond winter illumination Biei Hokkaido Japan"
+        "Ginzan Onsen snow covered traditional ryokan Yamagata Japan winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-08/destination_1_1.png"
+        "generated_media/2026-11-09/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-08/destination_1_1.png"
+          "path": "generated_media/2026-11-09/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-08/destination_1_1.png",
-      "generated_date": "2026-11-08"
+      "image_path": "generated_media/2026-11-09/destination_1_1.png",
+      "generated_date": "2026-11-09"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "Christmas Market in 横浜赤レンガ倉庫2026",
-      "area": "神奈川県横浜市・横浜赤レンガ倉庫イベント広場、赤レンガパーク",
-      "date_info": "2026年11月20日（金）〜12月25日（金）",
-      "post_text": "横浜赤レンガ倉庫が、ドイツの冬市を思わせるクリスマスマーケットに。高さ約11mの生木ツリーや光の演出、季節限定フードが港の夜を彩ります。開催は11月20日〜12月25日。#横浜旅行 #クリスマス",
-      "source_url": "https://www.welcome.city.yokohama.jp/hottopics/illumination/",
-      "source_title": "横浜イルミネーション・クリスマス特集2026-27｜横浜市観光情報サイト",
+      "title": "東京ドイツ村ウインターイルミネーション2026-2027",
+      "area": "千葉県袖ケ浦市・東京ドイツ村",
+      "date_info": "2026年10月31日（土）〜2027年4月4日（日）",
+      "post_text": "東京ドイツ村が光でアメリカ横断の旅に変身。今年のテーマは「Why USA!?」。自由の女神やラスベガスをイメージした演出が広大な園内を彩ります。開催は2027年4月4日まで、冬の夜に車で巡る光の世界へ。#千葉観光 #イルミネーション",
+      "source_url": "https://t-doitsumura.co.jp/illumination/",
+      "source_title": "ウインターイルミネーション2026-2027｜東京ドイツ村",
       "pexels_queries": [
-        "Yokohama Red Brick Warehouse Christmas market winter night Yokohama Kanagawa Japan"
+        "Tokyo German Village illumination Sodegaura Chiba Japan winter night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-08/upcoming_event_2_1.png"
+        "generated_media/2026-11-09/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-08/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-09/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-08/upcoming_event_2_1.png",
-      "generated_date": "2026-11-08"
+      "image_path": "generated_media/2026-11-09/upcoming_event_2_1.png",
+      "generated_date": "2026-11-09"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "しょっつる鍋",
-      "area": "秋田県・秋田市、男鹿市など県内の郷土料理店",
-      "date_info": "ハタハタが旬を迎える11〜12月がおすすめ",
-      "post_text": "秋田の魚醤・しょっつるで味わう、冬の郷土鍋。旬のハタハタと野菜を煮込んだ一杯は、魚の旨みと発酵調味料の深い香りが魅力です。寒い季節の秋田旅でぜひ。#秋田グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_23_akita.html",
-      "source_title": "しょっつる鍋 秋田県｜農林水産省「うちの郷土料理」",
+      "title": "ひっつみ",
+      "area": "岩手県北部・青森県南東部の郷土料理店",
+      "date_info": "冬に食べたい郷土料理",
+      "post_text": "小麦粉を練った生地を手でちぎり、野菜や鶏肉と煮込む「ひっつみ」。つるりとした食感と具だくさんの温かな汁が、寒い日にぴったりです。岩手県北部や青森県南東部を訪れたら、土地の味を一椀でどうぞ。#岩手グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/shokubunka/k_ryouri/search_menu/menu/hittsumi_aomori.html",
+      "source_title": "ひっつみ｜うちの郷土料理：農林水産省",
       "pexels_queries": [
-        "Shottsuru hot pot with hatahata fish Akita Japan"
+        "Hittsumi soup traditional regional cuisine Iwate Japan winter bowl"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-08/local_food_1_1.png"
+        "generated_media/2026-11-09/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-08/local_food_1_1.png"
+          "path": "generated_media/2026-11-09/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-08/local_food_1_1.png",
-      "generated_date": "2026-11-08"
+      "image_path": "generated_media/2026-11-09/local_food_1_1.png",
+      "generated_date": "2026-11-09"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "兼六園の雪吊りと冬の金沢散策",
-      "area": "石川県金沢市・兼六園、金沢城公園、ひがし茶屋街",
-      "date_info": "11月上旬〜冬季",
-      "post_text": "冬の金沢を象徴する兼六園の雪吊り。縄が描く幾何学模様と庭園の静けさは、雪が降るといっそう美しくなります。茶屋街や温かい郷土料理と合わせて、季節限定の金沢を歩きたい。#金沢旅行 #冬旅",
-      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/spot/detail_10147.html",
-      "source_title": "兼六園｜金沢市観光協会公式サイト",
+      "title": "松本城と冬の城下町さんぽ",
+      "area": "長野県松本市・松本城、城下町",
+      "date_info": "2026年11月〜2027年2月ごろ",
+      "post_text": "雪をまとった北アルプスを背景に、黒と白のコントラストが際立つ冬の松本城へ。冷え込む朝は空気が澄み、城下町の散策や温泉もいっそう心地よく感じられます。厚手の防寒着で、静かな冬の信州を歩きませんか。#松本城 #冬旅",
+      "source_url": "https://visitmatsumoto.com/weather",
+      "source_title": "気象・服装について｜松本市公式観光サイト 松本旅のしらべ",
       "pexels_queries": [
-        "Kenrokuen Garden yukitsuri winter Kanazawa Ishikawa Japan"
+        "Matsumoto Castle snow Alps Nagano Japan winter landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-08/destination_2_1.png"
+        "generated_media/2026-11-09/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-08/destination_2_1.png"
+          "path": "generated_media/2026-11-09/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-08/destination_2_1.png",
-      "generated_date": "2026-11-08"
+      "image_path": "generated_media/2026-11-09/destination_2_1.png",
+      "generated_date": "2026-11-09"
     }
   ]
 }
