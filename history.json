@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-04",
-      "category": "event",
-      "title": "熊野速玉大社例大祭 御船祭",
-      "area": "和歌山県新宮市・熊野速玉大社周辺",
-      "source_url": "https://www.wakayama-kanko.or.jp/events/index_1.html"
-    },
-    {
-      "date": "2026-10-04",
-      "category": "destination",
-      "title": "裏磐梯・五色沼の紅葉散策",
-      "area": "福島県耶麻郡北塩原村・裏磐梯",
-      "source_url": "https://www.pref.fukushima.lg.jp/w4/fgr/activity/"
-    },
-    {
-      "date": "2026-10-04",
-      "category": "event",
-      "title": "唐津くんち",
-      "area": "佐賀県唐津市・唐津神社周辺、旧城下町",
-      "source_url": "https://www.city.karatsu.lg.jp/page/4344.html"
-    },
-    {
-      "date": "2026-10-04",
-      "category": "food",
-      "title": "宇和島じゃこ天",
-      "area": "愛媛県宇和島市・南予地域",
-      "source_url": "https://www.iyokannet.jp/feature/gourmet/local"
-    },
-    {
-      "date": "2026-10-04",
-      "category": "destination",
-      "title": "高知県立牧野植物園の秋さんぽ",
-      "area": "高知県高知市・五台山",
-      "source_url": "https://kochike.jp/column/374958/"
-    },
-    {
       "date": "2026-10-05",
       "category": "event",
       "title": "EXPO2025 Futures Tour 東京",
@@ -1259,6 +1224,41 @@
       "title": "松本城と冬の城下町さんぽ",
       "area": "長野県松本市・松本城、城下町",
       "source_url": "https://visitmatsumoto.com/weather"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "event",
+      "title": "吉野ヶ里 光の響 2026",
+      "area": "佐賀県神埼郡吉野ヶ里町・吉野ヶ里歴史公園",
+      "source_url": "https://www.yoshinogari.jp/"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "destination",
+      "title": "金沢・兼六園の雪吊りと冬の城下町",
+      "area": "石川県金沢市・兼六園、金沢城公園、ひがし茶屋街",
+      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/article/detail_136.html"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "event",
+      "title": "さがみ湖イルミリオン 2026-2027",
+      "area": "神奈川県相模原市緑区・さがみ湖MORI MORI",
+      "source_url": "https://www.kanagawa-kankou.or.jp/event/list"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "food",
+      "title": "まんばのけんちゃん",
+      "area": "香川県・県内の郷土料理店や家庭料理店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-10",
+      "category": "destination",
+      "title": "日光の社寺と晩秋の紅葉",
+      "area": "栃木県日光市・日光東照宮、日光二荒山神社、神橋周辺",
+      "source_url": "https://www.nikko-kankou.org/public/flowering/autumn-leaves?sort=access"
     }
   ]
 }

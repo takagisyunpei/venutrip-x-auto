@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "SENDAI光のページェント2026",
-      "area": "宮城県仙台市・定禅寺通",
-      "date_info": "2026年12月4日（金）〜12月27日（日）",
-      "post_text": "定禅寺通のケヤキ並木が約48万球の光に包まれる、仙台の冬の風物詩。澄んだ夜空の下、黄金色に輝く並木を歩けば、街なかで特別な冬旅を楽しめます。開催は12月4日〜27日。#仙台 #イルミネーション",
-      "source_url": "https://sendaihikape.jp/overview/",
-      "source_title": "2026 SENDAI光のページェント｜概要",
+      "title": "吉野ヶ里 光の響 2026",
+      "area": "佐賀県神埼郡吉野ヶ里町・吉野ヶ里歴史公園",
+      "date_info": "2026年11月28日・29日、12月5日・6日・12日・13日 17:00〜21:00",
+      "post_text": "弥生の遺跡が光と炎に包まれる、吉野ヶ里 光の響。復元建物のライトアップやキャンドル灯籠、熱気球のナイトグローまで、夜だけの特別な吉野ヶ里を楽しめます。11月28日〜12月13日の指定日開催。#佐賀旅行 #冬イベント",
+      "source_url": "https://www.yoshinogari.jp/",
+      "source_title": "吉野ヶ里 光の響 開催案内（国営吉野ヶ里歴史公園）",
       "pexels_queries": [
-        "SENDAI Jozenji-dori illumination Miyagi Japan winter street"
+        "Yoshinogari Historical Park Saga Japan night illumination ancient ruins"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-09/upcoming_event_1_1.png"
+        "generated_media/2026-11-10/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-09/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-10/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-09/upcoming_event_1_1.png",
-      "generated_date": "2026-11-09"
+      "image_path": "generated_media/2026-11-10/upcoming_event_1_1.png",
+      "generated_date": "2026-11-10"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "銀山温泉の雪景色と温泉街さんぽ",
-      "area": "山形県尾花沢市・銀山温泉",
-      "date_info": "2026年12月下旬〜2027年2月下旬ごろ",
-      "post_text": "雪化粧した木造旅館が連なる銀山温泉は、冬にこそ訪れたい山形の名湯。夕暮れからガス灯がともる温泉街を歩き、雪見風呂で温まるひとときは格別です。防寒と滑りにくい靴を忘れずに。#銀山温泉 #山形旅行",
-      "source_url": "https://yamagatakanko.com/winter",
-      "source_title": "銀山温泉の雪景色や樹氷ライトアップは必見！山形の冬を彩る幻想的な雪景色特集｜やまがたへの旅",
+      "title": "金沢・兼六園の雪吊りと冬の城下町",
+      "area": "石川県金沢市・兼六園、金沢城公園、ひがし茶屋街",
+      "date_info": "雪吊りは2026年11月から2027年3月中旬ごろまで",
+      "post_text": "冬の金沢は、兼六園の雪吊りが街の風景を特別に彩る季節。金沢城公園や茶屋街を歩き、旬のカニや寒ブリ、しぼりたての地酒にも出会えます。雪の日はもちろん、冬支度の景色もおすすめです。#金沢旅行 #冬旅",
+      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/article/detail_136.html",
+      "source_title": "「とっておき！冬の金沢へ」2026年版（金沢旅物語）",
       "pexels_queries": [
-        "Ginzan Onsen snow covered traditional ryokan Yamagata Japan winter"
+        "Kenrokuen Garden Kanazawa Ishikawa Japan winter yukitsuri"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-09/destination_1_1.png"
+        "generated_media/2026-11-10/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-09/destination_1_1.png"
+          "path": "generated_media/2026-11-10/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-09/destination_1_1.png",
-      "generated_date": "2026-11-09"
+      "image_path": "generated_media/2026-11-10/destination_1_1.png",
+      "generated_date": "2026-11-10"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "東京ドイツ村ウインターイルミネーション2026-2027",
-      "area": "千葉県袖ケ浦市・東京ドイツ村",
-      "date_info": "2026年10月31日（土）〜2027年4月4日（日）",
-      "post_text": "東京ドイツ村が光でアメリカ横断の旅に変身。今年のテーマは「Why USA!?」。自由の女神やラスベガスをイメージした演出が広大な園内を彩ります。開催は2027年4月4日まで、冬の夜に車で巡る光の世界へ。#千葉観光 #イルミネーション",
-      "source_url": "https://t-doitsumura.co.jp/illumination/",
-      "source_title": "ウインターイルミネーション2026-2027｜東京ドイツ村",
+      "title": "さがみ湖イルミリオン 2026-2027",
+      "area": "神奈川県相模原市緑区・さがみ湖MORI MORI",
+      "date_info": "2026年11月14日（土）から開催",
+      "post_text": "約600万球の光が山の斜面を彩る、さがみ湖イルミリオン。自然の中を歩きながら、広大な光の景色を楽しめます。2026年11月14日から開催予定。秋冬の夜に、相模湖へ出かけませんか。#神奈川旅行 #イルミネーション",
+      "source_url": "https://www.kanagawa-kankou.or.jp/event/list",
+      "source_title": "観光かながわNOW イベント情報",
       "pexels_queries": [
-        "Tokyo German Village illumination Sodegaura Chiba Japan winter night"
+        "Sagamiko MORI MORI Sagamihara Kanagawa Japan winter illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-09/upcoming_event_2_1.png"
+        "generated_media/2026-11-10/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-09/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-10/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-09/upcoming_event_2_1.png",
-      "generated_date": "2026-11-09"
+      "image_path": "generated_media/2026-11-10/upcoming_event_2_1.png",
+      "generated_date": "2026-11-10"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "ひっつみ",
-      "area": "岩手県北部・青森県南東部の郷土料理店",
-      "date_info": "冬に食べたい郷土料理",
-      "post_text": "小麦粉を練った生地を手でちぎり、野菜や鶏肉と煮込む「ひっつみ」。つるりとした食感と具だくさんの温かな汁が、寒い日にぴったりです。岩手県北部や青森県南東部を訪れたら、土地の味を一椀でどうぞ。#岩手グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/shokubunka/k_ryouri/search_menu/menu/hittsumi_aomori.html",
-      "source_title": "ひっつみ｜うちの郷土料理：農林水産省",
+      "title": "まんばのけんちゃん",
+      "area": "香川県・県内の郷土料理店や家庭料理店",
+      "date_info": "旬のまんばは例年10月から4月ごろ",
+      "post_text": "香川の冬の食卓で味わいたい、まんばのけんちゃん。まんばと豆腐を炒め煮にした、素朴で滋味深い郷土料理です。うどんだけではない香川の味を、寒い季節にじっくり楽しんでみてください。#香川グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
+      "source_title": "うちの郷土料理 冬の郷土料理（農林水産省）",
       "pexels_queries": [
-        "Hittsumi soup traditional regional cuisine Iwate Japan winter bowl"
+        "Manba no Kenchan Kagawa Japan local food tofu greens"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-09/local_food_1_1.png"
+        "generated_media/2026-11-10/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-09/local_food_1_1.png"
+          "path": "generated_media/2026-11-10/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-09/local_food_1_1.png",
-      "generated_date": "2026-11-09"
+      "image_path": "generated_media/2026-11-10/local_food_1_1.png",
+      "generated_date": "2026-11-10"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "松本城と冬の城下町さんぽ",
-      "area": "長野県松本市・松本城、城下町",
-      "date_info": "2026年11月〜2027年2月ごろ",
-      "post_text": "雪をまとった北アルプスを背景に、黒と白のコントラストが際立つ冬の松本城へ。冷え込む朝は空気が澄み、城下町の散策や温泉もいっそう心地よく感じられます。厚手の防寒着で、静かな冬の信州を歩きませんか。#松本城 #冬旅",
-      "source_url": "https://visitmatsumoto.com/weather",
-      "source_title": "気象・服装について｜松本市公式観光サイト 松本旅のしらべ",
+      "title": "日光の社寺と晩秋の紅葉",
+      "area": "栃木県日光市・日光東照宮、日光二荒山神社、神橋周辺",
+      "date_info": "2026年11月上旬〜中旬が見ごろの目安",
+      "post_text": "11月の日光は、世界遺産の社寺と紅葉を一緒に楽しめる季節。朱塗りの神橋や歴史ある社寺が秋色に包まれ、朝の澄んだ空気の中で歩くと格別です。見ごろは11月上旬〜中旬が目安。#日光旅行 #紅葉旅",
+      "source_url": "https://www.nikko-kankou.org/public/flowering/autumn-leaves?sort=access",
+      "source_title": "紅葉状況・開花情報（日光旅ナビ）",
       "pexels_queries": [
-        "Matsumoto Castle snow Alps Nagano Japan winter landscape"
+        "Nikko Toshogu Shrine autumn leaves Tochigi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-09/destination_2_1.png"
+        "generated_media/2026-11-10/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-09/destination_2_1.png"
+          "path": "generated_media/2026-11-10/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-09/destination_2_1.png",
-      "generated_date": "2026-11-09"
+      "image_path": "generated_media/2026-11-10/destination_2_1.png",
+      "generated_date": "2026-11-10"
     }
   ]
 }
