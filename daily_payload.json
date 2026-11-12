@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "見浜園灯ろうまつり2026",
-      "area": "千葉県千葉市・県立幕張海浜公園 見浜園",
-      "date_info": "2026年11月14日（土）〜11月23日（月・祝）※11月16日を除く",
-      "post_text": "紅葉と雪吊りが彩る日本庭園を、灯ろうや和傘の光で幻想的に楽しめる「見浜園灯ろうまつり2026」。期間は11月14日〜23日、幕張海浜公園で開催。秋の夜長に抹茶と庭園散策を。#千葉旅行 #紅葉ライトアップ",
-      "source_url": "https://www.seibu-la.co.jp/makuhari/event/202610141205309405.html",
-      "source_title": "見浜園灯ろうまつり2026 ～秋の日本庭園ライトアップ～",
+      "title": "善光寺表参道イルミネーション",
+      "area": "長野県長野市・長野駅前から善光寺表参道周辺",
+      "date_info": "2026年11月14日（土）〜2027年2月14日（日）",
+      "post_text": "長野駅前から善光寺まで約1.8kmの表参道が、冬の夜を彩る光の道に。11月14日から始まる善光寺表参道イルミネーションで、門前町の散策を楽しみませんか。#長野観光 #イルミネーション",
+      "source_url": "https://db.go-nagano.net/topics_detail11/id%3D23125",
+      "source_title": "善光寺表参道イルミネーション｜Go NAGANO 長野県公式観光サイト",
       "pexels_queries": [
-        "Mihama-en Japanese garden lantern autumn Chiba Japan"
+        "Zenkoji Temple Nagano Japan winter illumination street"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-11/upcoming_event_1_1.png"
+        "generated_media/2026-11-12/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-11/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-12/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-11/upcoming_event_1_1.png",
-      "generated_date": "2026-11-11"
+      "image_path": "generated_media/2026-11-12/upcoming_event_1_1.png",
+      "generated_date": "2026-11-12"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "大内宿の雪景色と茅葺き街道",
-      "area": "福島県南会津郡下郷町・大内宿",
-      "date_info": "冬季の雪景色は12月以降が目安",
-      "post_text": "茅葺き屋根の民家が並ぶ大内宿は、雪が積もると江戸時代の宿場町らしい静けさが際立ちます。ねぎ一本で食べる名物そばや温かい甘味を目当てに、冬の会津へ。足元は滑りにくい靴で。#福島旅行 #雪景色",
-      "source_url": "https://www.ouchi-juku.com/",
-      "source_title": "大内宿観光協会",
+      "title": "南紀熊野ジオパークと那智の滝",
+      "area": "和歌山県東牟婁郡那智勝浦町・那智山、熊野エリア",
+      "date_info": "2026年11月〜冬季",
+      "post_text": "冬の熊野は、澄んだ空気の中で那智の滝や苔むした石段の美しさが際立つ季節。熊野古道の歩き旅と温泉、海の幸を組み合わせて、南紀ならではの静かな冬旅へ。#和歌山旅行 #熊野古道",
+      "source_url": "https://visitwakayama.jp/lsc/upfile/pamphlet/0000/0168/168_201_file.pdf",
+      "source_title": "南紀熊野ジオパークガイドブック｜和歌山県公式観光サイト",
       "pexels_queries": [
-        "Ouchi-juku snow-covered thatched houses Shimogo Fukushima Japan"
+        "Nachi Falls Nachikatsuura Wakayama Japan winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-11/destination_1_1.png"
+        "generated_media/2026-11-12/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-11/destination_1_1.png"
+          "path": "generated_media/2026-11-12/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-11/destination_1_1.png",
-      "generated_date": "2026-11-11"
+      "image_path": "generated_media/2026-11-12/destination_1_1.png",
+      "generated_date": "2026-11-12"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "ヨルノヨ2026",
-      "area": "神奈川県横浜市・横浜都心臨海部",
-      "date_info": "2026年12月4日（金）〜12月30日（水）",
-      "post_text": "横浜の街全体が光と音楽で連動する「ヨルノヨ2026」。12月4日〜30日、みなとみらいから山下公園までの臨海部を舞台に開催されます。大さん橋や山下公園で、港の夜景と光の演出を満喫。#横浜旅行 #イルミネーション",
-      "source_url": "https://www.welcome.city.yokohama.jp/eventinfo/ev_detail.php?bid=yw9092",
-      "source_title": "国内最大級のイルミネーションイベント「ヨルノヨ2026」",
+      "title": "KOKURA CHRISTMAS MARKET&CASTLE 2026",
+      "area": "福岡県北九州市・紫川親水広場、小倉城周辺",
+      "date_info": "2026年11月20日（金）〜12月25日（金）",
+      "post_text": "小倉城と紫川を舞台に、クリスマスマーケットが今年も開催。11月20日から、イルミネーションやグルメ、音楽を楽しむ冬の夜へ。歴史ある城下町が華やぐ季節です。#北九州観光 #クリスマスマーケット",
+      "source_url": "https://www.crossroadfukuoka.jp/feature/advent",
+      "source_title": "2026イルミネーションが彩る街へ！クリスマスアドベント｜クロスロードふくおか",
       "pexels_queries": [
-        "Yorunoyo illumination waterfront Yokohama Japan night"
+        "Kokura Castle Kitakyushu Japan Christmas market illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-11/upcoming_event_2_1.png"
+        "generated_media/2026-11-12/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-11/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-12/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-11/upcoming_event_2_1.png",
-      "generated_date": "2026-11-11"
+      "image_path": "generated_media/2026-11-12/upcoming_event_2_1.png",
+      "generated_date": "2026-11-12"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "氷見の寒ぶり",
-      "area": "富山県氷見市・氷見漁港周辺の飲食店",
-      "date_info": "旬は12月〜2月",
-      "post_text": "冬の富山を訪れたら、脂がのった氷見の寒ぶりを。刺身はもちろん、しゃぶしゃぶにすると濃厚な旨みと軽やかな後味を楽しめます。富山湾の冬景色と一緒に味わいたい、季節限定のご当地グルメです。#富山グルメ #寒ぶり",
-      "source_url": "https://visit-toyama-japan.com/en/travel-inspiration/toyama-gourmet",
-      "source_title": "Toyama Gourmet Deep Dive｜Visit Toyama",
+      "title": "ひっつみ",
+      "area": "岩手県北部・盛岡市、二戸市、八幡平市など",
+      "date_info": "冬に食べたい岩手の郷土料理",
+      "post_text": "小麦粉を練った生地を手でちぎり、野菜や鶏肉と一緒に煮込む岩手の郷土料理・ひっつみ。寒い日にうれしい、もちもち食感とだしの温かさを味わいに、岩手へ出かけませんか。#岩手グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine1_3.html",
+      "source_title": "ひっつみ…岩手県｜農林水産省",
       "pexels_queries": [
-        "Himi winter yellowtail sashimi hot pot Himi Toyama Japan"
+        "hittsumi Iwate Japan traditional soup dumplings"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-11/local_food_1_1.png"
+        "generated_media/2026-11-12/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-11/local_food_1_1.png"
+          "path": "generated_media/2026-11-12/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-11/local_food_1_1.png",
-      "generated_date": "2026-11-11"
+      "image_path": "generated_media/2026-11-12/local_food_1_1.png",
+      "generated_date": "2026-11-12"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "八甲田の雪景色と酸ヶ湯温泉",
-      "area": "青森県青森市・八甲田山、酸ヶ湯温泉",
-      "date_info": "雪景色は12月中旬〜2月が目安",
-      "post_text": "12月中旬から雪に覆われる八甲田は、樹氷や白銀の山景色に出会える冬の絶景地。雪遊びの後は、300年以上の歴史を持つ酸ヶ湯温泉へ。山の天候とロープウェイ運行を確認して出かけたい旅先です。#青森旅行 #冬旅",
-      "source_url": "https://www.ana.co.jp/ja/in/japan-travel-planner/traditional-culture/japan-snow-guide/",
-      "source_title": "この冬訪れたい、日本の雪の絶景8選｜ANA",
+      "title": "阿蘇くじゅうの冬景色と温泉めぐり",
+      "area": "熊本県阿蘇市・阿蘇五岳、内牧温泉周辺",
+      "date_info": "2026年11月〜2027年2月",
+      "post_text": "冬の阿蘇は、草原の向こうに広がる山並みと、冷えた空気に映える朝夕の光が魅力。ドライブで雄大な景色を巡ったあとは、内牧温泉で体を温める旅がおすすめです。#阿蘇旅行 #温泉旅",
+      "source_url": "https://kumamoto.guide/",
+      "source_title": "熊本県公式観光サイト もっと、もーっと！くまもっと。",
       "pexels_queries": [
-        "Hakkoda snow-covered mountains Sukayu Onsen Aomori Japan"
+        "Mount Aso Kumamoto Japan winter landscape hot spring town"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-11/destination_2_1.png"
+        "generated_media/2026-11-12/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-11/destination_2_1.png"
+          "path": "generated_media/2026-11-12/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-11/destination_2_1.png",
-      "generated_date": "2026-11-11"
+      "image_path": "generated_media/2026-11-12/destination_2_1.png",
+      "generated_date": "2026-11-12"
     }
   ]
 }

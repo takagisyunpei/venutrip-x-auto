@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-06",
-      "category": "event",
-      "title": "嵐山もみじ祭り",
-      "area": "京都府京都市右京区・嵐山渡月橋上流",
-      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=4066"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "destination",
-      "title": "清津峡の紅葉と光のトンネル",
-      "area": "新潟県十日町市・清津峡",
-      "source_url": "https://niigata-kankou.or.jp/spot/detail_6950.html"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "event",
-      "title": "九重“夢”大吊橋 20周年記念 秋の大感謝祭",
-      "area": "大分県玖珠郡九重町・九重“夢”大吊橋",
-      "source_url": "https://www.visit-oita.jp/events/"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "food",
-      "title": "おけさ柿",
-      "area": "新潟県佐渡市",
-      "source_url": "https://niigata-kankou.or.jp/feature/okesagaki/"
-    },
-    {
-      "date": "2026-10-06",
-      "category": "destination",
-      "title": "長門湯本温泉の秋旅",
-      "area": "山口県長門市・長門湯本温泉",
-      "source_url": "https://yumotoonsen.com/news/aki-gourmet2026/"
-    },
-    {
       "date": "2026-10-07",
       "category": "event",
       "title": "浅草酉の市",
@@ -1259,6 +1224,41 @@
       "title": "八甲田の雪景色と酸ヶ湯温泉",
       "area": "青森県青森市・八甲田山、酸ヶ湯温泉",
       "source_url": "https://www.ana.co.jp/ja/in/japan-travel-planner/traditional-culture/japan-snow-guide/"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "event",
+      "title": "善光寺表参道イルミネーション",
+      "area": "長野県長野市・長野駅前から善光寺表参道周辺",
+      "source_url": "https://db.go-nagano.net/topics_detail11/id%3D23125"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "destination",
+      "title": "南紀熊野ジオパークと那智の滝",
+      "area": "和歌山県東牟婁郡那智勝浦町・那智山、熊野エリア",
+      "source_url": "https://visitwakayama.jp/lsc/upfile/pamphlet/0000/0168/168_201_file.pdf"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "event",
+      "title": "KOKURA CHRISTMAS MARKET&CASTLE 2026",
+      "area": "福岡県北九州市・紫川親水広場、小倉城周辺",
+      "source_url": "https://www.crossroadfukuoka.jp/feature/advent"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "food",
+      "title": "ひっつみ",
+      "area": "岩手県北部・盛岡市、二戸市、八幡平市など",
+      "source_url": "https://www.maff.go.jp/j/syokuiku/kodomo_navi/cuisine/cuisine1_3.html"
+    },
+    {
+      "date": "2026-11-12",
+      "category": "destination",
+      "title": "阿蘇くじゅうの冬景色と温泉めぐり",
+      "area": "熊本県阿蘇市・阿蘇五岳、内牧温泉周辺",
+      "source_url": "https://kumamoto.guide/"
     }
   ]
 }
