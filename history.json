@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-08",
-      "category": "event",
-      "title": "秩父夜祭",
-      "area": "埼玉県秩父市・秩父神社周辺、市街地",
-      "source_url": "https://navi.city.chichibu.lg.jp/info/2026/10/31171/"
-    },
-    {
-      "date": "2026-10-08",
-      "category": "destination",
-      "title": "高千穂峡の紅葉と早朝の雲海",
-      "area": "宮崎県西臼杵郡高千穂町・高千穂峡、国見ヶ丘周辺",
-      "source_url": "https://takachiho-kanko.info/faq/"
-    },
-    {
-      "date": "2026-10-08",
-      "category": "event",
-      "title": "東福寺塔頭 天得院 秋の特別拝観",
-      "area": "京都府京都市東山区・東福寺塔頭 天得院",
-      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=264"
-    },
-    {
-      "date": "2026-10-08",
-      "category": "food",
-      "title": "淡路島の鱧すき",
-      "area": "兵庫県南あわじ市・淡路島南部",
-      "source_url": "https://www.awajishima-kanko.jp/awaji/hamo/"
-    },
-    {
-      "date": "2026-10-08",
-      "category": "destination",
-      "title": "京都・大原の紅葉と里山散歩",
-      "area": "京都府京都市左京区・大原三千院周辺",
-      "source_url": "https://ja.kyoto.travel/flower/momiji/search.php?search_spot%5B%5D=9"
-    },
-    {
       "date": "2026-10-09",
       "category": "event",
       "title": "本場大館きりたんぽまつり",
@@ -1259,6 +1224,41 @@
       "title": "白川郷の雪景色と合掌造り集落",
       "area": "岐阜県大野郡白川村・荻町合掌造り集落",
       "source_url": "https://shirakawa-go.gr.jp/highlights/"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "event",
+      "title": "国宝松本城氷彫フェスティバル2027",
+      "area": "長野県松本市・国宝松本城、松本城公園、松本駅前ほか",
+      "source_url": "https://visitmatsumoto.com/event/detail_3002.html"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "destination",
+      "title": "冬の沖縄・読谷村と恩納村の海景色",
+      "area": "沖縄県中頭郡読谷村・恩納村周辺",
+      "source_url": "https://www.okinawastory.jp/news/tourism/4062"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "event",
+      "title": "お台場レインボー花火2026",
+      "area": "東京都港区・お台場海浜公園周辺",
+      "source_url": "https://visit-minato-city.tokyo/ja-jp/events"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "food",
+      "title": "どんこ汁",
+      "area": "岩手県三陸沿岸・宮古市、釜石市など",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-14",
+      "category": "destination",
+      "title": "阿智村の冬の星空と温泉旅",
+      "area": "長野県下伊那郡阿智村・昼神温泉周辺",
+      "source_url": "https://www.go-nagano.net/nature-and-outdoors/themelist/detail/id16268"
     }
   ]
 }
