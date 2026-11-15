@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-09",
-      "category": "event",
-      "title": "本場大館きりたんぽまつり",
-      "area": "秋田県大館市・ニプロハチ公ドーム",
-      "source_url": "https://visitakita.com/tourist-guide/event21/"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "destination",
-      "title": "奥入瀬渓流の紅葉散策",
-      "area": "青森県十和田市・奥入瀬渓流",
-      "source_url": "https://aomori-tourism.com/spot/detail_339.html"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "event",
-      "title": "いずみマチ・テラス2026",
-      "area": "鹿児島県出水市・出水麓武家屋敷群周辺",
-      "source_url": "https://www.kagoshima-kankou.com/event"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "food",
-      "title": "博多水炊き",
-      "area": "福岡県福岡市・博多、中洲周辺",
-      "source_url": "https://yokanavi.com/gourmet"
-    },
-    {
-      "date": "2026-10-09",
-      "category": "destination",
-      "title": "大歩危・小歩危の紅葉と渓谷めぐり",
-      "area": "徳島県三好市・大歩危峡、小歩危峡",
-      "source_url": "https://shikoku-tourism.com/spot/22119"
-    },
-    {
       "date": "2026-10-10",
       "category": "event",
       "title": "越前かにまつり2026",
@@ -1259,6 +1224,41 @@
       "title": "阿智村の冬の星空と温泉旅",
       "area": "長野県下伊那郡阿智村・昼神温泉周辺",
       "source_url": "https://www.go-nagano.net/nature-and-outdoors/themelist/detail/id16268"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "event",
+      "title": "さっぽろホワイトイルミネーション2026-2027",
+      "area": "北海道札幌市・大通公園、駅前通、南一条通ほか",
+      "source_url": "https://www.visit-hokkaido.jp/event/detail_11003.html"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "destination",
+      "title": "小浜のカニ街道と若狭の冬旅",
+      "area": "福井県小浜市・小浜湾、若狭鯖街道周辺",
+      "source_url": "https://wakasa-obama.jp/special/wakasa-crab-road-fair/"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "event",
+      "title": "はこだてクリスマスファンタジー2026",
+      "area": "北海道函館市・函館ベイエリア",
+      "source_url": "https://www.visit-hokkaido.jp/event/index.html"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "food",
+      "title": "越前がに",
+      "area": "福井県小浜市・若狭地方の料理店、旅館、鮮魚店",
+      "source_url": "https://wakasa-obama.jp/special/wakasa-crab-road-fair/"
+    },
+    {
+      "date": "2026-11-15",
+      "category": "destination",
+      "title": "高山の冬の町並みと郷土料理めぐり",
+      "area": "岐阜県高山市・古い町並、宮川朝市、高山陣屋周辺",
+      "source_url": "https://www.kankou-gifu.jp/article/detail_234.html"
     }
   ]
 }

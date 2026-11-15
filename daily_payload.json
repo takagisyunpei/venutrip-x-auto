@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "国宝松本城氷彫フェスティバル2027",
-      "area": "長野県松本市・国宝松本城、松本城公園、松本駅前ほか",
-      "date_info": "2027年1月22日（金）〜1月24日（日）",
-      "post_text": "氷のアートが松本の街を彩る、冬限定の祭典。国宝松本城を舞台に、迫力ある氷彫作品やジャンボすべり台などを楽しめます。開催は2027年1月22日〜24日。凛とした冬の松本へ。 #松本城 #長野旅行",
-      "source_url": "https://visitmatsumoto.com/event/detail_3002.html",
-      "source_title": "国宝松本城氷彫フェスティバル2027｜松本市公式観光サイト",
+      "title": "さっぽろホワイトイルミネーション2026-2027",
+      "area": "北海道札幌市・大通公園、駅前通、南一条通ほか",
+      "date_info": "2026年11月20日〜2027年3月14日（一部会場。大通会場は2026年12月25日まで）",
+      "post_text": "雪の季節を迎える札幌の街が、光の回廊に変わる。大通公園をはじめ、駅前通や南一条通など会場ごとに異なるイルミネーションを楽しめます。開催は2026年11月20日から。冬の札幌散策にぜひ。 #札幌 #イルミネーション",
+      "source_url": "https://www.visit-hokkaido.jp/event/detail_11003.html",
+      "source_title": "さっぽろホワイトイルミネーション｜HOKKAIDO LOVE!",
       "pexels_queries": [
-        "Matsumoto Castle ice sculpture festival Nagano Japan"
+        "Sapporo Odori Park winter illumination Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-14/upcoming_event_1_1.png"
+        "generated_media/2026-11-15/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-14/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-15/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-14/upcoming_event_1_1.png",
-      "generated_date": "2026-11-14"
+      "image_path": "generated_media/2026-11-15/upcoming_event_1_1.png",
+      "generated_date": "2026-11-15"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "冬の沖縄・読谷村と恩納村の海景色",
-      "area": "沖縄県中頭郡読谷村・恩納村周辺",
-      "date_info": "2026年11月〜2027年2月ごろ",
-      "post_text": "冬の沖縄は、夏とは違う静かな海とやわらかな光が魅力。平均気温17〜18℃ほどで過ごしやすく、読谷村や恩納村では海辺の散策と冬のイルミネーションを一緒に楽しめます。 #沖縄旅行 #冬旅",
-      "source_url": "https://www.okinawastory.jp/news/tourism/4062",
-      "source_title": "冬の沖縄ってどうなの？冬ならではの楽しみ方をご紹介！｜おきなわ物語",
+      "title": "小浜のカニ街道と若狭の冬旅",
+      "area": "福井県小浜市・小浜湾、若狭鯖街道周辺",
+      "date_info": "越前がにの漁期は2026年11月6日〜2027年3月20日。小浜のカニ街道キャンペーンは2026年11月7日〜2027年2月14日",
+      "post_text": "冬の若狭を旅するなら、小浜の“カニ街道”へ。港町ならではの新鮮な越前がにを味わい、御食国の歴史が残る町並みや鯖街道も歩けます。海の幸と文化を一度に楽しめる、冬だけの食旅です。 #福井旅行 #越前がに",
+      "source_url": "https://wakasa-obama.jp/special/wakasa-crab-road-fair/",
+      "source_title": "え、地図までカニ!? 鯖街道のまち、冬はカニ街道。｜御食国若狭おばま観光サイト",
       "pexels_queries": [
-        "Yomitan Onna Okinawa coastline winter sunset Japan"
+        "Obama Fukui winter fishing port crab Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-14/destination_1_1.png"
+        "generated_media/2026-11-15/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-14/destination_1_1.png"
+          "path": "generated_media/2026-11-15/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-14/destination_1_1.png",
-      "generated_date": "2026-11-14"
+      "image_path": "generated_media/2026-11-15/destination_1_1.png",
+      "generated_date": "2026-11-15"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "お台場レインボー花火2026",
-      "area": "東京都港区・お台場海浜公園周辺",
-      "date_info": "2026年12月5日（土）、12日（土）、19日（土）、26日（土）各日19:00から約5分間",
-      "post_text": "澄んだ冬の夜空に、レインボーブリッジを望む花火が開くお台場の冬風物詩。2026年は12月5日・12日・19日・26日に開催予定です。夜景と花火を楽しむ東京湾散歩へ。 #お台場 #東京イベント",
-      "source_url": "https://visit-minato-city.tokyo/ja-jp/events",
-      "source_title": "イベント｜港区観光協会 VISIT MINATO CITY",
+      "title": "はこだてクリスマスファンタジー2026",
+      "area": "北海道函館市・函館ベイエリア",
+      "date_info": "2026年12月1日〜12月25日",
+      "post_text": "函館ベイエリアに、海上の巨大クリスマスツリーが登場。毎日18時には花火が夜空を彩り、赤レンガ倉庫群と港の風景が幻想的な冬景色に変わります。開催は2026年12月1日から。 #函館 #クリスマス",
+      "source_url": "https://www.visit-hokkaido.jp/event/index.html",
+      "source_title": "イベント｜HOKKAIDO LOVE!",
       "pexels_queries": [
-        "Odaiba Rainbow Bridge fireworks Tokyo Japan night"
+        "Hakodate Christmas tree harbor night Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-14/upcoming_event_2_1.png"
+        "generated_media/2026-11-15/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-14/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-15/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-14/upcoming_event_2_1.png",
-      "generated_date": "2026-11-14"
+      "image_path": "generated_media/2026-11-15/upcoming_event_2_1.png",
+      "generated_date": "2026-11-15"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "どんこ汁",
-      "area": "岩手県三陸沿岸・宮古市、釜石市など",
-      "date_info": "冬が旬",
-      "post_text": "三陸の冬に味わいたい、どんこ汁。地元で獲れるエゾイソアイナメを使った、魚の旨みたっぷりの郷土料理です。冷えた体を芯から温める一杯を、海辺の食堂や郷土料理店でぜひ。 #岩手グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
-      "source_title": "冬の郷土料理｜農林水産省「うちの郷土料理」",
+      "title": "越前がに",
+      "area": "福井県小浜市・若狭地方の料理店、旅館、鮮魚店",
+      "date_info": "漁期は2026年11月6日〜2027年3月20日。メスのセイコガニは2026年12月31日まで",
+      "post_text": "冬の若狭で食べたいのは、身も味噌も濃厚な越前がに。小浜では焼き、茹で、鍋など多彩な料理で楽しめます。漁期ならではの旬を求めて、港町の食事処をめぐる旅へ。 #福井グルメ #越前がに",
+      "source_url": "https://wakasa-obama.jp/special/wakasa-crab-road-fair/",
+      "source_title": "え、地図までカニ!? 鯖街道のまち、冬はカニ街道。｜御食国若狭おばま観光サイト",
       "pexels_queries": [
-        "Donko fish soup Sanriku Iwate Japan local cuisine"
+        "Echizen crab cuisine Obama Fukui Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-14/local_food_1_1.png"
+        "generated_media/2026-11-15/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-14/local_food_1_1.png"
+          "path": "generated_media/2026-11-15/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-14/local_food_1_1.png",
-      "generated_date": "2026-11-14"
+      "image_path": "generated_media/2026-11-15/local_food_1_1.png",
+      "generated_date": "2026-11-15"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "阿智村の冬の星空と温泉旅",
-      "area": "長野県下伊那郡阿智村・昼神温泉周辺",
-      "date_info": "2026年11月〜2027年3月ごろ",
-      "post_text": "空気が澄む冬は、星空を見る旅にぴったり。長野県阿智村では、満天の星を見上げた後に昼神温泉で温まる過ごし方がおすすめです。静かな山里で、冬ならではの夜を。 #阿智村 #星空旅",
-      "source_url": "https://www.go-nagano.net/nature-and-outdoors/themelist/detail/id16268",
-      "source_title": "寒くても心はあったか 冬の澄んだ空気に映える幻想的な灯りの世界へ｜Go NAGANO",
+      "title": "高山の冬の町並みと郷土料理めぐり",
+      "area": "岐阜県高山市・古い町並、宮川朝市、高山陣屋周辺",
+      "date_info": "冬季の旅先。12月〜2月は新酒、漬物ステーキ、朴葉味噌、高山ラーメンなど冬の味覚を楽しめる時期",
+      "post_text": "雪がちらつく高山の古い町並みを歩いたら、温かな高山ラーメンや朴葉味噌を。冬は酒蔵の新酒も楽しめる季節です。朝市や町家をめぐりながら、飛騨の味と静かな城下町の風情に浸る旅へ。 #飛騨高山 #冬旅",
+      "source_url": "https://www.kankou-gifu.jp/article/detail_234.html",
+      "source_title": "岐阜の冬旅！観光ガイド｜岐阜の旅ガイド",
       "pexels_queries": [
-        "Achi Village starry winter night Nagano Japan"
+        "Takayama old town winter Gifu Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-14/destination_2_1.png"
+        "generated_media/2026-11-15/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-14/destination_2_1.png"
+          "path": "generated_media/2026-11-15/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-14/destination_2_1.png",
-      "generated_date": "2026-11-14"
+      "image_path": "generated_media/2026-11-15/destination_2_1.png",
+      "generated_date": "2026-11-15"
     }
   ]
 }
