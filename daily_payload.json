@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "さっぽろホワイトイルミネーション2026-2027",
-      "area": "北海道札幌市・大通公園、駅前通、南一条通ほか",
-      "date_info": "2026年11月20日〜2027年3月14日（一部会場。大通会場は2026年12月25日まで）",
-      "post_text": "雪の季節を迎える札幌の街が、光の回廊に変わる。大通公園をはじめ、駅前通や南一条通など会場ごとに異なるイルミネーションを楽しめます。開催は2026年11月20日から。冬の札幌散策にぜひ。 #札幌 #イルミネーション",
-      "source_url": "https://www.visit-hokkaido.jp/event/detail_11003.html",
-      "source_title": "さっぽろホワイトイルミネーション｜HOKKAIDO LOVE!",
+      "title": "ヨルノヨ2026",
+      "area": "神奈川県横浜市・横浜港大さん橋国際客船ターミナル、山下公園など都心臨海部",
+      "date_info": "2026年12月4日〜12月30日",
+      "post_text": "横浜の街が光と音楽で躍動する「ヨルノヨ2026」。大さん橋や山下公園など、都心臨海部をめぐりながら冬の夜景を楽しめます。開催は12月4日〜30日。#横浜 #イルミネーション",
+      "source_url": "https://www.welcome.city.yokohama.jp/hottopics/illumination/",
+      "source_title": "横浜イルミネーション・クリスマス特集 2026-27｜横浜市観光情報サイト",
       "pexels_queries": [
-        "Sapporo Odori Park winter illumination Hokkaido Japan"
+        "Yokohama waterfront illumination Japan night view"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-15/upcoming_event_1_1.png"
+        "generated_media/2026-11-16/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-15/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-16/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-15/upcoming_event_1_1.png",
-      "generated_date": "2026-11-15"
+      "image_path": "generated_media/2026-11-16/upcoming_event_1_1.png",
+      "generated_date": "2026-11-16"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "小浜のカニ街道と若狭の冬旅",
-      "area": "福井県小浜市・小浜湾、若狭鯖街道周辺",
-      "date_info": "越前がにの漁期は2026年11月6日〜2027年3月20日。小浜のカニ街道キャンペーンは2026年11月7日〜2027年2月14日",
-      "post_text": "冬の若狭を旅するなら、小浜の“カニ街道”へ。港町ならではの新鮮な越前がにを味わい、御食国の歴史が残る町並みや鯖街道も歩けます。海の幸と文化を一度に楽しめる、冬だけの食旅です。 #福井旅行 #越前がに",
-      "source_url": "https://wakasa-obama.jp/special/wakasa-crab-road-fair/",
-      "source_title": "え、地図までカニ!? 鯖街道のまち、冬はカニ街道。｜御食国若狭おばま観光サイト",
+      "title": "道後温泉と冬の温泉街さんぽ",
+      "area": "愛媛県松山市・道後温泉本館、道後ハイカラ通り、道後温泉駅周辺",
+      "date_info": "2026年11月〜2027年2月の冬旅におすすめ",
+      "post_text": "冷えた体を道後の湯で温めたら、浴衣姿で温泉街へ。歴史ある道後温泉本館と、冬の夜に映える街並みをゆっくり歩く旅はいかが？#道後温泉 #愛媛旅行",
+      "source_url": "https://shikoku-tourism.com/spot/10016",
+      "source_title": "道後温泉本館｜ツーリズム四国",
       "pexels_queries": [
-        "Obama Fukui winter fishing port crab Japan"
+        "Dogo Onsen Matsuyama Ehime Japan winter street"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-15/destination_1_1.png"
+        "generated_media/2026-11-16/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-15/destination_1_1.png"
+          "path": "generated_media/2026-11-16/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-15/destination_1_1.png",
-      "generated_date": "2026-11-15"
+      "image_path": "generated_media/2026-11-16/destination_1_1.png",
+      "generated_date": "2026-11-16"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "はこだてクリスマスファンタジー2026",
-      "area": "北海道函館市・函館ベイエリア",
-      "date_info": "2026年12月1日〜12月25日",
-      "post_text": "函館ベイエリアに、海上の巨大クリスマスツリーが登場。毎日18時には花火が夜空を彩り、赤レンガ倉庫群と港の風景が幻想的な冬景色に変わります。開催は2026年12月1日から。 #函館 #クリスマス",
-      "source_url": "https://www.visit-hokkaido.jp/event/index.html",
-      "source_title": "イベント｜HOKKAIDO LOVE!",
+      "title": "とべZOOイルミネーション2026",
+      "area": "愛媛県伊予郡砥部町・愛媛県立とべ動物園",
+      "date_info": "2026年11月21日・22日・28日、12月5日・12日・19日",
+      "post_text": "動物園が幻想的な光の世界に変わる「とべZOOイルミネーション2026」。11月21・22・28日、12月5・12・19日に開催。家族旅にもおすすめです。#愛媛 #イルミネーション",
+      "source_url": "https://shikoku-tourism.com/event/24600",
+      "source_title": "とべZOOイルミネーション2026｜ツーリズム四国",
       "pexels_queries": [
-        "Hakodate Christmas tree harbor night Hokkaido Japan"
+        "Tobe Zoo Ehime Japan winter illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-15/upcoming_event_2_1.png"
+        "generated_media/2026-11-16/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-15/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-16/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-15/upcoming_event_2_1.png",
-      "generated_date": "2026-11-15"
+      "image_path": "generated_media/2026-11-16/upcoming_event_2_1.png",
+      "generated_date": "2026-11-16"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "越前がに",
-      "area": "福井県小浜市・若狭地方の料理店、旅館、鮮魚店",
-      "date_info": "漁期は2026年11月6日〜2027年3月20日。メスのセイコガニは2026年12月31日まで",
-      "post_text": "冬の若狭で食べたいのは、身も味噌も濃厚な越前がに。小浜では焼き、茹で、鍋など多彩な料理で楽しめます。漁期ならではの旬を求めて、港町の食事処をめぐる旅へ。 #福井グルメ #越前がに",
-      "source_url": "https://wakasa-obama.jp/special/wakasa-crab-road-fair/",
-      "source_title": "え、地図までカニ!? 鯖街道のまち、冬はカニ街道。｜御食国若狭おばま観光サイト",
+      "title": "かぶらずし",
+      "area": "石川県金沢市・加賀地域の郷土料理店、発酵食品店",
+      "date_info": "冬〜正月の味覚",
+      "post_text": "塩漬けしたかぶにブリを挟み、麹で発酵させる石川の冬のごちそう「かぶらずし」。甘みとうまみが重なる、旅先で味わいたい郷土の発酵食です。#石川グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/hokuriku/food/attach/pdf/wasyoku-76.pdf",
+      "source_title": "かぶらずし｜農林水産省 北陸農政局",
       "pexels_queries": [
-        "Echizen crab cuisine Obama Fukui Japan"
+        "kabura sushi Ishikawa Kanazawa Japan traditional food"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-15/local_food_1_1.png"
+        "generated_media/2026-11-16/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-15/local_food_1_1.png"
+          "path": "generated_media/2026-11-16/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-15/local_food_1_1.png",
-      "generated_date": "2026-11-15"
+      "image_path": "generated_media/2026-11-16/local_food_1_1.png",
+      "generated_date": "2026-11-16"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "高山の冬の町並みと郷土料理めぐり",
-      "area": "岐阜県高山市・古い町並、宮川朝市、高山陣屋周辺",
-      "date_info": "冬季の旅先。12月〜2月は新酒、漬物ステーキ、朴葉味噌、高山ラーメンなど冬の味覚を楽しめる時期",
-      "post_text": "雪がちらつく高山の古い町並みを歩いたら、温かな高山ラーメンや朴葉味噌を。冬は酒蔵の新酒も楽しめる季節です。朝市や町家をめぐりながら、飛騨の味と静かな城下町の風情に浸る旅へ。 #飛騨高山 #冬旅",
-      "source_url": "https://www.kankou-gifu.jp/article/detail_234.html",
-      "source_title": "岐阜の冬旅！観光ガイド｜岐阜の旅ガイド",
+      "title": "天橋立と冬の丹後旅",
+      "area": "京都府宮津市・天橋立、傘松公園、智恩寺周辺",
+      "date_info": "2026年11月〜2027年2月の冬旅におすすめ",
+      "post_text": "冬の日本三景・天橋立へ。松並木の静かな散策に、丹後の海の幸や温泉を組み合わせれば、夏とは違う落ち着いた旅時間を楽しめます。#天橋立 #丹後旅",
+      "source_url": "https://global.kyoto.travel/resource/global/download/12-pdf.pdf",
+      "source_title": "京都府内の西国三十三カ所札所・京都総合観光案内所",
       "pexels_queries": [
-        "Takayama old town winter Gifu Japan"
+        "Amanohashidate Miyazu Kyoto Japan winter landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-15/destination_2_1.png"
+        "generated_media/2026-11-16/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-15/destination_2_1.png"
+          "path": "generated_media/2026-11-16/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-15/destination_2_1.png",
-      "generated_date": "2026-11-15"
+      "image_path": "generated_media/2026-11-16/destination_2_1.png",
+      "generated_date": "2026-11-16"
     }
   ]
 }

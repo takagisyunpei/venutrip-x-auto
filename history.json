@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-10",
-      "category": "event",
-      "title": "越前かにまつり2026",
-      "area": "福井県丹生郡越前町・道の駅「越前」",
-      "source_url": "https://fuku-iro.jp/event/detail_11462.html"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "destination",
-      "title": "大窪寺の紅葉とお遍路の里歩き",
-      "area": "香川県さぬき市・大窪寺周辺",
-      "source_url": "https://shikoku-tourism.com/feature/kouyou/rist_map"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "event",
-      "title": "ジオガイドと行く秋吉台草紅葉ウォーキングツアー",
-      "area": "山口県美祢市・秋吉台",
-      "source_url": "https://yamaguchi-tourism.jp/event/detail_19125.html"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "food",
-      "title": "八戸せんべい汁",
-      "area": "青森県八戸市・八戸市内各店",
-      "source_url": "https://aomori-tourism.com/spot/detail_2082.html"
-    },
-    {
-      "date": "2026-10-10",
-      "category": "destination",
-      "title": "三段峡の紅葉渓谷さんぽ",
-      "area": "広島県山県郡安芸太田町・三段峡",
-      "source_url": "https://www.pref.hiroshima.lg.jp/uploaded/life/998135_8927130_misc.pdf"
-    },
-    {
       "date": "2026-10-11",
       "category": "event",
       "title": "第47回しまばら温泉不知火まつり",
@@ -1259,6 +1224,41 @@
       "title": "高山の冬の町並みと郷土料理めぐり",
       "area": "岐阜県高山市・古い町並、宮川朝市、高山陣屋周辺",
       "source_url": "https://www.kankou-gifu.jp/article/detail_234.html"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "event",
+      "title": "ヨルノヨ2026",
+      "area": "神奈川県横浜市・横浜港大さん橋国際客船ターミナル、山下公園など都心臨海部",
+      "source_url": "https://www.welcome.city.yokohama.jp/hottopics/illumination/"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "destination",
+      "title": "道後温泉と冬の温泉街さんぽ",
+      "area": "愛媛県松山市・道後温泉本館、道後ハイカラ通り、道後温泉駅周辺",
+      "source_url": "https://shikoku-tourism.com/spot/10016"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "event",
+      "title": "とべZOOイルミネーション2026",
+      "area": "愛媛県伊予郡砥部町・愛媛県立とべ動物園",
+      "source_url": "https://shikoku-tourism.com/event/24600"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "food",
+      "title": "かぶらずし",
+      "area": "石川県金沢市・加賀地域の郷土料理店、発酵食品店",
+      "source_url": "https://www.maff.go.jp/hokuriku/food/attach/pdf/wasyoku-76.pdf"
+    },
+    {
+      "date": "2026-11-16",
+      "category": "destination",
+      "title": "天橋立と冬の丹後旅",
+      "area": "京都府宮津市・天橋立、傘松公園、智恩寺周辺",
+      "source_url": "https://global.kyoto.travel/resource/global/download/12-pdf.pdf"
     }
   ]
 }
