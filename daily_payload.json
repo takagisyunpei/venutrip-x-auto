@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "ヨルノヨ2026",
-      "area": "神奈川県横浜市・横浜港大さん橋国際客船ターミナル、山下公園など都心臨海部",
-      "date_info": "2026年12月4日〜12月30日",
-      "post_text": "横浜の街が光と音楽で躍動する「ヨルノヨ2026」。大さん橋や山下公園など、都心臨海部をめぐりながら冬の夜景を楽しめます。開催は12月4日〜30日。#横浜 #イルミネーション",
-      "source_url": "https://www.welcome.city.yokohama.jp/hottopics/illumination/",
-      "source_title": "横浜イルミネーション・クリスマス特集 2026-27｜横浜市観光情報サイト",
+      "title": "嵐山渓谷紅葉まつり2026",
+      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場、嵐山渓谷周辺",
+      "date_info": "みごろウィーク：2026年11月14日（土）〜12月6日（日）、イベントDay：11月28日（土）・29日（日）",
+      "post_text": "深紅の木々に包まれる、埼玉・嵐山渓谷へ。2026年11月14日（土）〜12月6日（日）は紅葉まつりの見ごろウィーク。11月28日・29日はイベントDayも開催されます。川沿いの散策で秋の余韻を楽しんで。#埼玉旅行 #紅葉狩り",
+      "source_url": "https://www.town.ranzan.saitama.jp/0000008033.html",
+      "source_title": "令和8年嵐山渓谷紅葉まつりが開催されます｜嵐山町公式サイト",
       "pexels_queries": [
-        "Yokohama waterfront illumination Japan night view"
+        "Ranzan Valley Saitama Japan autumn foliage river landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-16/upcoming_event_1_1.png"
+        "generated_media/2026-11-17/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-16/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-17/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-16/upcoming_event_1_1.png",
-      "generated_date": "2026-11-16"
+      "image_path": "generated_media/2026-11-17/upcoming_event_1_1.png",
+      "generated_date": "2026-11-17"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "道後温泉と冬の温泉街さんぽ",
-      "area": "愛媛県松山市・道後温泉本館、道後ハイカラ通り、道後温泉駅周辺",
-      "date_info": "2026年11月〜2027年2月の冬旅におすすめ",
-      "post_text": "冷えた体を道後の湯で温めたら、浴衣姿で温泉街へ。歴史ある道後温泉本館と、冬の夜に映える街並みをゆっくり歩く旅はいかが？#道後温泉 #愛媛旅行",
-      "source_url": "https://shikoku-tourism.com/spot/10016",
-      "source_title": "道後温泉本館｜ツーリズム四国",
+      "title": "湯西川温泉の雪景色と冬のかまくら旅",
+      "area": "栃木県日光市・湯西川温泉、平家の里周辺",
+      "date_info": "冬季の雪景色・温泉旅。例年、冬に湯西川温泉かまくら祭を開催",
+      "post_text": "雪に包まれた山あいの温泉街で、冬だけの静けさを味わう湯西川温泉。温泉で温まり、雪景色を眺め、夜はかまくらの灯りに癒やされる旅へ。日光の社寺とはひと味違う、奥日光の冬時間です。#栃木旅行 #温泉旅",
+      "source_url": "https://www.reiwatravel.co.jp/news/261116",
+      "source_title": "冬の絶景自治体ランキング｜REIWA TRAVEL",
       "pexels_queries": [
-        "Dogo Onsen Matsuyama Ehime Japan winter street"
+        "Yunishigawa Onsen Nikko Tochigi Japan snowy traditional village"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-16/destination_1_1.png"
+        "generated_media/2026-11-17/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-16/destination_1_1.png"
+          "path": "generated_media/2026-11-17/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-16/destination_1_1.png",
-      "generated_date": "2026-11-16"
+      "image_path": "generated_media/2026-11-17/destination_1_1.png",
+      "generated_date": "2026-11-17"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "とべZOOイルミネーション2026",
-      "area": "愛媛県伊予郡砥部町・愛媛県立とべ動物園",
-      "date_info": "2026年11月21日・22日・28日、12月5日・12日・19日",
-      "post_text": "動物園が幻想的な光の世界に変わる「とべZOOイルミネーション2026」。11月21・22・28日、12月5・12・19日に開催。家族旅にもおすすめです。#愛媛 #イルミネーション",
-      "source_url": "https://shikoku-tourism.com/event/24600",
-      "source_title": "とべZOOイルミネーション2026｜ツーリズム四国",
+      "title": "光と音のページェント2026",
+      "area": "山口県防府市・表参道、天神参道、アスピラート、ルルサス、駅周辺",
+      "date_info": "2026年12月5日（土）〜2027年1月11日（月・祝）17:00〜22:00",
+      "post_text": "防府のまちなかが光と音に包まれる冬の夜。2026年12月5日（土）〜2027年1月11日（月・祝）、表参道や天神参道、アスピラート周辺でイルミネーションを開催。歴史ある街を歩きながら幻想的な夜を楽しもう。#山口旅行 #冬イルミ",
+      "source_url": "https://visit-hofu.jp/wp-content/uploads/2026/04/2026eventcalendar-3.pdf",
+      "source_title": "2026年防府市内観光イベント情報｜防府市観光協会",
       "pexels_queries": [
-        "Tobe Zoo Ehime Japan winter illumination"
+        "Hofu Yamaguchi Japan winter illumination street night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-16/upcoming_event_2_1.png"
+        "generated_media/2026-11-17/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-16/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-17/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-16/upcoming_event_2_1.png",
-      "generated_date": "2026-11-16"
+      "image_path": "generated_media/2026-11-17/upcoming_event_2_1.png",
+      "generated_date": "2026-11-17"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "かぶらずし",
-      "area": "石川県金沢市・加賀地域の郷土料理店、発酵食品店",
-      "date_info": "冬〜正月の味覚",
-      "post_text": "塩漬けしたかぶにブリを挟み、麹で発酵させる石川の冬のごちそう「かぶらずし」。甘みとうまみが重なる、旅先で味わいたい郷土の発酵食です。#石川グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/hokuriku/food/attach/pdf/wasyoku-76.pdf",
-      "source_title": "かぶらずし｜農林水産省 北陸農政局",
+      "title": "打ち込み汁",
+      "area": "香川県・讃岐地方の郷土料理店、うどん店",
+      "date_info": "冬に食べたい香川県の郷土料理",
+      "post_text": "寒い日に食べたい、香川の郷土料理「打ち込み汁」。小麦粉の生地をだしの中へ打ち込み、大根や里芋などの具材と煮込む、讃岐の家庭的な一杯です。うどんとは違う素朴な味わいを、旅先の食堂でぜひ。#香川グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
+      "source_title": "うちの郷土料理 冬｜農林水産省",
       "pexels_queries": [
-        "kabura sushi Ishikawa Kanazawa Japan traditional food"
+        "Kagawa Japan uchikomi-jiru traditional noodle soup local cuisine"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-16/local_food_1_1.png"
+        "generated_media/2026-11-17/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-16/local_food_1_1.png"
+          "path": "generated_media/2026-11-17/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-16/local_food_1_1.png",
-      "generated_date": "2026-11-16"
+      "image_path": "generated_media/2026-11-17/local_food_1_1.png",
+      "generated_date": "2026-11-17"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "天橋立と冬の丹後旅",
-      "area": "京都府宮津市・天橋立、傘松公園、智恩寺周辺",
-      "date_info": "2026年11月〜2027年2月の冬旅におすすめ",
-      "post_text": "冬の日本三景・天橋立へ。松並木の静かな散策に、丹後の海の幸や温泉を組み合わせれば、夏とは違う落ち着いた旅時間を楽しめます。#天橋立 #丹後旅",
-      "source_url": "https://global.kyoto.travel/resource/global/download/12-pdf.pdf",
-      "source_title": "京都府内の西国三十三カ所札所・京都総合観光案内所",
+      "title": "定山渓温泉の雪見露天と冬の渓谷散策",
+      "area": "北海道札幌市南区・定山渓温泉、豊平川沿い",
+      "date_info": "冬季の雪景色と温泉を楽しむ旅行先",
+      "post_text": "札幌から足を延ばして、雪化粧の定山渓温泉へ。白く染まる渓谷を眺めながら温泉に浸かり、湯上がりは温泉街をそぞろ歩き。都会から近いのに、しっかり冬を感じられる北海道旅です。#北海道旅行 #雪見温泉",
+      "source_url": "https://www.ana.co.jp/ja/jp/japan-travel-planner/experiences/winter-onsen/",
+      "source_title": "日本各地の温泉で美しい冬景色に癒される｜ANA",
       "pexels_queries": [
-        "Amanohashidate Miyazu Kyoto Japan winter landscape"
+        "Jozankei Onsen Sapporo Hokkaido Japan winter snowy valley hot spring"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-16/destination_2_1.png"
+        "generated_media/2026-11-17/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-16/destination_2_1.png"
+          "path": "generated_media/2026-11-17/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-16/destination_2_1.png",
-      "generated_date": "2026-11-16"
+      "image_path": "generated_media/2026-11-17/destination_2_1.png",
+      "generated_date": "2026-11-17"
     }
   ]
 }

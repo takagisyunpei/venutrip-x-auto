@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-11",
-      "category": "event",
-      "title": "第47回しまばら温泉不知火まつり",
-      "area": "長崎県島原市・島原一番街アーケード、島原城大手門市ステージ",
-      "source_url": "https://www.city.shimabara.lg.jp/kanko/page20630.html?type=top"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "destination",
-      "title": "金沢・兼六園の秋紅葉と夜景",
-      "area": "石川県金沢市・兼六園、金沢城公園周辺",
-      "source_url": "https://www.kanazawa-kankoukyoukai.or.jp/article/detail_152.html"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "event",
-      "title": "魚の駅「生地」大感謝祭",
-      "area": "富山県黒部市・魚の駅「生地」",
-      "source_url": "https://www.kurobe-unazuki.jp/event/"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "food",
-      "title": "塩原高原大根料理",
-      "area": "栃木県那須塩原市・塩原温泉郷",
-      "source_url": "https://www.tochigiji.or.jp/event/e15689"
-    },
-    {
-      "date": "2026-10-11",
-      "category": "destination",
-      "title": "日光・奥日光の紅葉と湖畔散策",
-      "area": "栃木県日光市・湯ノ湖、いろは坂、霧降の滝周辺",
-      "source_url": "https://www.city.nikko.lg.jp/soshiki/6/1024/1/1/2618.html"
-    },
-    {
       "date": "2026-10-12",
       "category": "event",
       "title": "鹿児島ジャズフェスティバル 2026 the 10th",
@@ -1259,6 +1224,41 @@
       "title": "天橋立と冬の丹後旅",
       "area": "京都府宮津市・天橋立、傘松公園、智恩寺周辺",
       "source_url": "https://global.kyoto.travel/resource/global/download/12-pdf.pdf"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "event",
+      "title": "嵐山渓谷紅葉まつり2026",
+      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場、嵐山渓谷周辺",
+      "source_url": "https://www.town.ranzan.saitama.jp/0000008033.html"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "destination",
+      "title": "湯西川温泉の雪景色と冬のかまくら旅",
+      "area": "栃木県日光市・湯西川温泉、平家の里周辺",
+      "source_url": "https://www.reiwatravel.co.jp/news/261116"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "event",
+      "title": "光と音のページェント2026",
+      "area": "山口県防府市・表参道、天神参道、アスピラート、ルルサス、駅周辺",
+      "source_url": "https://visit-hofu.jp/wp-content/uploads/2026/04/2026eventcalendar-3.pdf"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "food",
+      "title": "打ち込み汁",
+      "area": "香川県・讃岐地方の郷土料理店、うどん店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-17",
+      "category": "destination",
+      "title": "定山渓温泉の雪見露天と冬の渓谷散策",
+      "area": "北海道札幌市南区・定山渓温泉、豊平川沿い",
+      "source_url": "https://www.ana.co.jp/ja/jp/japan-travel-planner/experiences/winter-onsen/"
     }
   ]
 }
