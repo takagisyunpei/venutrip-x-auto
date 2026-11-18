@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "嵐山渓谷紅葉まつり2026",
-      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場、嵐山渓谷周辺",
-      "date_info": "みごろウィーク：2026年11月14日（土）〜12月6日（日）、イベントDay：11月28日（土）・29日（日）",
-      "post_text": "深紅の木々に包まれる、埼玉・嵐山渓谷へ。2026年11月14日（土）〜12月6日（日）は紅葉まつりの見ごろウィーク。11月28日・29日はイベントDayも開催されます。川沿いの散策で秋の余韻を楽しんで。#埼玉旅行 #紅葉狩り",
-      "source_url": "https://www.town.ranzan.saitama.jp/0000008033.html",
-      "source_title": "令和8年嵐山渓谷紅葉まつりが開催されます｜嵐山町公式サイト",
+      "title": "さっぽろホワイトイルミネーション2026",
+      "area": "北海道札幌市・大通公園、駅前通、南一条通、札幌駅南口駅前広場ほか",
+      "date_info": "2026年11月20日〜2027年3月14日（会場により異なる）",
+      "post_text": "札幌の冬を彩る「さっぽろホワイトイルミネーション」が11月20日から開催。大通公園をはじめ市内各所が光に包まれます。雪の季節ならではの夜さんぽを楽しみに出かけませんか？ #札幌 #イルミネーション",
+      "source_url": "https://www.sapporo.travel/white-illumination/",
+      "source_title": "さっぽろホワイトイルミネーション｜公式ウェブサイト",
       "pexels_queries": [
-        "Ranzan Valley Saitama Japan autumn foliage river landscape"
+        "Sapporo Odori Park winter illumination Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-17/upcoming_event_1_1.png"
+        "generated_media/2026-11-18/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-17/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-18/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-17/upcoming_event_1_1.png",
-      "generated_date": "2026-11-17"
+      "image_path": "generated_media/2026-11-18/upcoming_event_1_1.png",
+      "generated_date": "2026-11-18"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "湯西川温泉の雪景色と冬のかまくら旅",
-      "area": "栃木県日光市・湯西川温泉、平家の里周辺",
-      "date_info": "冬季の雪景色・温泉旅。例年、冬に湯西川温泉かまくら祭を開催",
-      "post_text": "雪に包まれた山あいの温泉街で、冬だけの静けさを味わう湯西川温泉。温泉で温まり、雪景色を眺め、夜はかまくらの灯りに癒やされる旅へ。日光の社寺とはひと味違う、奥日光の冬時間です。#栃木旅行 #温泉旅",
-      "source_url": "https://www.reiwatravel.co.jp/news/261116",
-      "source_title": "冬の絶景自治体ランキング｜REIWA TRAVEL",
+      "title": "黒川温泉の湯あかりと雪見風呂",
+      "area": "熊本県阿蘇郡南小国町・黒川温泉",
+      "date_info": "冬の旅行先（湯あかりは例年クリスマス頃〜3月末）",
+      "post_text": "冬の黒川温泉は、雪景色と温泉街を彩る「湯あかり」が魅力。竹灯籠のやさしい光を眺めながら湯めぐりを楽しみ、冷えた体を露天風呂で温める旅へ。静かな山あいで冬を満喫できます。 #黒川温泉 #熊本旅行",
+      "source_url": "https://www.kurokawaonsen.or.jp/schedule/",
+      "source_title": "年間スケジュール｜黒川温泉公式サイト",
       "pexels_queries": [
-        "Yunishigawa Onsen Nikko Tochigi Japan snowy traditional village"
+        "Kurokawa Onsen winter snow outdoor bath Kumamoto Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-17/destination_1_1.png"
+        "generated_media/2026-11-18/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-17/destination_1_1.png"
+          "path": "generated_media/2026-11-18/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-17/destination_1_1.png",
-      "generated_date": "2026-11-17"
+      "image_path": "generated_media/2026-11-18/destination_1_1.png",
+      "generated_date": "2026-11-18"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "光と音のページェント2026",
-      "area": "山口県防府市・表参道、天神参道、アスピラート、ルルサス、駅周辺",
-      "date_info": "2026年12月5日（土）〜2027年1月11日（月・祝）17:00〜22:00",
-      "post_text": "防府のまちなかが光と音に包まれる冬の夜。2026年12月5日（土）〜2027年1月11日（月・祝）、表参道や天神参道、アスピラート周辺でイルミネーションを開催。歴史ある街を歩きながら幻想的な夜を楽しもう。#山口旅行 #冬イルミ",
-      "source_url": "https://visit-hofu.jp/wp-content/uploads/2026/04/2026eventcalendar-3.pdf",
-      "source_title": "2026年防府市内観光イベント情報｜防府市観光協会",
+      "title": "ひろしまドリミネーション2026",
+      "area": "広島県広島市・平和大通り、市内中心部商店街ほか",
+      "date_info": "2026年12月4日〜2027年1月24日",
+      "post_text": "広島の冬の風物詩「ひろしまドリミネーション2026」が12月4日から開催。平和大通りを中心に、街が“おとぎの国”のような光景に変わります。夕食前後の夜さんぽにもぴったりです。 #広島 #イルミネーション",
+      "source_url": "https://www.dreamination.com/summary/",
+      "source_title": "開催概要｜ひろしまドリミネーション公式ホームページ",
       "pexels_queries": [
-        "Hofu Yamaguchi Japan winter illumination street night"
+        "Hiroshima Peace Boulevard winter illumination Hiroshima Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-17/upcoming_event_2_1.png"
+        "generated_media/2026-11-18/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-17/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-18/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-17/upcoming_event_2_1.png",
-      "generated_date": "2026-11-17"
+      "image_path": "generated_media/2026-11-18/upcoming_event_2_1.png",
+      "generated_date": "2026-11-18"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "打ち込み汁",
-      "area": "香川県・讃岐地方の郷土料理店、うどん店",
-      "date_info": "冬に食べたい香川県の郷土料理",
-      "post_text": "寒い日に食べたい、香川の郷土料理「打ち込み汁」。小麦粉の生地をだしの中へ打ち込み、大根や里芋などの具材と煮込む、讃岐の家庭的な一杯です。うどんとは違う素朴な味わいを、旅先の食堂でぜひ。#香川グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
-      "source_title": "うちの郷土料理 冬｜農林水産省",
+      "title": "味噌煮込みうどん",
+      "area": "愛知県名古屋市を中心とした県内各地",
+      "date_info": "冬に食べたい愛知県の郷土料理",
+      "post_text": "寒い日に食べたい名古屋めし、味噌煮込みうどん。八丁味噌の濃厚な汁に、コシのある麺、鶏肉や卵が入った熱々の一杯です。土鍋から立ち上る湯気までごちそう。名古屋旅でぜひ味わいたい郷土の味です。 #名古屋めし #愛知グルメ",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/misonikomiudon_aichi.html",
+      "source_title": "味噌煮込みうどん 愛知県｜うちの郷土料理：農林水産省",
       "pexels_queries": [
-        "Kagawa Japan uchikomi-jiru traditional noodle soup local cuisine"
+        "Nagoya miso nikomi udon clay pot Aichi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-17/local_food_1_1.png"
+        "generated_media/2026-11-18/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-17/local_food_1_1.png"
+          "path": "generated_media/2026-11-18/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-17/local_food_1_1.png",
-      "generated_date": "2026-11-17"
+      "image_path": "generated_media/2026-11-18/local_food_1_1.png",
+      "generated_date": "2026-11-18"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "定山渓温泉の雪見露天と冬の渓谷散策",
-      "area": "北海道札幌市南区・定山渓温泉、豊平川沿い",
-      "date_info": "冬季の雪景色と温泉を楽しむ旅行先",
-      "post_text": "札幌から足を延ばして、雪化粧の定山渓温泉へ。白く染まる渓谷を眺めながら温泉に浸かり、湯上がりは温泉街をそぞろ歩き。都会から近いのに、しっかり冬を感じられる北海道旅です。#北海道旅行 #雪見温泉",
-      "source_url": "https://www.ana.co.jp/ja/jp/japan-travel-planner/experiences/winter-onsen/",
-      "source_title": "日本各地の温泉で美しい冬景色に癒される｜ANA",
+      "title": "小樽運河と冬の青の運河",
+      "area": "北海道小樽市・小樽運河、浅草橋〜中央橋",
+      "date_info": "冬の旅行先（青の運河は2026年11月1日〜2027年1月31日）",
+      "post_text": "冬の小樽は、雪の街並みと青く輝く小樽運河が印象的。日没後のブルーアワーに訪れれば、空の蒼とイルミネーションが重なり幻想的な景色に出会えます。運河沿いを歩き、温かいグルメでひと休み。 #小樽 #北海道旅行",
+      "source_url": "https://otaru.gr.jp/citizen/winter-bluecanal-2026",
+      "source_title": "冬の小樽を彩るイルミネーション「青の運河」2026-2027｜小樽観光協会公式サイト",
       "pexels_queries": [
-        "Jozankei Onsen Sapporo Hokkaido Japan winter snowy valley hot spring"
+        "Otaru Canal winter blue illumination Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-17/destination_2_1.png"
+        "generated_media/2026-11-18/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-17/destination_2_1.png"
+          "path": "generated_media/2026-11-18/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-17/destination_2_1.png",
-      "generated_date": "2026-11-17"
+      "image_path": "generated_media/2026-11-18/destination_2_1.png",
+      "generated_date": "2026-11-18"
     }
   ]
 }

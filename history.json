@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-12",
-      "category": "event",
-      "title": "鹿児島ジャズフェスティバル 2026 the 10th",
-      "area": "鹿児島県鹿児島市・鹿児島市中心部",
-      "source_url": "https://www.kagoshima-kankou.com/event"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "destination",
-      "title": "大沼公園の紅葉と湖畔ドライブ",
-      "area": "北海道亀田郡七飯町・大沼国定公園",
-      "source_url": "https://www.visit-hokkaido.jp/"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "event",
-      "title": "天童秋まつり",
-      "area": "山形県天童市・市内各所",
-      "source_url": "https://yamagatakanko.com/festivals/detail_8084.html"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "food",
-      "title": "はらこ飯",
-      "area": "宮城県亘理町・山元町周辺",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/autumn.html"
-    },
-    {
-      "date": "2026-10-12",
-      "category": "destination",
-      "title": "秋の宮島・紅葉谷公園と弥山",
-      "area": "広島県廿日市市・宮島",
-      "source_url": "https://www.hiroshima-kankou.com/"
-    },
-    {
       "date": "2026-10-13",
       "category": "event",
       "title": "さっぽろ菊まつり",
@@ -1259,6 +1224,41 @@
       "title": "定山渓温泉の雪見露天と冬の渓谷散策",
       "area": "北海道札幌市南区・定山渓温泉、豊平川沿い",
       "source_url": "https://www.ana.co.jp/ja/jp/japan-travel-planner/experiences/winter-onsen/"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "event",
+      "title": "さっぽろホワイトイルミネーション2026",
+      "area": "北海道札幌市・大通公園、駅前通、南一条通、札幌駅南口駅前広場ほか",
+      "source_url": "https://www.sapporo.travel/white-illumination/"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "destination",
+      "title": "黒川温泉の湯あかりと雪見風呂",
+      "area": "熊本県阿蘇郡南小国町・黒川温泉",
+      "source_url": "https://www.kurokawaonsen.or.jp/schedule/"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "event",
+      "title": "ひろしまドリミネーション2026",
+      "area": "広島県広島市・平和大通り、市内中心部商店街ほか",
+      "source_url": "https://www.dreamination.com/summary/"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "food",
+      "title": "味噌煮込みうどん",
+      "area": "愛知県名古屋市を中心とした県内各地",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/misonikomiudon_aichi.html"
+    },
+    {
+      "date": "2026-11-18",
+      "category": "destination",
+      "title": "小樽運河と冬の青の運河",
+      "area": "北海道小樽市・小樽運河、浅草橋〜中央橋",
+      "source_url": "https://otaru.gr.jp/citizen/winter-bluecanal-2026"
     }
   ]
 }
