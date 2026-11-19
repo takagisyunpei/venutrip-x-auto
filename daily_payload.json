@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "さっぽろホワイトイルミネーション2026",
-      "area": "北海道札幌市・大通公園、駅前通、南一条通、札幌駅南口駅前広場ほか",
-      "date_info": "2026年11月20日〜2027年3月14日（会場により異なる）",
-      "post_text": "札幌の冬を彩る「さっぽろホワイトイルミネーション」が11月20日から開催。大通公園をはじめ市内各所が光に包まれます。雪の季節ならではの夜さんぽを楽しみに出かけませんか？ #札幌 #イルミネーション",
-      "source_url": "https://www.sapporo.travel/white-illumination/",
-      "source_title": "さっぽろホワイトイルミネーション｜公式ウェブサイト",
+      "title": "アリタ・マシュマロ・クリスマス2026 with FINLAND FAIR",
+      "area": "佐賀県西松浦郡有田町・アリタセラ",
+      "date_info": "2026年12月5日（土）〜2027年1月11日（月・祝）※イベント日は12月5・6・12・13日",
+      "post_text": "有田焼の器で楽しむマシュマロ狩りやチョコレートファウンテン、フィンランドフェアが登場。夜はイルミネーションに包まれる有田へ。期間は2026年12月5日〜2027年1月11日。#佐賀旅行 #クリスマス",
+      "source_url": "https://www.asobo-saga.jp/events/detail/c6f56145-d9a2-441e-a794-197bdfe5683b",
+      "source_title": "アリタ・マシュマロ・クリスマス2026 with FINLAND FAIR｜あそぼーさが",
       "pexels_queries": [
-        "Sapporo Odori Park winter illumination Hokkaido Japan"
+        "Arita Saga Japan traditional pottery town Christmas illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-18/upcoming_event_1_1.png"
+        "generated_media/2026-11-19/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-18/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-19/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-18/upcoming_event_1_1.png",
-      "generated_date": "2026-11-18"
+      "image_path": "generated_media/2026-11-19/upcoming_event_1_1.png",
+      "generated_date": "2026-11-19"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "黒川温泉の湯あかりと雪見風呂",
-      "area": "熊本県阿蘇郡南小国町・黒川温泉",
-      "date_info": "冬の旅行先（湯あかりは例年クリスマス頃〜3月末）",
-      "post_text": "冬の黒川温泉は、雪景色と温泉街を彩る「湯あかり」が魅力。竹灯籠のやさしい光を眺めながら湯めぐりを楽しみ、冷えた体を露天風呂で温める旅へ。静かな山あいで冬を満喫できます。 #黒川温泉 #熊本旅行",
-      "source_url": "https://www.kurokawaonsen.or.jp/schedule/",
-      "source_title": "年間スケジュール｜黒川温泉公式サイト",
+      "title": "黒部峡谷・宇奈月温泉の紅葉と温泉旅",
+      "area": "富山県黒部市・黒部峡谷、宇奈月温泉",
+      "date_info": "紅葉の目安：2026年10月下旬〜11月下旬",
+      "post_text": "錦色の黒部峡谷をトロッコ列車から眺め、旅の終わりは宇奈月温泉へ。山肌を染める紅葉と湯けむりを一度に楽しめる、晩秋ならではの富山旅です。#富山旅行 #黒部峡谷",
+      "source_url": "https://www.kurobe-unazuki.jp/event/2021/09/23/7039/",
+      "source_title": "黒部峡谷・宇奈月温泉の紅葉情報｜黒部めぐり",
       "pexels_queries": [
-        "Kurokawa Onsen winter snow outdoor bath Kumamoto Japan"
+        "Kurobe Gorge Unazuki Toyama Japan autumn railway valley"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-18/destination_1_1.png"
+        "generated_media/2026-11-19/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-18/destination_1_1.png"
+          "path": "generated_media/2026-11-19/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-18/destination_1_1.png",
-      "generated_date": "2026-11-18"
+      "image_path": "generated_media/2026-11-19/destination_1_1.png",
+      "generated_date": "2026-11-19"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "ひろしまドリミネーション2026",
-      "area": "広島県広島市・平和大通り、市内中心部商店街ほか",
-      "date_info": "2026年12月4日〜2027年1月24日",
-      "post_text": "広島の冬の風物詩「ひろしまドリミネーション2026」が12月4日から開催。平和大通りを中心に、街が“おとぎの国”のような光景に変わります。夕食前後の夜さんぽにもぴったりです。 #広島 #イルミネーション",
-      "source_url": "https://www.dreamination.com/summary/",
-      "source_title": "開催概要｜ひろしまドリミネーション公式ホームページ",
+      "title": "みなと大通り公園イルミネーション",
+      "area": "鹿児島県鹿児島市・みなと大通り公園",
+      "date_info": "2026年12月1日（火）〜2027年1月31日（日）",
+      "post_text": "鹿児島市役所前の並木道と噴水が、星型ゲートや光の演出で幻想的に輝きます。天文館の食べ歩きと合わせて楽しみたい冬の夜さんぽ。期間は2026年12月1日〜2027年1月31日。#鹿児島旅行 #イルミネーション",
+      "source_url": "https://www.kagoshima-kankou.com/feature/ilumi/top1",
+      "source_title": "鹿児島の冬を彩るイルミネーション｜かごしまの旅",
       "pexels_queries": [
-        "Hiroshima Peace Boulevard winter illumination Hiroshima Japan"
+        "Minato Odori Park Kagoshima Japan winter illumination fountain"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-18/upcoming_event_2_1.png"
+        "generated_media/2026-11-19/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-18/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-19/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-18/upcoming_event_2_1.png",
-      "generated_date": "2026-11-18"
+      "image_path": "generated_media/2026-11-19/upcoming_event_2_1.png",
+      "generated_date": "2026-11-19"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "味噌煮込みうどん",
-      "area": "愛知県名古屋市を中心とした県内各地",
-      "date_info": "冬に食べたい愛知県の郷土料理",
-      "post_text": "寒い日に食べたい名古屋めし、味噌煮込みうどん。八丁味噌の濃厚な汁に、コシのある麺、鶏肉や卵が入った熱々の一杯です。土鍋から立ち上る湯気までごちそう。名古屋旅でぜひ味わいたい郷土の味です。 #名古屋めし #愛知グルメ",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/misonikomiudon_aichi.html",
-      "source_title": "味噌煮込みうどん 愛知県｜うちの郷土料理：農林水産省",
+      "title": "かきの土手鍋",
+      "area": "広島県広島市・宮島・県内の郷土料理店",
+      "date_info": "旬の目安：1月〜2月",
+      "post_text": "味噌を鍋の縁に塗り、広島かきと野菜を煮込む「かきの土手鍋」。寒い季節に、ぷっくりしたかきの旨みと味噌の香りを熱々で味わいたい広島名物です。#広島グルメ #冬の味覚",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
+      "source_title": "かきの土手鍋｜うちの郷土料理・農林水産省",
       "pexels_queries": [
-        "Nagoya miso nikomi udon clay pot Aichi Japan"
+        "Hiroshima Japan oyster dobe nabe hot pot restaurant"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-18/local_food_1_1.png"
+        "generated_media/2026-11-19/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-18/local_food_1_1.png"
+          "path": "generated_media/2026-11-19/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-18/local_food_1_1.png",
-      "generated_date": "2026-11-18"
+      "image_path": "generated_media/2026-11-19/local_food_1_1.png",
+      "generated_date": "2026-11-19"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "小樽運河と冬の青の運河",
-      "area": "北海道小樽市・小樽運河、浅草橋〜中央橋",
-      "date_info": "冬の旅行先（青の運河は2026年11月1日〜2027年1月31日）",
-      "post_text": "冬の小樽は、雪の街並みと青く輝く小樽運河が印象的。日没後のブルーアワーに訪れれば、空の蒼とイルミネーションが重なり幻想的な景色に出会えます。運河沿いを歩き、温かいグルメでひと休み。 #小樽 #北海道旅行",
-      "source_url": "https://otaru.gr.jp/citizen/winter-bluecanal-2026",
-      "source_title": "冬の小樽を彩るイルミネーション「青の運河」2026-2027｜小樽観光協会公式サイト",
+      "title": "久留米の紅葉と庭園さんぽ",
+      "area": "福岡県久留米市・石橋文化センター",
+      "date_info": "紅葉の見頃：11月中旬〜12月上旬",
+      "post_text": "石橋文化センターの日本庭園や園内の木々が、晩秋の久留米を彩ります。美術館やカフェも立ち寄りやすく、ゆっくり歩いて楽しむ福岡の紅葉旅におすすめです。#福岡旅行 #紅葉さんぽ",
+      "source_url": "https://welcome-kurume.com/season/season_11.html",
+      "source_title": "紅葉の情報｜久留米公式観光サイト ほとめきの街",
       "pexels_queries": [
-        "Otaru Canal winter blue illumination Hokkaido Japan"
+        "Ishibashi Cultural Center Kurume Fukuoka Japan autumn garden"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-18/destination_2_1.png"
+        "generated_media/2026-11-19/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-18/destination_2_1.png"
+          "path": "generated_media/2026-11-19/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-18/destination_2_1.png",
-      "generated_date": "2026-11-18"
+      "image_path": "generated_media/2026-11-19/destination_2_1.png",
+      "generated_date": "2026-11-19"
     }
   ]
 }
