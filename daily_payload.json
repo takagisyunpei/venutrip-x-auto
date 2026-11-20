@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "アリタ・マシュマロ・クリスマス2026 with FINLAND FAIR",
-      "area": "佐賀県西松浦郡有田町・アリタセラ",
-      "date_info": "2026年12月5日（土）〜2027年1月11日（月・祝）※イベント日は12月5・6・12・13日",
-      "post_text": "有田焼の器で楽しむマシュマロ狩りやチョコレートファウンテン、フィンランドフェアが登場。夜はイルミネーションに包まれる有田へ。期間は2026年12月5日〜2027年1月11日。#佐賀旅行 #クリスマス",
-      "source_url": "https://www.asobo-saga.jp/events/detail/c6f56145-d9a2-441e-a794-197bdfe5683b",
-      "source_title": "アリタ・マシュマロ・クリスマス2026 with FINLAND FAIR｜あそぼーさが",
+      "title": "ウポポイイルミネーション2026",
+      "area": "北海道白老郡白老町・ウポポイ（民族共生象徴空間）",
+      "date_info": "2026年12月1日〜2027年3月22日",
+      "post_text": "ポロト湖を背景に、アイヌ文化にゆかりのある動物たちが光のオブジェに。冬のウポポイを彩る「ウポポイイルミネーション2026」は、2026年12月1日〜2027年3月22日に開催。静かな湖畔で幻想的な夜を楽しもう。 #北海道旅行 #イルミネーション",
+      "source_url": "https://ainu-upopoy.go.jp/event/upopoyillumination2026-12/",
+      "source_title": "ウポポイイルミネーション 2026｜ウポポイ（民族共生象徴空間）",
       "pexels_queries": [
-        "Arita Saga Japan traditional pottery town Christmas illumination"
+        "Upopoy Shiraoi Hokkaido winter illumination lake Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-19/upcoming_event_1_1.png"
+        "generated_media/2026-11-20/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-19/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-20/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-19/upcoming_event_1_1.png",
-      "generated_date": "2026-11-19"
+      "image_path": "generated_media/2026-11-20/upcoming_event_1_1.png",
+      "generated_date": "2026-11-20"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "黒部峡谷・宇奈月温泉の紅葉と温泉旅",
-      "area": "富山県黒部市・黒部峡谷、宇奈月温泉",
-      "date_info": "紅葉の目安：2026年10月下旬〜11月下旬",
-      "post_text": "錦色の黒部峡谷をトロッコ列車から眺め、旅の終わりは宇奈月温泉へ。山肌を染める紅葉と湯けむりを一度に楽しめる、晩秋ならではの富山旅です。#富山旅行 #黒部峡谷",
-      "source_url": "https://www.kurobe-unazuki.jp/event/2021/09/23/7039/",
-      "source_title": "黒部峡谷・宇奈月温泉の紅葉情報｜黒部めぐり",
+      "title": "美山かやぶきの里の雪景色",
+      "area": "京都府南丹市・美山かやぶきの里",
+      "date_info": "2026年12月〜2027年2月ごろ",
+      "post_text": "雪が積もると、茅葺き屋根の集落が昔話のような景色に変わる京都・美山。白銀の里を歩き、地元そばや美山牛乳も味わいたい冬の小旅行先です。朝の静かな時間帯なら、日本の原風景をじっくり楽しめます。 #京都旅行 #美山",
+      "source_url": "https://ja.kyoto.travel/times/morning/article/single.php?id=535",
+      "source_title": "日本の原風景で迎える朝。美山の「朝ごはん」と里山の散策｜京都市公式 京都観光Navi",
       "pexels_queries": [
-        "Kurobe Gorge Unazuki Toyama Japan autumn railway valley"
+        "Miyama Kayabuki no Sato Nantan Kyoto snowy thatched village Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-19/destination_1_1.png"
+        "generated_media/2026-11-20/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-19/destination_1_1.png"
+          "path": "generated_media/2026-11-20/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-19/destination_1_1.png",
-      "generated_date": "2026-11-19"
+      "image_path": "generated_media/2026-11-20/destination_1_1.png",
+      "generated_date": "2026-11-20"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "みなと大通り公園イルミネーション",
-      "area": "鹿児島県鹿児島市・みなと大通り公園",
-      "date_info": "2026年12月1日（火）〜2027年1月31日（日）",
-      "post_text": "鹿児島市役所前の並木道と噴水が、星型ゲートや光の演出で幻想的に輝きます。天文館の食べ歩きと合わせて楽しみたい冬の夜さんぽ。期間は2026年12月1日〜2027年1月31日。#鹿児島旅行 #イルミネーション",
-      "source_url": "https://www.kagoshima-kankou.com/feature/ilumi/top1",
-      "source_title": "鹿児島の冬を彩るイルミネーション｜かごしまの旅",
+      "title": "江戸東京伝統芸能祭",
+      "area": "東京都中央区・中央区立日本橋公会堂ほか",
+      "date_info": "2027年1月23日（土）ほか、2027年1月開幕",
+      "post_text": "日本舞踊や寄席芸能など、江戸東京に受け継がれる伝統芸能にふれる「江戸東京伝統芸能祭」。本祭は2027年1月に開幕し、1月23日には伝統芸能の魅力を体感できる催しも予定されています。冬の東京で文化を巡る一日を。 #東京観光 #伝統芸能",
+      "source_url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102202",
+      "source_title": "「江戸東京伝統芸能祭」2027年1月開幕！｜東京都",
       "pexels_queries": [
-        "Minato Odori Park Kagoshima Japan winter illumination fountain"
+        "traditional Japanese theater performance Tokyo Japan stage"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-19/upcoming_event_2_1.png"
+        "generated_media/2026-11-20/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-19/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-20/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-19/upcoming_event_2_1.png",
-      "generated_date": "2026-11-19"
+      "image_path": "generated_media/2026-11-20/upcoming_event_2_1.png",
+      "generated_date": "2026-11-20"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "かきの土手鍋",
-      "area": "広島県広島市・宮島・県内の郷土料理店",
-      "date_info": "旬の目安：1月〜2月",
-      "post_text": "味噌を鍋の縁に塗り、広島かきと野菜を煮込む「かきの土手鍋」。寒い季節に、ぷっくりしたかきの旨みと味噌の香りを熱々で味わいたい広島名物です。#広島グルメ #冬の味覚",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/42_4_hiroshima.html",
-      "source_title": "かきの土手鍋｜うちの郷土料理・農林水産省",
+      "title": "ふく刺し",
+      "area": "山口県下関市・下関地域のふぐ料理店",
+      "date_info": "冬季の味覚。天然とらふぐは主に9月〜3月が漁期",
+      "post_text": "山口・下関の冬旅で味わいたい「ふく刺し」。透けるほど薄く引いた身を菊の花のように盛り、薬味とポン酢でいただく郷土のごちそうです。旬の時期に、専門店で本場ならではの一皿を楽しみたい。 #山口グルメ #ふぐ",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_16_yamaguchi.html",
+      "source_title": "ふく刺し 山口県｜農林水産省「うちの郷土料理」",
       "pexels_queries": [
-        "Hiroshima Japan oyster dobe nabe hot pot restaurant"
+        "fugu sashimi traditional Japanese cuisine Shimonoseki Yamaguchi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-19/local_food_1_1.png"
+        "generated_media/2026-11-20/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-19/local_food_1_1.png"
+          "path": "generated_media/2026-11-20/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-19/local_food_1_1.png",
-      "generated_date": "2026-11-19"
+      "image_path": "generated_media/2026-11-20/local_food_1_1.png",
+      "generated_date": "2026-11-20"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "久留米の紅葉と庭園さんぽ",
-      "area": "福岡県久留米市・石橋文化センター",
-      "date_info": "紅葉の見頃：11月中旬〜12月上旬",
-      "post_text": "石橋文化センターの日本庭園や園内の木々が、晩秋の久留米を彩ります。美術館やカフェも立ち寄りやすく、ゆっくり歩いて楽しむ福岡の紅葉旅におすすめです。#福岡旅行 #紅葉さんぽ",
-      "source_url": "https://welcome-kurume.com/season/season_11.html",
-      "source_title": "紅葉の情報｜久留米公式観光サイト ほとめきの街",
+      "title": "支笏湖温泉と冬の湖畔散策",
+      "area": "北海道千歳市・支笏湖温泉、支笏湖畔",
+      "date_info": "2026年12月〜2027年2月ごろ",
+      "post_text": "凛とした空気のなか、透明度の高い支笏湖を眺めながら温泉へ。冬の湖畔散策と、地元のヒメマス料理を組み合わせれば、北海道らしい静かな癒やし旅になります。2027年1月30日からは氷濤まつりも始まります。 #北海道旅行 #支笏湖",
+      "source_url": "https://www.visit-hokkaido.jp/spot/detail_10607.html",
+      "source_title": "支笏湖温泉｜HOKKAIDO LOVE! 北海道公式観光サイト",
       "pexels_queries": [
-        "Ishibashi Cultural Center Kurume Fukuoka Japan autumn garden"
+        "Lake Shikotsu winter hot spring Chitose Hokkaido Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-19/destination_2_1.png"
+        "generated_media/2026-11-20/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-19/destination_2_1.png"
+          "path": "generated_media/2026-11-20/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-19/destination_2_1.png",
-      "generated_date": "2026-11-19"
+      "image_path": "generated_media/2026-11-20/destination_2_1.png",
+      "generated_date": "2026-11-20"
     }
   ]
 }
