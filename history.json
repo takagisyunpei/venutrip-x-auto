@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-15",
-      "category": "event",
-      "title": "2026佐賀インターナショナルバルーンフェスタ",
-      "area": "佐賀県佐賀市・嘉瀬川河川敷",
-      "source_url": "https://www.sibf.jp/index.html"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "destination",
-      "title": "香嵐渓の紅葉と足助の町並み",
-      "area": "愛知県豊田市・足助地区",
-      "source_url": "https://www.city.toyota.aichi.jp/shisei/jichiku/1008649/1013511/1005336.html"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "event",
-      "title": "徳島おどりフェスタ2026",
-      "area": "徳島県徳島市・新町橋通り周辺、藍場浜公園",
-      "source_url": "https://www.pref.tokushima.lg.jp/ippannokata/kyoiku/kanko/7315687/"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "food",
-      "title": "丹波栗の焼き栗と栗ごはん",
-      "area": "兵庫県丹波篠山市・丹波地域",
-      "source_url": "https://tourism.sasayama.jp/tanbaguri/"
-    },
-    {
-      "date": "2026-10-15",
-      "category": "destination",
-      "title": "白川郷の合掌造りと秋の山里",
-      "area": "岐阜県大野郡白川村・白川郷",
-      "source_url": "https://www.kankou-gifu.jp/article/detail_207.html"
-    },
-    {
       "date": "2026-10-16",
       "category": "event",
       "title": "あっけし牡蠣まつり",
@@ -1259,6 +1224,41 @@
       "title": "支笏湖温泉と冬の湖畔散策",
       "area": "北海道千歳市・支笏湖温泉、支笏湖畔",
       "source_url": "https://www.visit-hokkaido.jp/spot/detail_10607.html"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "event",
+      "title": "軽井沢ウィンターフェスティバル2026-27 ― 冬ものがたり ―",
+      "area": "長野県北佐久郡軽井沢町・軽井沢駅北口、矢ケ崎公園ほか町内各所",
+      "source_url": "https://www.town.karuizawa.lg.jp/site/kanko/26323.html"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "destination",
+      "title": "雲仙温泉と冬の霧氷",
+      "area": "長崎県雲仙市・雲仙温泉、雲仙地獄、仁田峠",
+      "source_url": "https://www.discover-nagasaki.com/en/sightseeing/532"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "event",
+      "title": "第61回 京の冬の旅",
+      "area": "京都府京都市・市内15か所の寺院、神社、文化財など",
+      "source_url": "https://ja.kyoto.travel/specialopening/winter/"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "food",
+      "title": "七とこずし",
+      "area": "宮崎県都城市・都城地域の郷土料理店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-21",
+      "category": "destination",
+      "title": "四万十川の冬景色と清流さんぽ",
+      "area": "高知県四万十市・四万十川、中村駅周辺、沈下橋",
+      "source_url": "https://visitkochijapan.com/zh_TW/topics/1342"
     }
   ]
 }

@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "ウポポイイルミネーション2026",
-      "area": "北海道白老郡白老町・ウポポイ（民族共生象徴空間）",
-      "date_info": "2026年12月1日〜2027年3月22日",
-      "post_text": "ポロト湖を背景に、アイヌ文化にゆかりのある動物たちが光のオブジェに。冬のウポポイを彩る「ウポポイイルミネーション2026」は、2026年12月1日〜2027年3月22日に開催。静かな湖畔で幻想的な夜を楽しもう。 #北海道旅行 #イルミネーション",
-      "source_url": "https://ainu-upopoy.go.jp/event/upopoyillumination2026-12/",
-      "source_title": "ウポポイイルミネーション 2026｜ウポポイ（民族共生象徴空間）",
+      "title": "軽井沢ウィンターフェスティバル2026-27 ― 冬ものがたり ―",
+      "area": "長野県北佐久郡軽井沢町・軽井沢駅北口、矢ケ崎公園ほか町内各所",
+      "date_info": "2026年11月21日（土）〜2027年2月28日（日）",
+      "post_text": "澄んだ冬の軽井沢を彩る「軽井沢ウィンターフェスティバル2026-27」が開幕。11月21日から町内各所が光に包まれ、初日は軽井沢駅北口でセレモニー、矢ケ崎公園で花火も。#軽井沢 #冬旅",
+      "source_url": "https://www.town.karuizawa.lg.jp/site/kanko/26323.html",
+      "source_title": "軽井沢ウインターフェスティバル 冬ものがたり2026-27のご案内｜軽井沢町公式ホームページ",
       "pexels_queries": [
-        "Upopoy Shiraoi Hokkaido winter illumination lake Japan"
+        "Karuizawa Nagano winter illumination fireworks Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-20/upcoming_event_1_1.png"
+        "generated_media/2026-11-21/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-20/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-21/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-20/upcoming_event_1_1.png",
-      "generated_date": "2026-11-20"
+      "image_path": "generated_media/2026-11-21/upcoming_event_1_1.png",
+      "generated_date": "2026-11-21"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "美山かやぶきの里の雪景色",
-      "area": "京都府南丹市・美山かやぶきの里",
-      "date_info": "2026年12月〜2027年2月ごろ",
-      "post_text": "雪が積もると、茅葺き屋根の集落が昔話のような景色に変わる京都・美山。白銀の里を歩き、地元そばや美山牛乳も味わいたい冬の小旅行先です。朝の静かな時間帯なら、日本の原風景をじっくり楽しめます。 #京都旅行 #美山",
-      "source_url": "https://ja.kyoto.travel/times/morning/article/single.php?id=535",
-      "source_title": "日本の原風景で迎える朝。美山の「朝ごはん」と里山の散策｜京都市公式 京都観光Navi",
+      "title": "雲仙温泉と冬の霧氷",
+      "area": "長崎県雲仙市・雲仙温泉、雲仙地獄、仁田峠",
+      "date_info": "霧氷の見頃：例年12月〜3月上旬",
+      "post_text": "白い湯けむりが立ちのぼる雲仙温泉へ。冬は仁田峠で霧氷が見られる季節で、温泉街の散策と山上の幻想的な景色を一度に楽しめます。冷えた体は硫黄の湯でゆっくり温めて。#雲仙温泉 #長崎旅行",
+      "source_url": "https://www.discover-nagasaki.com/en/sightseeing/532",
+      "source_title": "Unzen Onsen｜DISCOVER NAGASAKI 公式観光サイト",
       "pexels_queries": [
-        "Miyama Kayabuki no Sato Nantan Kyoto snowy thatched village Japan"
+        "Unzen Nagasaki winter hoarfrost hot spring Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-20/destination_1_1.png"
+        "generated_media/2026-11-21/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-20/destination_1_1.png"
+          "path": "generated_media/2026-11-21/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-20/destination_1_1.png",
-      "generated_date": "2026-11-20"
+      "image_path": "generated_media/2026-11-21/destination_1_1.png",
+      "generated_date": "2026-11-21"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "江戸東京伝統芸能祭",
-      "area": "東京都中央区・中央区立日本橋公会堂ほか",
-      "date_info": "2027年1月23日（土）ほか、2027年1月開幕",
-      "post_text": "日本舞踊や寄席芸能など、江戸東京に受け継がれる伝統芸能にふれる「江戸東京伝統芸能祭」。本祭は2027年1月に開幕し、1月23日には伝統芸能の魅力を体感できる催しも予定されています。冬の東京で文化を巡る一日を。 #東京観光 #伝統芸能",
-      "source_url": "https://www.metro.tokyo.lg.jp/information/press/2026/10/2026102202",
-      "source_title": "「江戸東京伝統芸能祭」2027年1月開幕！｜東京都",
+      "title": "第61回 京の冬の旅",
+      "area": "京都府京都市・市内15か所の寺院、神社、文化財など",
+      "date_info": "2027年1月8日（金）〜3月18日（木）",
+      "post_text": "冬の京都で、普段は見られない文化財を訪ねる「第61回 京の冬の旅」。2027年1月8日から、初公開を含む15か所で庭園や建築、仏像などを期間限定公開。静かな古都歩きに出かけませんか。#京の冬の旅 #京都",
+      "source_url": "https://ja.kyoto.travel/specialopening/winter/",
+      "source_title": "第61回 京の冬の旅｜京都市公式 京都観光Navi",
       "pexels_queries": [
-        "traditional Japanese theater performance Tokyo Japan stage"
+        "Kyoto winter temple traditional architecture Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-20/upcoming_event_2_1.png"
+        "generated_media/2026-11-21/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-20/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-21/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-20/upcoming_event_2_1.png",
-      "generated_date": "2026-11-20"
+      "image_path": "generated_media/2026-11-21/upcoming_event_2_1.png",
+      "generated_date": "2026-11-21"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "ふく刺し",
-      "area": "山口県下関市・下関地域のふぐ料理店",
-      "date_info": "冬季の味覚。天然とらふぐは主に9月〜3月が漁期",
-      "post_text": "山口・下関の冬旅で味わいたい「ふく刺し」。透けるほど薄く引いた身を菊の花のように盛り、薬味とポン酢でいただく郷土のごちそうです。旬の時期に、専門店で本場ならではの一皿を楽しみたい。 #山口グルメ #ふぐ",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/43_16_yamaguchi.html",
-      "source_title": "ふく刺し 山口県｜農林水産省「うちの郷土料理」",
+      "title": "七とこずし",
+      "area": "宮崎県都城市・都城地域の郷土料理店",
+      "date_info": "通年。祝い事や年中行事の料理として伝承",
+      "post_text": "宮崎・都城に伝わる郷土料理「七とこずし」。七つの具材を重ねて仕上げる、祝いの席にも登場する押しずしです。旅先では、その土地の歴史と暮らしが見える一皿を味わいたい。#宮崎グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
+      "source_title": "冬の郷土料理｜農林水産省「うちの郷土料理」",
       "pexels_queries": [
-        "fugu sashimi traditional Japanese cuisine Shimonoseki Yamaguchi Japan"
+        "Nanatokozushi Miyakonojo Miyazaki traditional sushi Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-20/local_food_1_1.png"
+        "generated_media/2026-11-21/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-20/local_food_1_1.png"
+          "path": "generated_media/2026-11-21/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-20/local_food_1_1.png",
-      "generated_date": "2026-11-20"
+      "image_path": "generated_media/2026-11-21/local_food_1_1.png",
+      "generated_date": "2026-11-21"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "支笏湖温泉と冬の湖畔散策",
-      "area": "北海道千歳市・支笏湖温泉、支笏湖畔",
-      "date_info": "2026年12月〜2027年2月ごろ",
-      "post_text": "凛とした空気のなか、透明度の高い支笏湖を眺めながら温泉へ。冬の湖畔散策と、地元のヒメマス料理を組み合わせれば、北海道らしい静かな癒やし旅になります。2027年1月30日からは氷濤まつりも始まります。 #北海道旅行 #支笏湖",
-      "source_url": "https://www.visit-hokkaido.jp/spot/detail_10607.html",
-      "source_title": "支笏湖温泉｜HOKKAIDO LOVE! 北海道公式観光サイト",
+      "title": "四万十川の冬景色と清流さんぽ",
+      "area": "高知県四万十市・四万十川、中村駅周辺、沈下橋",
+      "date_info": "冬季：澄んだ空気と静かな川景色を楽しむ時期",
+      "post_text": "観光客が落ち着く冬の四万十川へ。青い清流、赤い鉄橋、沈下橋がつくる静かな風景は、寒い季節ならではの美しさです。川沿いを歩き、土佐の郷土料理と合わせてゆっくり巡りたい旅先。#四万十川 #高知旅行",
+      "source_url": "https://visitkochijapan.com/zh_TW/topics/1342",
+      "source_title": "高知冬季美雪景｜VISIT KOCHI JAPAN 公式観光サイト",
       "pexels_queries": [
-        "Lake Shikotsu winter hot spring Chitose Hokkaido Japan"
+        "Shimanto River Kochi winter landscape Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-20/destination_2_1.png"
+        "generated_media/2026-11-21/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-20/destination_2_1.png"
+          "path": "generated_media/2026-11-21/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-20/destination_2_1.png",
-      "generated_date": "2026-11-20"
+      "image_path": "generated_media/2026-11-21/destination_2_1.png",
+      "generated_date": "2026-11-21"
     }
   ]
 }
