@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "軽井沢ウィンターフェスティバル2026-27 ― 冬ものがたり ―",
-      "area": "長野県北佐久郡軽井沢町・軽井沢駅北口、矢ケ崎公園ほか町内各所",
-      "date_info": "2026年11月21日（土）〜2027年2月28日（日）",
-      "post_text": "澄んだ冬の軽井沢を彩る「軽井沢ウィンターフェスティバル2026-27」が開幕。11月21日から町内各所が光に包まれ、初日は軽井沢駅北口でセレモニー、矢ケ崎公園で花火も。#軽井沢 #冬旅",
-      "source_url": "https://www.town.karuizawa.lg.jp/site/kanko/26323.html",
-      "source_title": "軽井沢ウインターフェスティバル 冬ものがたり2026-27のご案内｜軽井沢町公式ホームページ",
+      "title": "札幌国際芸術祭2027",
+      "area": "北海道札幌市・札幌市内各会場",
+      "date_info": "2027年1月16日（土）〜2月21日（日）",
+      "post_text": "雪のまち・札幌が、ひとつの芸術祭に。札幌国際芸術祭2027は「PLANET SNOW」をテーマに、冬の街とアートをめぐる特別な旅を提案します。会期は2027年1月16日〜2月21日。#札幌国際芸術祭 #札幌旅行",
+      "source_url": "https://siaf.jp/2027/about/",
+      "source_title": "札幌国際芸術祭2027｜札幌国際芸術祭 公式サイト",
       "pexels_queries": [
-        "Karuizawa Nagano winter illumination fireworks Japan"
+        "Sapporo Hokkaido Japan winter city snow art festival"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-21/upcoming_event_1_1.png"
+        "generated_media/2026-11-22/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-21/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-22/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-21/upcoming_event_1_1.png",
-      "generated_date": "2026-11-21"
+      "image_path": "generated_media/2026-11-22/upcoming_event_1_1.png",
+      "generated_date": "2026-11-22"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "雲仙温泉と冬の霧氷",
-      "area": "長崎県雲仙市・雲仙温泉、雲仙地獄、仁田峠",
-      "date_info": "霧氷の見頃：例年12月〜3月上旬",
-      "post_text": "白い湯けむりが立ちのぼる雲仙温泉へ。冬は仁田峠で霧氷が見られる季節で、温泉街の散策と山上の幻想的な景色を一度に楽しめます。冷えた体は硫黄の湯でゆっくり温めて。#雲仙温泉 #長崎旅行",
-      "source_url": "https://www.discover-nagasaki.com/en/sightseeing/532",
-      "source_title": "Unzen Onsen｜DISCOVER NAGASAKI 公式観光サイト",
+      "title": "白神山地の雪景色と冬の森旅",
+      "area": "青森県西津軽郡深浦町・秋田県山本郡藤里町周辺",
+      "date_info": "冬季旅行におすすめ",
+      "post_text": "深い雪に包まれる冬の白神山地へ。世界自然遺産のブナの森は静けさに満ち、雪景色を眺めながら温泉や郷土料理を楽しむ旅にもぴったりです。冬ならではの白神を訪ねてみませんか。#白神山地 #冬旅",
+      "source_url": "https://www.rinya.maff.go.jp/tohoku/syo/tugarusirakami/gaiyo/sirakami.html",
+      "source_title": "白神山地世界遺産地域及びその周辺部｜東北森林管理局",
       "pexels_queries": [
-        "Unzen Nagasaki winter hoarfrost hot spring Japan"
+        "Shirakami Sanchi Aomori Akita Japan snowy beech forest landscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-21/destination_1_1.png"
+        "generated_media/2026-11-22/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-21/destination_1_1.png"
+          "path": "generated_media/2026-11-22/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-21/destination_1_1.png",
-      "generated_date": "2026-11-21"
+      "image_path": "generated_media/2026-11-22/destination_1_1.png",
+      "generated_date": "2026-11-22"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "第61回 京の冬の旅",
-      "area": "京都府京都市・市内15か所の寺院、神社、文化財など",
-      "date_info": "2027年1月8日（金）〜3月18日（木）",
-      "post_text": "冬の京都で、普段は見られない文化財を訪ねる「第61回 京の冬の旅」。2027年1月8日から、初公開を含む15か所で庭園や建築、仏像などを期間限定公開。静かな古都歩きに出かけませんか。#京の冬の旅 #京都",
-      "source_url": "https://ja.kyoto.travel/specialopening/winter/",
-      "source_title": "第61回 京の冬の旅｜京都市公式 京都観光Navi",
+      "title": "TOKYOBAY Light Wish",
+      "area": "東京都港区・江東区・お台場〜有明臨海副都心",
+      "date_info": "2026年12月10日（木）〜12月31日（木）",
+      "post_text": "お台場から有明まで、冬の夜が光の願いでつながる。TOKYOBAY Light Wishでは、海辺の光演出や高さ約40mの光のツリーが登場します。開催は2026年12月10日〜12月31日。#お台場 #イルミネーション",
+      "source_url": "https://tokyobay-light-wish.metro.tokyo.lg.jp/",
+      "source_title": "TOKYOBAY Light Wish 公式サイト",
       "pexels_queries": [
-        "Kyoto winter temple traditional architecture Japan"
+        "Odaiba Tokyo Japan waterfront winter illumination lights night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-21/upcoming_event_2_1.png"
+        "generated_media/2026-11-22/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-21/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-22/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-21/upcoming_event_2_1.png",
-      "generated_date": "2026-11-21"
+      "image_path": "generated_media/2026-11-22/upcoming_event_2_1.png",
+      "generated_date": "2026-11-22"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "七とこずし",
-      "area": "宮崎県都城市・都城地域の郷土料理店",
-      "date_info": "通年。祝い事や年中行事の料理として伝承",
-      "post_text": "宮崎・都城に伝わる郷土料理「七とこずし」。七つの具材を重ねて仕上げる、祝いの席にも登場する押しずしです。旅先では、その土地の歴史と暮らしが見える一皿を味わいたい。#宮崎グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
-      "source_title": "冬の郷土料理｜農林水産省「うちの郷土料理」",
+      "title": "きりたんぽ鍋",
+      "area": "秋田県大館市・鹿角市周辺",
+      "date_info": "秋田の新米と冬の郷土料理",
+      "post_text": "秋田の冬に食べたい、きりたんぽ鍋。香ばしく焼いたご飯の棒に、比内地鶏のだし、ゴボウ、セリ、ネギの旨みが重なります。発祥の地とされる大館・鹿角で、本場の温かさを味わいたい一品です。#秋田グルメ #きりたんぽ鍋",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_6_akita.html",
+      "source_title": "きりたんぽ鍋 秋田県｜うちの郷土料理｜農林水産省",
       "pexels_queries": [
-        "Nanatokozushi Miyakonojo Miyazaki traditional sushi Japan"
+        "Kiritanpo nabe Odate Akita Japan traditional winter hot pot"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-21/local_food_1_1.png"
+        "generated_media/2026-11-22/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-21/local_food_1_1.png"
+          "path": "generated_media/2026-11-22/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-21/local_food_1_1.png",
-      "generated_date": "2026-11-21"
+      "image_path": "generated_media/2026-11-22/local_food_1_1.png",
+      "generated_date": "2026-11-22"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "四万十川の冬景色と清流さんぽ",
-      "area": "高知県四万十市・四万十川、中村駅周辺、沈下橋",
-      "date_info": "冬季：澄んだ空気と静かな川景色を楽しむ時期",
-      "post_text": "観光客が落ち着く冬の四万十川へ。青い清流、赤い鉄橋、沈下橋がつくる静かな風景は、寒い季節ならではの美しさです。川沿いを歩き、土佐の郷土料理と合わせてゆっくり巡りたい旅先。#四万十川 #高知旅行",
-      "source_url": "https://visitkochijapan.com/zh_TW/topics/1342",
-      "source_title": "高知冬季美雪景｜VISIT KOCHI JAPAN 公式観光サイト",
+      "title": "下田・爪木崎の水仙と冬の海景色",
+      "area": "静岡県下田市・爪木崎、下田温泉周辺",
+      "date_info": "例年12月下旬〜1月の冬旅におすすめ",
+      "post_text": "冬の伊豆でひと足早い春を感じるなら、下田の爪木崎へ。青い海を背景に水仙が咲き広がり、温暖な海辺の景色と温泉を一緒に楽しめます。寒い季節こそ訪れたい、伊豆の花旅です。#下田旅行 #伊豆旅",
+      "source_url": "https://b-izu.com/feature/post-19363/",
+      "source_title": "伊豆半島花暦 冬編｜美伊豆 B-Izu 公式サイト",
       "pexels_queries": [
-        "Shimanto River Kochi winter landscape Japan"
+        "Tsumekizaki Shimoda Shizuoka Japan narcissus flowers ocean winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-21/destination_2_1.png"
+        "generated_media/2026-11-22/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-21/destination_2_1.png"
+          "path": "generated_media/2026-11-22/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-21/destination_2_1.png",
-      "generated_date": "2026-11-21"
+      "image_path": "generated_media/2026-11-22/destination_2_1.png",
+      "generated_date": "2026-11-22"
     }
   ]
 }

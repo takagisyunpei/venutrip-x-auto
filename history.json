@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-16",
-      "category": "event",
-      "title": "あっけし牡蠣まつり",
-      "area": "北海道厚岸郡厚岸町・子野日公園",
-      "source_url": "https://akkeshi.shop/akkeshi-kakimatsuri/"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "destination",
-      "title": "国営ひたち海浜公園のコキア紅葉",
-      "area": "茨城県ひたちなか市・国営ひたち海浜公園みはらしの丘",
-      "source_url": "https://www.hitachikaihin.jp/"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "event",
-      "title": "東京味わいフェスタ2026",
-      "area": "東京都千代田区・丸の内、有楽町、日比谷、江東区・豊洲",
-      "source_url": "https://tasteoftokyo-ajiwaifes.jp/"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "food",
-      "title": "きりたんぽ鍋",
-      "area": "秋田県大館市・鹿角市を中心とする県北地域",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_6_akita.html"
-    },
-    {
-      "date": "2026-10-16",
-      "category": "destination",
-      "title": "栗林公園の秋ライトアップ",
-      "area": "香川県高松市・特別名勝栗林公園",
-      "source_url": "https://www.my-kagawa.jp/news/2369"
-    },
-    {
       "date": "2026-10-17",
       "category": "event",
       "title": "第20回 上田城紅葉まつり",
@@ -1259,6 +1224,41 @@
       "title": "四万十川の冬景色と清流さんぽ",
       "area": "高知県四万十市・四万十川、中村駅周辺、沈下橋",
       "source_url": "https://visitkochijapan.com/zh_TW/topics/1342"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "event",
+      "title": "札幌国際芸術祭2027",
+      "area": "北海道札幌市・札幌市内各会場",
+      "source_url": "https://siaf.jp/2027/about/"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "destination",
+      "title": "白神山地の雪景色と冬の森旅",
+      "area": "青森県西津軽郡深浦町・秋田県山本郡藤里町周辺",
+      "source_url": "https://www.rinya.maff.go.jp/tohoku/syo/tugarusirakami/gaiyo/sirakami.html"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "event",
+      "title": "TOKYOBAY Light Wish",
+      "area": "東京都港区・江東区・お台場〜有明臨海副都心",
+      "source_url": "https://tokyobay-light-wish.metro.tokyo.lg.jp/"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "food",
+      "title": "きりたんぽ鍋",
+      "area": "秋田県大館市・鹿角市周辺",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_6_akita.html"
+    },
+    {
+      "date": "2026-11-22",
+      "category": "destination",
+      "title": "下田・爪木崎の水仙と冬の海景色",
+      "area": "静岡県下田市・爪木崎、下田温泉周辺",
+      "source_url": "https://b-izu.com/feature/post-19363/"
     }
   ]
 }
