@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "札幌国際芸術祭2027",
-      "area": "北海道札幌市・札幌市内各会場",
-      "date_info": "2027年1月16日（土）〜2月21日（日）",
-      "post_text": "雪のまち・札幌が、ひとつの芸術祭に。札幌国際芸術祭2027は「PLANET SNOW」をテーマに、冬の街とアートをめぐる特別な旅を提案します。会期は2027年1月16日〜2月21日。#札幌国際芸術祭 #札幌旅行",
-      "source_url": "https://siaf.jp/2027/about/",
-      "source_title": "札幌国際芸術祭2027｜札幌国際芸術祭 公式サイト",
+      "title": "KOIWAI Winter Lights 銀河農場の夜",
+      "area": "岩手県雫石町・小岩井農場",
+      "date_info": "2026年12月1日〜2027年1月17日",
+      "post_text": "小岩井農場の冬を彩る「KOIWAI Winter Lights 銀河農場の夜」。澄んだ夜空の下、広大な農場が光に包まれます。開催は2026年12月1日〜2027年1月17日。冬の雫石で幻想的な夜を楽しんで。#岩手旅行 #イルミネーション",
+      "source_url": "https://iwatetabi.jp/events/?month=2026-12",
+      "source_title": "イベント｜岩手県公式観光サイト「いわての旅」",
       "pexels_queries": [
-        "Sapporo Hokkaido Japan winter city snow art festival"
+        "Koiwai Farm Shizukuishi Iwate Japan winter illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-22/upcoming_event_1_1.png"
+        "generated_media/2026-11-23/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-22/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-23/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-22/upcoming_event_1_1.png",
-      "generated_date": "2026-11-22"
+      "image_path": "generated_media/2026-11-23/upcoming_event_1_1.png",
+      "generated_date": "2026-11-23"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "白神山地の雪景色と冬の森旅",
-      "area": "青森県西津軽郡深浦町・秋田県山本郡藤里町周辺",
-      "date_info": "冬季旅行におすすめ",
-      "post_text": "深い雪に包まれる冬の白神山地へ。世界自然遺産のブナの森は静けさに満ち、雪景色を眺めながら温泉や郷土料理を楽しむ旅にもぴったりです。冬ならではの白神を訪ねてみませんか。#白神山地 #冬旅",
-      "source_url": "https://www.rinya.maff.go.jp/tohoku/syo/tugarusirakami/gaiyo/sirakami.html",
-      "source_title": "白神山地世界遺産地域及びその周辺部｜東北森林管理局",
+      "title": "森吉山の樹氷と阿仁ゴンドラ",
+      "area": "秋田県北秋田市・森吉山阿仁スキー場",
+      "date_info": "樹氷の見頃：1月上旬〜3月上旬",
+      "post_text": "冬の森吉山は、巨大な樹氷が連なる“スノーモンスター”の世界。阿仁ゴンドラで山頂近くまで上がれるので、雪山初心者も絶景に出会えます。見頃は1月上旬〜3月上旬。防寒と冬道の準備を忘れずに。#秋田旅行 #樹氷",
+      "source_url": "https://visitakita.com/tourist-guide/guide03/",
+      "source_title": "日本三大樹氷｜秋田犬ツーリズム",
       "pexels_queries": [
-        "Shirakami Sanchi Aomori Akita Japan snowy beech forest landscape"
+        "Mount Moriyoshi snow monsters Kitaakita Akita Japan"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-22/destination_1_1.png"
+        "generated_media/2026-11-23/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-22/destination_1_1.png"
+          "path": "generated_media/2026-11-23/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-22/destination_1_1.png",
-      "generated_date": "2026-11-22"
+      "image_path": "generated_media/2026-11-23/destination_1_1.png",
+      "generated_date": "2026-11-23"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "TOKYOBAY Light Wish",
-      "area": "東京都港区・江東区・お台場〜有明臨海副都心",
-      "date_info": "2026年12月10日（木）〜12月31日（木）",
-      "post_text": "お台場から有明まで、冬の夜が光の願いでつながる。TOKYOBAY Light Wishでは、海辺の光演出や高さ約40mの光のツリーが登場します。開催は2026年12月10日〜12月31日。#お台場 #イルミネーション",
-      "source_url": "https://tokyobay-light-wish.metro.tokyo.lg.jp/",
-      "source_title": "TOKYOBAY Light Wish 公式サイト",
+      "title": "うみなかキャンドルナイト2026",
+      "area": "福岡県福岡市・海の中道海浜公園",
+      "date_info": "2026年12月12・13日、19・20日、24・25日",
+      "post_text": "海の中道が約1万本のキャンドルアートで彩られる「うみなかキャンドルナイト2026」。開催は2026年12月12・13日、19・20日、24・25日。福岡の冬の夜、揺れる灯りの中をゆっくり歩いてみませんか。#福岡旅行 #冬イベント",
+      "source_url": "https://www.crossroadfukuoka.jp/event",
+      "source_title": "イベント｜クロスロードふくおか",
       "pexels_queries": [
-        "Odaiba Tokyo Japan waterfront winter illumination lights night"
+        "Uminonakamichi Seaside Park Fukuoka Japan candle night"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-22/upcoming_event_2_1.png"
+        "generated_media/2026-11-23/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-22/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-23/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-22/upcoming_event_2_1.png",
-      "generated_date": "2026-11-22"
+      "image_path": "generated_media/2026-11-23/upcoming_event_2_1.png",
+      "generated_date": "2026-11-23"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "きりたんぽ鍋",
-      "area": "秋田県大館市・鹿角市周辺",
-      "date_info": "秋田の新米と冬の郷土料理",
-      "post_text": "秋田の冬に食べたい、きりたんぽ鍋。香ばしく焼いたご飯の棒に、比内地鶏のだし、ゴボウ、セリ、ネギの旨みが重なります。発祥の地とされる大館・鹿角で、本場の温かさを味わいたい一品です。#秋田グルメ #きりたんぽ鍋",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/29_6_akita.html",
-      "source_title": "きりたんぽ鍋 秋田県｜うちの郷土料理｜農林水産省",
+      "title": "しっぽくうどん",
+      "area": "香川県・讃岐地方",
+      "date_info": "秋冬が旬",
+      "post_text": "香川の冬に食べたい郷土料理、しっぽくうどん。大根やにんじん、油揚げなどを煮干しだしで煮込み、うどんにたっぷりかけます。野菜の甘みとだしのうまみが体に染みる、讃岐ならではの一杯です。#香川グルメ #讃岐うどん",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html",
+      "source_title": "しっぽくうどん 香川県｜農林水産省「うちの郷土料理」",
       "pexels_queries": [
-        "Kiritanpo nabe Odate Akita Japan traditional winter hot pot"
+        "Shippoku udon Kagawa Japan winter regional food"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-22/local_food_1_1.png"
+        "generated_media/2026-11-23/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-22/local_food_1_1.png"
+          "path": "generated_media/2026-11-23/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-22/local_food_1_1.png",
-      "generated_date": "2026-11-22"
+      "image_path": "generated_media/2026-11-23/local_food_1_1.png",
+      "generated_date": "2026-11-23"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "下田・爪木崎の水仙と冬の海景色",
-      "area": "静岡県下田市・爪木崎、下田温泉周辺",
-      "date_info": "例年12月下旬〜1月の冬旅におすすめ",
-      "post_text": "冬の伊豆でひと足早い春を感じるなら、下田の爪木崎へ。青い海を背景に水仙が咲き広がり、温暖な海辺の景色と温泉を一緒に楽しめます。寒い季節こそ訪れたい、伊豆の花旅です。#下田旅行 #伊豆旅",
-      "source_url": "https://b-izu.com/feature/post-19363/",
-      "source_title": "伊豆半島花暦 冬編｜美伊豆 B-Izu 公式サイト",
+      "title": "松本城と冬の城下町さんぽ",
+      "area": "長野県松本市・松本城、縄手通り、中町通り",
+      "date_info": "2026年12月〜2027年2月",
+      "post_text": "雪をまとった北アルプスを背景に、松本城と城下町を歩く冬旅へ。冷えた体は、信州そばや山賊焼き、とうじそばで温めるのがおすすめです。朝夕の凛とした空気の中、歴史ある町並みをゆっくり巡って。#松本旅行 #長野旅行",
+      "source_url": "https://visitmatsumoto.com/article/gourmet",
+      "source_title": "松本で食べたいご当地グルメ｜松本市公式観光サイト",
       "pexels_queries": [
-        "Tsumekizaki Shimoda Shizuoka Japan narcissus flowers ocean winter"
+        "Matsumoto Castle winter Nagano Japan snow townscape"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-22/destination_2_1.png"
+        "generated_media/2026-11-23/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-22/destination_2_1.png"
+          "path": "generated_media/2026-11-23/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-22/destination_2_1.png",
-      "generated_date": "2026-11-22"
+      "image_path": "generated_media/2026-11-23/destination_2_1.png",
+      "generated_date": "2026-11-23"
     }
   ]
 }

@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-17",
-      "category": "event",
-      "title": "第20回 上田城紅葉まつり",
-      "area": "長野県上田市・上田城跡公園",
-      "source_url": "https://ueda-kanko.or.jp/special/kouyoumatsuri2026/"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "destination",
-      "title": "久慈渓流の紅葉ドライブ",
-      "area": "岩手県久慈市・久慈渓流",
-      "source_url": "https://iwatetabi.jp/spots/5219/"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "event",
-      "title": "唐津くんち",
-      "area": "佐賀県唐津市・唐津神社、唐津市街地",
-      "source_url": "https://www.city.karatsu.lg.jp/page/4344.html"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "food",
-      "title": "日生カキオコ",
-      "area": "岡山県備前市日生町",
-      "source_url": "https://www.okayama-kanko.jp/spot/detail_11077.html"
-    },
-    {
-      "date": "2026-10-17",
-      "category": "destination",
-      "title": "面河渓の紅葉と渓谷散策",
-      "area": "愛媛県上浮穴郡久万高原町・面河渓",
-      "source_url": "https://www.iyokannet.jp/spot/414"
-    },
-    {
       "date": "2026-10-18",
       "category": "event",
       "title": "長瀞紅葉まつり2026",
@@ -1259,6 +1224,41 @@
       "title": "下田・爪木崎の水仙と冬の海景色",
       "area": "静岡県下田市・爪木崎、下田温泉周辺",
       "source_url": "https://b-izu.com/feature/post-19363/"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "event",
+      "title": "KOIWAI Winter Lights 銀河農場の夜",
+      "area": "岩手県雫石町・小岩井農場",
+      "source_url": "https://iwatetabi.jp/events/?month=2026-12"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "destination",
+      "title": "森吉山の樹氷と阿仁ゴンドラ",
+      "area": "秋田県北秋田市・森吉山阿仁スキー場",
+      "source_url": "https://visitakita.com/tourist-guide/guide03/"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "event",
+      "title": "うみなかキャンドルナイト2026",
+      "area": "福岡県福岡市・海の中道海浜公園",
+      "source_url": "https://www.crossroadfukuoka.jp/event"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "food",
+      "title": "しっぽくうどん",
+      "area": "香川県・讃岐地方",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html"
+    },
+    {
+      "date": "2026-11-23",
+      "category": "destination",
+      "title": "松本城と冬の城下町さんぽ",
+      "area": "長野県松本市・松本城、縄手通り、中町通り",
+      "source_url": "https://visitmatsumoto.com/article/gourmet"
     }
   ]
 }
