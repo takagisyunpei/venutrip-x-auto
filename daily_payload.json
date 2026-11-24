@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "KOIWAI Winter Lights 銀河農場の夜",
-      "area": "岩手県雫石町・小岩井農場",
-      "date_info": "2026年12月1日〜2027年1月17日",
-      "post_text": "小岩井農場の冬を彩る「KOIWAI Winter Lights 銀河農場の夜」。澄んだ夜空の下、広大な農場が光に包まれます。開催は2026年12月1日〜2027年1月17日。冬の雫石で幻想的な夜を楽しんで。#岩手旅行 #イルミネーション",
-      "source_url": "https://iwatetabi.jp/events/?month=2026-12",
-      "source_title": "イベント｜岩手県公式観光サイト「いわての旅」",
+      "title": "DENPARK Winter Festival 2026-27",
+      "area": "愛知県安城市・安城産業文化公園デンパーク",
+      "date_info": "2026年11月21日（土）〜2027年1月11日（月・祝）",
+      "post_text": "花と光に包まれる冬のデンパークへ。イルミネーションやフォトスポット、冬限定の催しを楽しめる「DENPARK Winter Festival 2026-27」が開催中です。期間は2026年11月21日〜2027年1月11日。#愛知旅行 #イルミネーション",
+      "source_url": "https://aichinow.pref.aichi.jp/show/data/event_contents/1845/5295/374748/",
+      "source_title": "DENPARK Winter Festival 2026-27｜Aichi Now",
       "pexels_queries": [
-        "Koiwai Farm Shizukuishi Iwate Japan winter illumination"
+        "Anjo Aichi Japan winter illumination park"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-23/upcoming_event_1_1.png"
+        "generated_media/2026-11-24/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-23/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-24/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-23/upcoming_event_1_1.png",
-      "generated_date": "2026-11-23"
+      "image_path": "generated_media/2026-11-24/upcoming_event_1_1.png",
+      "generated_date": "2026-11-24"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "森吉山の樹氷と阿仁ゴンドラ",
-      "area": "秋田県北秋田市・森吉山阿仁スキー場",
-      "date_info": "樹氷の見頃：1月上旬〜3月上旬",
-      "post_text": "冬の森吉山は、巨大な樹氷が連なる“スノーモンスター”の世界。阿仁ゴンドラで山頂近くまで上がれるので、雪山初心者も絶景に出会えます。見頃は1月上旬〜3月上旬。防寒と冬道の準備を忘れずに。#秋田旅行 #樹氷",
-      "source_url": "https://visitakita.com/tourist-guide/guide03/",
-      "source_title": "日本三大樹氷｜秋田犬ツーリズム",
+      "title": "蔵王の樹氷と雪見温泉",
+      "area": "山形県山形市・蔵王温泉、蔵王ロープウェイ",
+      "date_info": "樹氷の見頃は例年12月下旬〜2月下旬頃",
+      "post_text": "冬の蔵王でしか出会えない、巨大な“スノーモンスター”。蔵王ロープウェイで樹氷原を眺めた後は、白濁の温泉でひと休み。雪景色と温泉を一度に楽しむ冬旅におすすめです。#山形旅行 #蔵王",
+      "source_url": "https://yamagatakanko.com/attractions/detail_2721.html",
+      "source_title": "蔵王の樹氷｜やまがたへの旅",
       "pexels_queries": [
-        "Mount Moriyoshi snow monsters Kitaakita Akita Japan"
+        "Zao Yamagata Japan snow monsters winter ropeway"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-23/destination_1_1.png"
+        "generated_media/2026-11-24/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-23/destination_1_1.png"
+          "path": "generated_media/2026-11-24/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-23/destination_1_1.png",
-      "generated_date": "2026-11-23"
+      "image_path": "generated_media/2026-11-24/destination_1_1.png",
+      "generated_date": "2026-11-24"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "うみなかキャンドルナイト2026",
-      "area": "福岡県福岡市・海の中道海浜公園",
-      "date_info": "2026年12月12・13日、19・20日、24・25日",
-      "post_text": "海の中道が約1万本のキャンドルアートで彩られる「うみなかキャンドルナイト2026」。開催は2026年12月12・13日、19・20日、24・25日。福岡の冬の夜、揺れる灯りの中をゆっくり歩いてみませんか。#福岡旅行 #冬イベント",
-      "source_url": "https://www.crossroadfukuoka.jp/event",
-      "source_title": "イベント｜クロスロードふくおか",
+      "title": "十日市",
+      "area": "福島県会津若松市・神明通り、大町通り、市役所通りなど中心市街地",
+      "date_info": "2027年1月10日（日）8:00〜20:00",
+      "post_text": "400年以上続く会津最大の初市「十日市」。約400店が並ぶ通りで、起き上がり小法師や初音、風車などの縁起物を探せます。2027年1月10日、会津若松の新春風景に会いに行きませんか。#福島旅行 #会津若松",
+      "source_url": "https://www.aizukanko.com/event/115",
+      "source_title": "十日市｜会津若松観光ナビ",
       "pexels_queries": [
-        "Uminonakamichi Seaside Park Fukuoka Japan candle night"
+        "Aizuwakamatsu Fukushima Japan traditional market winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-23/upcoming_event_2_1.png"
+        "generated_media/2026-11-24/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-23/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-24/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-23/upcoming_event_2_1.png",
-      "generated_date": "2026-11-23"
+      "image_path": "generated_media/2026-11-24/upcoming_event_2_1.png",
+      "generated_date": "2026-11-24"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "しっぽくうどん",
-      "area": "香川県・讃岐地方",
-      "date_info": "秋冬が旬",
-      "post_text": "香川の冬に食べたい郷土料理、しっぽくうどん。大根やにんじん、油揚げなどを煮干しだしで煮込み、うどんにたっぷりかけます。野菜の甘みとだしのうまみが体に染みる、讃岐ならではの一杯です。#香川グルメ #讃岐うどん",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/sippoku_udon_kagawa.html",
-      "source_title": "しっぽくうどん 香川県｜農林水産省「うちの郷土料理」",
+      "title": "いりやき",
+      "area": "長崎県対馬市・対馬の郷土料理店",
+      "date_info": "冬に食べたい対馬の郷土鍋",
+      "post_text": "対馬の冬旅で味わいたい「いりやき」。魚や鶏肉、季節の野菜を、あごだしなどの風味豊かな汁で煮込む郷土鍋です。島の食文化を感じる、体の芯から温まる一杯をぜひ。#長崎グルメ #対馬",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
+      "source_title": "うちの郷土料理・冬｜農林水産省",
       "pexels_queries": [
-        "Shippoku udon Kagawa Japan winter regional food"
+        "Tsushima Nagasaki Japan traditional hot pot iriyaki"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-23/local_food_1_1.png"
+        "generated_media/2026-11-24/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-23/local_food_1_1.png"
+          "path": "generated_media/2026-11-24/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-23/local_food_1_1.png",
-      "generated_date": "2026-11-23"
+      "image_path": "generated_media/2026-11-24/local_food_1_1.png",
+      "generated_date": "2026-11-24"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "松本城と冬の城下町さんぽ",
-      "area": "長野県松本市・松本城、縄手通り、中町通り",
-      "date_info": "2026年12月〜2027年2月",
-      "post_text": "雪をまとった北アルプスを背景に、松本城と城下町を歩く冬旅へ。冷えた体は、信州そばや山賊焼き、とうじそばで温めるのがおすすめです。朝夕の凛とした空気の中、歴史ある町並みをゆっくり巡って。#松本旅行 #長野旅行",
-      "source_url": "https://visitmatsumoto.com/article/gourmet",
-      "source_title": "松本で食べたいご当地グルメ｜松本市公式観光サイト",
+      "title": "串本・由良の水仙と冬の海景色",
+      "area": "和歌山県東牟婁郡串本町・日高郡由良町",
+      "date_info": "例年冬季に見頃",
+      "post_text": "冬の和歌山は、青い海と白い水仙のコントラストが見頃。串本の潮岬や樫野埼灯台、由良の白崎海岸をめぐれば、温暖な紀伊半島ならではの海景色に出会えます。#和歌山旅行 #冬旅",
+      "source_url": "https://visitwakayama.jp/en/events/detail_61.html",
+      "source_title": "Daffodils (Kushimoto & Yura)｜Visit Wakayama",
       "pexels_queries": [
-        "Matsumoto Castle winter Nagano Japan snow townscape"
+        "Kushimoto Wakayama Japan daffodils coast winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-23/destination_2_1.png"
+        "generated_media/2026-11-24/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-23/destination_2_1.png"
+          "path": "generated_media/2026-11-24/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-23/destination_2_1.png",
-      "generated_date": "2026-11-23"
+      "image_path": "generated_media/2026-11-24/destination_2_1.png",
+      "generated_date": "2026-11-24"
     }
   ]
 }

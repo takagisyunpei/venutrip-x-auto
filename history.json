@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-18",
-      "category": "event",
-      "title": "長瀞紅葉まつり2026",
-      "area": "埼玉県秩父郡長瀞町・月の石もみじ公園、寶登山神社周辺",
-      "source_url": "https://www.nagatoro.gr.jp/kouyo2026/"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "destination",
-      "title": "刈込池の紅葉",
-      "area": "福井県大野市・刈込池",
-      "source_url": "https://www.japan47go.travel/ja/featured/autumn-leaves"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "event",
-      "title": "more TOHOKU マルシェ",
-      "area": "宮城県仙台市・仙台市中心部",
-      "source_url": "https://www.sentabi.jp/?post_type=event"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "food",
-      "title": "中津川栗きんとん",
-      "area": "岐阜県中津川市・東濃地域",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/38_17_gifu.html"
-    },
-    {
-      "date": "2026-10-18",
-      "category": "destination",
-      "title": "芦ノ湖と箱根の秋景色",
-      "area": "神奈川県足柄下郡箱根町・芦ノ湖、箱根離宮跡地周辺",
-      "source_url": "https://japan-heritage.bunka.go.jp/ja/lp/autumn/"
-    },
-    {
       "date": "2026-10-19",
       "category": "event",
       "title": "2026さっぽろホワイトイルミネーション",
@@ -1259,6 +1224,41 @@
       "title": "松本城と冬の城下町さんぽ",
       "area": "長野県松本市・松本城、縄手通り、中町通り",
       "source_url": "https://visitmatsumoto.com/article/gourmet"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "event",
+      "title": "DENPARK Winter Festival 2026-27",
+      "area": "愛知県安城市・安城産業文化公園デンパーク",
+      "source_url": "https://aichinow.pref.aichi.jp/show/data/event_contents/1845/5295/374748/"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "destination",
+      "title": "蔵王の樹氷と雪見温泉",
+      "area": "山形県山形市・蔵王温泉、蔵王ロープウェイ",
+      "source_url": "https://yamagatakanko.com/attractions/detail_2721.html"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "event",
+      "title": "十日市",
+      "area": "福島県会津若松市・神明通り、大町通り、市役所通りなど中心市街地",
+      "source_url": "https://www.aizukanko.com/event/115"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "food",
+      "title": "いりやき",
+      "area": "長崎県対馬市・対馬の郷土料理店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-24",
+      "category": "destination",
+      "title": "串本・由良の水仙と冬の海景色",
+      "area": "和歌山県東牟婁郡串本町・日高郡由良町",
+      "source_url": "https://visitwakayama.jp/en/events/detail_61.html"
     }
   ]
 }
