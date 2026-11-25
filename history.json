@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-19",
-      "category": "event",
-      "title": "2026さっぽろホワイトイルミネーション",
-      "area": "北海道札幌市・大通公園、駅前通会場ほか",
-      "source_url": "https://www.sapporo.travel/white-illumination/"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "destination",
-      "title": "大山の紅葉とブナの森ドライブ",
-      "area": "鳥取県西伯郡大山町・大山寺、鍵掛峠、豪円山周辺",
-      "source_url": "https://tourismdaisen.com/feature/autumn/"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "event",
-      "title": "胡子大祭",
-      "area": "広島県広島市中区・胡子神社、えびす通り商店街周辺",
-      "source_url": "https://www.city.hiroshima.lg.jp/faq/tourism-culture/1001621/1028191/1006395.html"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "food",
-      "title": "しっぽくうどん",
-      "area": "香川県高松市・讃岐うどん店各店",
-      "source_url": "https://www.maff.go.jp/j/keikaku/shokubunka/k_ryouri/search_menu/menu/shipok_udon_kagawa.html"
-    },
-    {
-      "date": "2026-10-19",
-      "category": "destination",
-      "title": "大内宿の茅葺き街道と秋の山里",
-      "area": "福島県南会津郡下郷町・大内宿",
-      "source_url": "https://japan-heritage.bunka.go.jp/ja/lp/autumn/"
-    },
-    {
       "date": "2026-10-20",
       "category": "event",
       "title": "沖縄こどもの国 秋の感謝祭2026",
@@ -1259,6 +1224,41 @@
       "title": "串本・由良の水仙と冬の海景色",
       "area": "和歌山県東牟婁郡串本町・日高郡由良町",
       "source_url": "https://visitwakayama.jp/en/events/detail_61.html"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "event",
+      "title": "2026 SENDAI光のページェント",
+      "area": "宮城県仙台市・定禅寺通",
+      "source_url": "https://sendaihikape.jp/event/"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "destination",
+      "title": "雪化粧の鳥取砂丘と冬の日本海",
+      "area": "鳥取県鳥取市・鳥取砂丘",
+      "source_url": "https://www.tottori-tour.jp/en/about-tottori/"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "event",
+      "title": "島原ウィンターナイトファンタジア2026",
+      "area": "長崎県島原市・中央公園、アーケード街など",
+      "source_url": "https://www.shimakanren.com/event/detail_10140.html"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "food",
+      "title": "鯨汁",
+      "area": "北海道道南地域・函館市などの郷土料理店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-25",
+      "category": "destination",
+      "title": "祖谷渓谷と雪のかずら橋",
+      "area": "徳島県三好市・祖谷渓谷、祖谷のかずら橋",
+      "source_url": "https://miyoshi-tourism.jp/gallery_cg/winter/"
     }
   ]
 }
