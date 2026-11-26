@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-20",
-      "category": "event",
-      "title": "沖縄こどもの国 秋の感謝祭2026",
-      "area": "沖縄県沖縄市・沖縄こどもの国",
-      "source_url": "https://www.okzm.jp/event/5373/"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "destination",
-      "title": "平泉・中尊寺の紅葉と秋の世界遺産めぐり",
-      "area": "岩手県西磐井郡平泉町・中尊寺、毛越寺周辺",
-      "source_url": "https://www.pref.iwate.jp/event/moyooshi/1077803.html"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "event",
-      "title": "第27回 成田山公園紅葉まつり",
-      "area": "千葉県成田市・成田山新勝寺 成田山公園",
-      "source_url": "https://www.nrtk.jp/enjoy/shikisaisai/autumn-festival.html"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "food",
-      "title": "佐渡のおけさ柿",
-      "area": "新潟県佐渡市・新潟県内各地",
-      "source_url": "https://niigata-kankou.or.jp/feature/okesagaki/"
-    },
-    {
-      "date": "2026-10-20",
-      "category": "destination",
-      "title": "東京・奥多摩の紅葉と渓谷ハイキング",
-      "area": "東京都西多摩郡奥多摩町・奥多摩湖、鳩ノ巣渓谷周辺",
-      "source_url": "https://www.gotokyo.org/jp/story/guide/autumn-leaves-forecast/index.html"
-    },
-    {
       "date": "2026-10-21",
       "category": "event",
       "title": "ACN presents 代々木フォレスト・オブ・ライツ～光の森～",
@@ -1259,6 +1224,41 @@
       "title": "祖谷渓谷と雪のかずら橋",
       "area": "徳島県三好市・祖谷渓谷、祖谷のかずら橋",
       "source_url": "https://miyoshi-tourism.jp/gallery_cg/winter/"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "event",
+      "title": "京都 日本画新展 2027",
+      "area": "京都府京都市・京都駅周辺",
+      "source_url": "https://ja.kyoto.travel/specialopening/winter/campaignevent.php"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "destination",
+      "title": "白川郷の雪景色と合掌造り集落",
+      "area": "岐阜県大野郡白川村・白川郷",
+      "source_url": "https://shirakawa-go.gr.jp/highlights/"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "event",
+      "title": "酒処 鍋小屋 2027 supported by ダイショー",
+      "area": "神奈川県横浜市・横浜赤レンガ倉庫イベント広場",
+      "source_url": "https://www.welcome.city.yokohama.jp/eventinfo/"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "food",
+      "title": "まんばのけんちゃん",
+      "area": "香川県・讃岐地方の郷土料理店、食堂",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/manbano_kenchan_kagawa.html"
+    },
+    {
+      "date": "2026-11-26",
+      "category": "destination",
+      "title": "三十槌の氷柱と奥秩父の冬景色",
+      "area": "埼玉県秩父市大滝・三十槌の氷柱",
+      "source_url": "https://icicles.woodroof.jp/guide/"
     }
   ]
 }

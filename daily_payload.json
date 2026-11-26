@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "2026 SENDAI光のページェント",
-      "area": "宮城県仙台市・定禅寺通",
-      "date_info": "2026年12月4日（金）〜12月27日（日）",
-      "post_text": "仙台の冬を彩る「SENDAI光のページェント」。定禅寺通のケヤキ並木が、きらめく光のトンネルに変わります。開催は2026年12月4日〜12月27日。夜の街歩きへ。#仙台 #イルミネーション",
-      "source_url": "https://sendaihikape.jp/event/",
-      "source_title": "イベント | 2026 SENDAI光のページェント",
+      "title": "京都 日本画新展 2027",
+      "area": "京都府京都市・京都駅周辺",
+      "date_info": "2027年1月29日（金）〜2月7日（日）",
+      "post_text": "京都駅周辺で「京都 日本画新展 2027」を開催。新進作家からベテランまで、京都ゆかりの日本画家による作品を一堂に楽しめます。冬の京都で、静かに美術館めぐりを楽しむ一日を。#京都 #日本画",
+      "source_url": "https://ja.kyoto.travel/specialopening/winter/campaignevent.php",
+      "source_title": "第61回 京の冬の旅｜キャンペーンイベント｜京都市公式 京都観光Navi",
       "pexels_queries": [
-        "SENDAI Jozenji-dori Sendai Miyagi Japan winter illumination street"
+        "Kyoto Japan Japanese painting exhibition gallery interior"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-25/upcoming_event_1_1.png"
+        "generated_media/2026-11-26/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-25/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-26/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-25/upcoming_event_1_1.png",
-      "generated_date": "2026-11-25"
+      "image_path": "generated_media/2026-11-26/upcoming_event_1_1.png",
+      "generated_date": "2026-11-26"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "雪化粧の鳥取砂丘と冬の日本海",
-      "area": "鳥取県鳥取市・鳥取砂丘",
-      "date_info": "12月下旬〜2月ごろ",
-      "post_text": "冬の鳥取砂丘は、風紋の向こうに雪が重なる別世界。夏とは違う静けさのなか、白い砂丘と荒々しい日本海を歩けます。冷えた体には、松葉がにや温泉を合わせる旅もおすすめです。",
-      "source_url": "https://www.tottori-tour.jp/en/about-tottori/",
-      "source_title": "Tottori Sand Dunes - A Complete Guide To Japan's Unique Sand Dunes",
+      "title": "白川郷の雪景色と合掌造り集落",
+      "area": "岐阜県大野郡白川村・白川郷",
+      "date_info": "冬季・特に12月〜2月",
+      "post_text": "雪に包まれた合掌造りの家々が並ぶ、冬の白川郷へ。展望台から集落を見渡し、雪国ならではの暮らしと静かな景色に出会えます。防寒と足元の準備をして、幻想的な冬旅を。#白川郷 #岐阜旅行",
+      "source_url": "https://shirakawa-go.gr.jp/highlights/",
+      "source_title": "3分でわかる白川郷｜白川郷観光協会公式サイト",
       "pexels_queries": [
-        "Tottori Sand Dunes Tottori Japan winter snow landscape"
+        "Shirakawa-go Gifu Japan snowy traditional village"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-25/destination_1_1.png"
+        "generated_media/2026-11-26/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-25/destination_1_1.png"
+          "path": "generated_media/2026-11-26/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-25/destination_1_1.png",
-      "generated_date": "2026-11-25"
+      "image_path": "generated_media/2026-11-26/destination_1_1.png",
+      "generated_date": "2026-11-26"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "島原ウィンターナイトファンタジア2026",
-      "area": "長崎県島原市・中央公園、アーケード街など",
-      "date_info": "2026年12月7日（月）〜2027年1月9日（土）",
-      "post_text": "島原の冬を彩る「島原ウィンターナイトファンタジア2026」。中央公園やアーケード街が約20万球の光に包まれます。開催期間は2026年12月7日〜2027年1月9日。温泉街とあわせて夜さんぽを。#島原 #長崎旅行",
-      "source_url": "https://www.shimakanren.com/event/detail_10140.html",
-      "source_title": "島原ウィンターナイトファンタジア｜イベント｜島原半島公式観光サイト",
+      "title": "酒処 鍋小屋 2027 supported by ダイショー",
+      "area": "神奈川県横浜市・横浜赤レンガ倉庫イベント広場",
+      "date_info": "2027年1月16日（土）〜1月31日（日）",
+      "post_text": "横浜赤レンガ倉庫に、冬の恒例イベント「鍋小屋 2027」が登場。全国各地の鍋料理とお酒を、港の雰囲気とともに味わえます。寒い季節こそ、熱々のご当地鍋を目当てに横浜へ。#横浜赤レンガ倉庫 #鍋小屋",
+      "source_url": "https://www.welcome.city.yokohama.jp/eventinfo/",
+      "source_title": "全てのイベント｜公式 横浜市観光情報サイト",
       "pexels_queries": [
-        "Shimabara Nagasaki Japan winter illumination park night"
+        "Yokohama Red Brick Warehouse Japan winter hot pot festival"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-25/upcoming_event_2_1.png"
+        "generated_media/2026-11-26/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-25/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-26/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-25/upcoming_event_2_1.png",
-      "generated_date": "2026-11-25"
+      "image_path": "generated_media/2026-11-26/upcoming_event_2_1.png",
+      "generated_date": "2026-11-26"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "鯨汁",
-      "area": "北海道道南地域・函館市などの郷土料理店",
-      "date_info": "冬〜正月ごろ",
-      "post_text": "道南の冬に味わいたい郷土料理、鯨汁。塩漬けの鯨肉と野菜を煮込んだ、体の芯から温まる一杯です。函館の街歩きや温泉旅の昼食に、土地の歴史を感じる味をどうぞ。#函館 #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
-      "source_title": "冬 | うちの郷土料理：農林水産省",
+      "title": "まんばのけんちゃん",
+      "area": "香川県・讃岐地方の郷土料理店、食堂",
+      "date_info": "冬が旬・10月〜4月",
+      "post_text": "香川の冬に食べたい郷土料理、まんばのけんちゃん。旬の高菜「まんば」を豆腐や油揚げと煮た、素朴で滋味深い一皿です。うどんだけではない、讃岐の家庭の味を旅先で探してみて。#香川グルメ #郷土料理",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/manbano_kenchan_kagawa.html",
+      "source_title": "まんばのけんちゃん 香川県｜農林水産省 うちの郷土料理",
       "pexels_queries": [
-        "whale soup traditional dish Hakodate Hokkaido Japan winter"
+        "Kagawa Japan Manba no Kenchan local home-style dish tofu mustard greens"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-25/local_food_1_1.png"
+        "generated_media/2026-11-26/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-25/local_food_1_1.png"
+          "path": "generated_media/2026-11-26/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-25/local_food_1_1.png",
-      "generated_date": "2026-11-25"
+      "image_path": "generated_media/2026-11-26/local_food_1_1.png",
+      "generated_date": "2026-11-26"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "祖谷渓谷と雪のかずら橋",
-      "area": "徳島県三好市・祖谷渓谷、祖谷のかずら橋",
-      "date_info": "12月〜2月ごろ",
-      "post_text": "深い山々に囲まれた祖谷は、冬にこそ秘境らしさが際立つ場所。雪をまとった渓谷やかずら橋を眺め、囲炉裏のある宿で静かな時間を過ごせます。冬の祖谷そばも旅の楽しみです。",
-      "source_url": "https://miyoshi-tourism.jp/gallery_cg/winter/",
-      "source_title": "冬の写真ギャラリー｜大歩危祖谷ナビ",
+      "title": "三十槌の氷柱と奥秩父の冬景色",
+      "area": "埼玉県秩父市大滝・三十槌の氷柱",
+      "date_info": "冬季・例年1月上旬〜2月下旬",
+      "post_text": "奥秩父の厳しい寒さが生み出す、三十槌の氷柱へ。岩肌から垂れ下がる巨大な氷の造形は、冬だけ出会える自然のアートです。昼の青白い景色と、夜のライトアップを訪ねる小さな旅に。#秩父 #冬旅",
+      "source_url": "https://icicles.woodroof.jp/guide/",
+      "source_title": "ご案内｜秩父 三十槌の氷柱",
       "pexels_queries": [
-        "Iya Valley Kazura Bridge Miyoshi Tokushima Japan winter snow"
+        "Misotsuchi Icicles Chichibu Saitama Japan winter ice formations"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-25/destination_2_1.png"
+        "generated_media/2026-11-26/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-25/destination_2_1.png"
+          "path": "generated_media/2026-11-26/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-25/destination_2_1.png",
-      "generated_date": "2026-11-25"
+      "image_path": "generated_media/2026-11-26/destination_2_1.png",
+      "generated_date": "2026-11-26"
     }
   ]
 }
