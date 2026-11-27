@@ -1,130 +1,130 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "items": [
     {
       "slot": "upcoming_event_1",
       "category": "event",
-      "title": "京都 日本画新展 2027",
-      "area": "京都府京都市・京都駅周辺",
-      "date_info": "2027年1月29日（金）〜2月7日（日）",
-      "post_text": "京都駅周辺で「京都 日本画新展 2027」を開催。新進作家からベテランまで、京都ゆかりの日本画家による作品を一堂に楽しめます。冬の京都で、静かに美術館めぐりを楽しむ一日を。#京都 #日本画",
-      "source_url": "https://ja.kyoto.travel/specialopening/winter/campaignevent.php",
-      "source_title": "第61回 京の冬の旅｜キャンペーンイベント｜京都市公式 京都観光Navi",
+      "title": "春日若宮おん祭",
+      "area": "奈良県奈良市・春日大社、大宿所、奈良公園周辺",
+      "date_info": "2026年12月15日（火）〜12月18日（金）※お渡り式は12月17日（木）",
+      "post_text": "奈良の一年を締めくくる伝統行事、春日若宮おん祭。時代行列や神事が古都を彩ります。冬の奈良で、長く受け継がれてきた祈りの風景に出会ってみませんか。#奈良旅 #伝統行事",
+      "source_url": "https://narashikanko.or.jp/event/index.php?id=148&m=d",
+      "source_title": "行事・イベント一覧｜奈良市観光協会公式サイト",
       "pexels_queries": [
-        "Kyoto Japan Japanese painting exhibition gallery interior"
+        "Kasuga Wakamiya On祭 Nara Japan traditional procession winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-26/upcoming_event_1_1.png"
+        "generated_media/2026-11-27/upcoming_event_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-26/upcoming_event_1_1.png"
+          "path": "generated_media/2026-11-27/upcoming_event_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-26/upcoming_event_1_1.png",
-      "generated_date": "2026-11-26"
+      "image_path": "generated_media/2026-11-27/upcoming_event_1_1.png",
+      "generated_date": "2026-11-27"
     },
     {
       "slot": "destination_1",
       "category": "destination",
-      "title": "白川郷の雪景色と合掌造り集落",
-      "area": "岐阜県大野郡白川村・白川郷",
-      "date_info": "冬季・特に12月〜2月",
-      "post_text": "雪に包まれた合掌造りの家々が並ぶ、冬の白川郷へ。展望台から集落を見渡し、雪国ならではの暮らしと静かな景色に出会えます。防寒と足元の準備をして、幻想的な冬旅を。#白川郷 #岐阜旅行",
-      "source_url": "https://shirakawa-go.gr.jp/highlights/",
-      "source_title": "3分でわかる白川郷｜白川郷観光協会公式サイト",
+      "title": "ニセコのパウダースノーと温泉めぐり",
+      "area": "北海道虻田郡ニセコ町・ニセコアンヌプリ、ニセコ温泉郷周辺",
+      "date_info": "2026年12月〜2027年1月",
+      "post_text": "雪質を楽しむスキーやスノーボードはもちろん、滑った後の温泉とアプレスキーも冬のニセコの魅力。白銀の山景色と豊かな食を、ゆったり味わう旅へ。#ニセコ #北海道旅行",
+      "source_url": "https://www.nisekotourism.com/ja/more-to-niseko/travel",
+      "source_title": "まだ知らぬ、ニセコへ。｜ニセコリゾート観光協会",
       "pexels_queries": [
-        "Shirakawa-go Gifu Japan snowy traditional village"
+        "Niseko Hokkaido Japan snowy ski resort mountain winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-26/destination_1_1.png"
+        "generated_media/2026-11-27/destination_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-26/destination_1_1.png"
+          "path": "generated_media/2026-11-27/destination_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-26/destination_1_1.png",
-      "generated_date": "2026-11-26"
+      "image_path": "generated_media/2026-11-27/destination_1_1.png",
+      "generated_date": "2026-11-27"
     },
     {
       "slot": "upcoming_event_2",
       "category": "event",
-      "title": "酒処 鍋小屋 2027 supported by ダイショー",
-      "area": "神奈川県横浜市・横浜赤レンガ倉庫イベント広場",
-      "date_info": "2027年1月16日（土）〜1月31日（日）",
-      "post_text": "横浜赤レンガ倉庫に、冬の恒例イベント「鍋小屋 2027」が登場。全国各地の鍋料理とお酒を、港の雰囲気とともに味わえます。寒い季節こそ、熱々のご当地鍋を目当てに横浜へ。#横浜赤レンガ倉庫 #鍋小屋",
-      "source_url": "https://www.welcome.city.yokohama.jp/eventinfo/",
-      "source_title": "全てのイベント｜公式 横浜市観光情報サイト",
+      "title": "KOIWAI Winter Lights 銀河農場の夜",
+      "area": "岩手県岩手郡雫石町・小岩井農場",
+      "date_info": "2026年12月1日（火）〜2027年1月17日（日）",
+      "post_text": "小岩井農場の冬を彩る光のイベント。広大な牧場が幻想的なイルミネーションに包まれます。雪景色ときらめく夜を楽しむ、東北らしい冬のおでかけに。#岩手旅 #イルミネーション",
+      "source_url": "https://iwatetabi.jp/events/?month=2026-12",
+      "source_title": "イベント｜岩手県公式観光サイト「いわての旅」",
       "pexels_queries": [
-        "Yokohama Red Brick Warehouse Japan winter hot pot festival"
+        "Koiwai Farm Shizukuishi Iwate Japan winter illumination"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-26/upcoming_event_2_1.png"
+        "generated_media/2026-11-27/upcoming_event_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-26/upcoming_event_2_1.png"
+          "path": "generated_media/2026-11-27/upcoming_event_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-26/upcoming_event_2_1.png",
-      "generated_date": "2026-11-26"
+      "image_path": "generated_media/2026-11-27/upcoming_event_2_1.png",
+      "generated_date": "2026-11-27"
     },
     {
       "slot": "local_food_1",
       "category": "food",
-      "title": "まんばのけんちゃん",
-      "area": "香川県・讃岐地方の郷土料理店、食堂",
-      "date_info": "冬が旬・10月〜4月",
-      "post_text": "香川の冬に食べたい郷土料理、まんばのけんちゃん。旬の高菜「まんば」を豆腐や油揚げと煮た、素朴で滋味深い一皿です。うどんだけではない、讃岐の家庭の味を旅先で探してみて。#香川グルメ #郷土料理",
-      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/manbano_kenchan_kagawa.html",
-      "source_title": "まんばのけんちゃん 香川県｜農林水産省 うちの郷土料理",
+      "title": "ぶりしゃぶ",
+      "area": "富山県富山市・高岡市・氷見市など富山湾沿岸の料理店",
+      "date_info": "冬季が旬",
+      "post_text": "富山湾の寒ブリを、昆布だしにさっとくぐらせて味わうぶりしゃぶ。脂の甘みと身の上品な食感を楽しめる、冬の富山ならではのごちそうです。#富山グルメ #冬の味覚",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html",
+      "source_title": "冬｜うちの郷土料理：農林水産省",
       "pexels_queries": [
-        "Kagawa Japan Manba no Kenchan local home-style dish tofu mustard greens"
+        "Toyama Japan buri shabu hot pot winter cuisine"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-26/local_food_1_1.png"
+        "generated_media/2026-11-27/local_food_1_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-26/local_food_1_1.png"
+          "path": "generated_media/2026-11-27/local_food_1_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-26/local_food_1_1.png",
-      "generated_date": "2026-11-26"
+      "image_path": "generated_media/2026-11-27/local_food_1_1.png",
+      "generated_date": "2026-11-27"
     },
     {
       "slot": "destination_2",
       "category": "destination",
-      "title": "三十槌の氷柱と奥秩父の冬景色",
-      "area": "埼玉県秩父市大滝・三十槌の氷柱",
-      "date_info": "冬季・例年1月上旬〜2月下旬",
-      "post_text": "奥秩父の厳しい寒さが生み出す、三十槌の氷柱へ。岩肌から垂れ下がる巨大な氷の造形は、冬だけ出会える自然のアートです。昼の青白い景色と、夜のライトアップを訪ねる小さな旅に。#秩父 #冬旅",
-      "source_url": "https://icicles.woodroof.jp/guide/",
-      "source_title": "ご案内｜秩父 三十槌の氷柱",
+      "title": "指宿温泉と冬の砂むし温泉",
+      "area": "鹿児島県指宿市・指宿温泉、砂むし会館砂楽周辺",
+      "date_info": "2026年12月〜2027年1月",
+      "post_text": "冬の鹿児島旅は、指宿の砂むし温泉でじんわり温まる時間を。海を望む温泉街や南国らしい風景も楽しめ、寒い季節のリフレッシュ旅にぴったりです。#指宿 #鹿児島旅行",
+      "source_url": "https://www.jtb.co.jp/season/winter/",
+      "source_title": "冬の旅行におすすめ！国内旅行特集 2026-2027｜JTB",
       "pexels_queries": [
-        "Misotsuchi Icicles Chichibu Saitama Japan winter ice formations"
+        "Ibusuki Kagoshima Japan beach sand bath hot spring winter"
       ],
       "image_prompt": "",
       "image_paths": [
-        "generated_media/2026-11-26/destination_2_1.png"
+        "generated_media/2026-11-27/destination_2_1.png"
       ],
       "image_sources": [
         {
           "type": "ai",
-          "path": "generated_media/2026-11-26/destination_2_1.png"
+          "path": "generated_media/2026-11-27/destination_2_1.png"
         }
       ],
-      "image_path": "generated_media/2026-11-26/destination_2_1.png",
-      "generated_date": "2026-11-26"
+      "image_path": "generated_media/2026-11-27/destination_2_1.png",
+      "generated_date": "2026-11-27"
     }
   ]
 }

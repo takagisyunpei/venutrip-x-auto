@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-21",
-      "category": "event",
-      "title": "ACN presents 代々木フォレスト・オブ・ライツ～光の森～",
-      "area": "東京都渋谷区・代々木公園サイクリングコースエリア",
-      "source_url": "https://tickets.tbs.co.jp/yoyogiforestoflights2026/"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "destination",
-      "title": "香嵐渓の紅葉と足助の町並み",
-      "area": "愛知県豊田市・足助地区、香嵐渓",
-      "source_url": "https://www.aichinow.pref.aichi.jp/events/detail/131/"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "event",
-      "title": "永観堂（ライトアップ＆夜間特別拝観）",
-      "area": "京都府京都市左京区・永観堂禅林寺",
-      "source_url": "https://ja.kyoto.travel/event/single.php?event_id=5019"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "food",
-      "title": "山形の芋煮",
-      "area": "山形県山形市・村山地域を中心とする県内各地",
-      "source_url": "https://yamagatakanko.com/local-foods"
-    },
-    {
-      "date": "2026-10-21",
-      "category": "destination",
-      "title": "高野山の紅葉と壇上伽藍・奥之院めぐり",
-      "area": "和歌山県伊都郡高野町・高野山",
-      "source_url": "https://www.koyasan.or.jp/"
-    },
-    {
       "date": "2026-10-22",
       "category": "event",
       "title": "東山動植物園 もみじ狩り・紅葉ライトアップ",
@@ -1259,6 +1224,41 @@
       "title": "三十槌の氷柱と奥秩父の冬景色",
       "area": "埼玉県秩父市大滝・三十槌の氷柱",
       "source_url": "https://icicles.woodroof.jp/guide/"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "event",
+      "title": "春日若宮おん祭",
+      "area": "奈良県奈良市・春日大社、大宿所、奈良公園周辺",
+      "source_url": "https://narashikanko.or.jp/event/index.php?id=148&m=d"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "destination",
+      "title": "ニセコのパウダースノーと温泉めぐり",
+      "area": "北海道虻田郡ニセコ町・ニセコアンヌプリ、ニセコ温泉郷周辺",
+      "source_url": "https://www.nisekotourism.com/ja/more-to-niseko/travel"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "event",
+      "title": "KOIWAI Winter Lights 銀河農場の夜",
+      "area": "岩手県岩手郡雫石町・小岩井農場",
+      "source_url": "https://iwatetabi.jp/events/?month=2026-12"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "food",
+      "title": "ぶりしゃぶ",
+      "area": "富山県富山市・高岡市・氷見市など富山湾沿岸の料理店",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-27",
+      "category": "destination",
+      "title": "指宿温泉と冬の砂むし温泉",
+      "area": "鹿児島県指宿市・指宿温泉、砂むし会館砂楽周辺",
+      "source_url": "https://www.jtb.co.jp/season/winter/"
     }
   ]
 }
