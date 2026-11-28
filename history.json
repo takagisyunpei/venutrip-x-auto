@@ -1,41 +1,6 @@
 {
   "items": [
     {
-      "date": "2026-10-22",
-      "category": "event",
-      "title": "東山動植物園 もみじ狩り・紅葉ライトアップ",
-      "area": "愛知県名古屋市・東山動植物園 植物園",
-      "source_url": "https://www.city.nagoya.jp/houdou/3003942/3003949/3006040.html"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "destination",
-      "title": "奥津渓の紅葉と奥津温泉",
-      "area": "岡山県苫田郡鏡野町・奥津渓、奥津温泉",
-      "source_url": "https://www.okayama-kanko.jp/business/spot/detail_11712.html"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "event",
-      "title": "嵐山渓谷紅葉まつり",
-      "area": "埼玉県比企郡嵐山町・嵐山渓谷バーベキュー場",
-      "source_url": "https://www.ranzan-kanko.jp/autumnleavesevent"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "food",
-      "title": "ほうとう",
-      "area": "山梨県・甲府市、富士五湖周辺など県内各地",
-      "source_url": "https://www.yamanashi-kankou.jp/special/gourmet_hoto.html"
-    },
-    {
-      "date": "2026-10-22",
-      "category": "destination",
-      "title": "昇仙峡の紅葉と渓谷さんぽ",
-      "area": "山梨県甲府市・昇仙峡",
-      "source_url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4534.html"
-    },
-    {
       "date": "2026-10-23",
       "category": "event",
       "title": "嵐山渓谷紅葉まつり2026",
@@ -1259,6 +1224,41 @@
       "title": "指宿温泉と冬の砂むし温泉",
       "area": "鹿児島県指宿市・指宿温泉、砂むし会館砂楽周辺",
       "source_url": "https://www.jtb.co.jp/season/winter/"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "event",
+      "title": "イルミネーションin曽木の滝",
+      "area": "鹿児島県伊佐市・曽木の滝公園",
+      "source_url": "https://isa-kanko.com/event/illumination2026/"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "destination",
+      "title": "石垣島の冬の透明な海と星空",
+      "area": "沖縄県石垣市・石垣島周辺",
+      "source_url": "https://www.okinawastory.jp/about/calendar"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "event",
+      "title": "栃尾温泉洞谷雪桜ライトアップ 奥飛騨冬物語",
+      "area": "岐阜県高山市・奥飛騨温泉郷栃尾温泉洞谷",
+      "source_url": "https://okuhida.or.jp/p/experience/horadaniwinter/"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "food",
+      "title": "せいこがに料理",
+      "area": "福井県・越前海岸、福井市、越前市周辺",
+      "source_url": "https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/season/winter.html"
+    },
+    {
+      "date": "2026-11-28",
+      "category": "destination",
+      "title": "遠野の冬とひっつみ・遠野ラムしゃぶの旅",
+      "area": "岩手県遠野市・遠野盆地、遠野駅周辺",
+      "source_url": "https://tonojikan.jp/feature/2026-winter-tour/"
     }
   ]
 }
